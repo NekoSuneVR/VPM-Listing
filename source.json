@@ -1,18 +1,19 @@
 {
-    "name": "Public Assets",
-    "id": "co.uk.nekosunevr.listing",
-    "url": "https://vrc-vpm-packages.nekosunevr.co.uk/index.json",
-    "author": {
-        "email": "Need help? Click to join my discord server.",
-        "name": "NekoSuneVR",
-        "url": "https://discord.gg/w8ddMqjfJ2"
+    "name":"NekoSuneVR's VPM Packages",
+    "id":"co.uk.nekosunevr.listing",
+    "url":"https://nekosunevr.github.io/VPM-Listing/index.json",
+    "author":{
+        "email":"Need help? Click to join my discord server.",
+        "name":"NekoSuneVR",
+        "url":"https://discord.gg/w8ddMqjfJ2"
     },
-    "description": "Listing for all publicly distributed assets.",
-    "infoLink": {
-        "url": "https://github.com/NekoSuneVR/vrc-vpm-packages.nekosunevr.co.uk",
-        "text": "Go to Repositories"
+    "description":"For use with the VRChat Creator Companion",
+    "infoLink":{
+        "url":"https://github.com/NekoSuneVR/VPM-Listing ",
+        "text":"Placeholder"
     },
-    "bannerUrl": "banner.png",
-    "githubRepos":[],
-    "packages": []
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+    ],
+    "packages":[]
 }
