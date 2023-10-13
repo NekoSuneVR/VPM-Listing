@@ -5373,6 +5373,66 @@
           "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
         }
       }
+    },
+    "dev.pokeyi.udontools": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.pokeyi.udontools",
+          "displayName": "Pokeyi's Udon Tools",
+          "version": "1.0.1",
+          "unity": "2019.4",
+          "description": "A collection of VRChat world-creation behaviours written with UdonSharp. Includes: Omni-Action, Animation Sync, Object Spawner, Player Tracking, Floater Sync, Surface Slide, Haptics Profile, Raycast Laser.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "^1.1.8"
+          },
+          "author": {
+            "name": "Pokeyi",
+            "url": "https://pokeyi.dev"
+          },
+          "documentationUrl": "https://github.com/Pokeyi/pokeyi.github.io#my-projects",
+          "hideInEditor": false,
+          "keywords": [
+            "Udon",
+            "World",
+            "Script"
+          ],
+          "license": "MIT",
+          "repo": "https://pokeyi.dev/vpm-packages/index.json",
+          "zipSHA256": "8a396dc561de9343454372dc355a10c51678f0c025c690698099723ecd69aaf2",
+          "url": "https://github.com/Pokeyi/vpm-packages/releases/download/v1.0.1/dev.pokeyi.udontools-1.0.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.0.0": {
+          "name": "dev.pokeyi.udontools",
+          "displayName": "Pokeyi's Udon Tools",
+          "version": "1.0.0",
+          "unity": "2019.4",
+          "description": "A collection of VRChat world-creation behaviours written with UdonSharp.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "^1.1.8"
+          },
+          "author": {
+            "name": "Pokeyi",
+            "url": "https://pokeyi.dev"
+          },
+          "documentationUrl": "https://github.com/Pokeyi/pokeyi.github.io#my-projects",
+          "hideInEditor": false,
+          "keywords": [
+            "Udon",
+            "World",
+            "Script"
+          ],
+          "license": "MIT",
+          "repo": "https://pokeyi.dev/vpm-packages/index.json",
+          "zipSHA256": "41895ba524fcb11b5f8ddc9d033ebeebdeaa2ed38f032c419a0d2247902d7d0a",
+          "url": "https://github.com/Pokeyi/vpm-packages/releases/download/v1.0.0/dev.pokeyi.udontools-1.0.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        }
+      }
     }
   }
 }
