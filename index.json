@@ -26,6 +26,84 @@
     },
     "dev.architech.protv": {
       "versions": {
+        "3.0.0-beta.6.1": {
+          "name": "dev.architech.protv",
+          "displayName": "ArchiTech.ProTV",
+          "version": "3.0.0-beta.6.1",
+          "unity": "2019.4",
+          "description": "A feature-rich, extensible media and video player system for VRChat.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3",
+            "dev.architech.sdk": "^0.12"
+          },
+          "samples": [
+            {
+              "displayName": "ProTV Showcase Demo",
+              "description": "Various pre-made TV setups for different use-cases.",
+              "path": "Samples/ProTV Showcase"
+            }
+          ],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "keywords": [
+            "protv",
+            "udon",
+            "video player"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "9eed70c2e7d4f4167cb1385c19e9c6dd46f7c733f0b5891cef8f29a19499e041",
+          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.6.1/downloads/package",
+          "legacyFolders": {
+            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
+          },
+          "legacyFiles": {
+            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
+          }
+        },
+        "3.0.0-beta.6": {
+          "name": "dev.architech.protv",
+          "displayName": "ArchiTech.ProTV",
+          "version": "3.0.0-beta.6",
+          "unity": "2019.4",
+          "description": "A feature-rich, extensible media and video player system for VRChat.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3",
+            "dev.architech.sdk": "~0.12"
+          },
+          "samples": [
+            {
+              "displayName": "ProTV Showcase Demo",
+              "description": "Various pre-made TV setups for different use-cases.",
+              "path": "Samples/ProTV Showcase"
+            }
+          ],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "keywords": [
+            "protv",
+            "udon",
+            "video player"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "edcd51c24b7b48e2cedb06d0d5a2e5f138dc13835caad68ccbdf986b96038223",
+          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.6/downloads/package",
+          "legacyFolders": {
+            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
+          },
+          "legacyFiles": {
+            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
+          }
+        },
         "3.0.0-beta.5.1": {
           "name": "dev.architech.protv",
           "displayName": "ArchiTech.ProTV",
@@ -297,6 +375,24 @@
     },
     "dev.architech.umbrella": {
       "versions": {
+        "0.5.1": {
+          "name": "dev.architech.umbrella",
+          "displayName": "ArchiTech.Umbrella",
+          "version": "0.5.1",
+          "unity": "2019.4",
+          "description": "A library of gimmicks, mechanics and tools that improves interactivity of worlds.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3",
+            "dev.architech.sdk": "^0.12"
+          },
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "12cd36ae8baab9d4350fb2fc10697e255ccfdba78a914e20c87139136910a9a9",
+          "url": "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.5.1/downloads/package"
+        },
         "0.5.0": {
           "name": "dev.architech.umbrella",
           "displayName": "ArchiTech.Umbrella",
@@ -414,6 +510,23 @@
     },
     "dev.architech.sdk": {
       "versions": {
+        "0.12.0": {
+          "name": "dev.architech.sdk",
+          "displayName": "ArchiTech.SDK",
+          "version": "0.12.0",
+          "unity": "2019.4",
+          "description": "Library of common functionality used across all of the ArchiTech assets.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4"
+          },
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "967259a9d11c0c626a317897dae2bbfb07ab6e0e81b8833f412f708d41112cdb",
+          "url": "https://gitlab.com/techanon/architech-sdk/-/releases/v0.12.0/downloads/package"
+        },
         "0.11.0": {
           "name": "dev.architech.sdk",
           "displayName": "ArchiTech.SDK",
