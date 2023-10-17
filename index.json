@@ -26,6 +26,84 @@
     },
     "dev.architech.protv": {
       "versions": {
+        "3.0.0-beta.6.3": {
+          "name": "dev.architech.protv",
+          "displayName": "ArchiTech.ProTV",
+          "version": "3.0.0-beta.6.3",
+          "unity": "2019.4",
+          "description": "A feature-rich, extensible media and video player system for VRChat.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3",
+            "dev.architech.sdk": "^0.12"
+          },
+          "samples": [
+            {
+              "displayName": "ProTV Showcase Demo",
+              "description": "Various pre-made TV setups for different use-cases.",
+              "path": "Samples/ProTV Showcase"
+            }
+          ],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "keywords": [
+            "protv",
+            "udon",
+            "video player"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "be8bc65c519a364755789aabe93080f5793bd6e89358782354977c15bfd4bd27",
+          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.6.3/downloads/package",
+          "legacyFolders": {
+            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
+          },
+          "legacyFiles": {
+            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
+          }
+        },
+        "3.0.0-beta.6.2": {
+          "name": "dev.architech.protv",
+          "displayName": "ArchiTech.ProTV",
+          "version": "3.0.0-beta.6.2",
+          "unity": "2019.4",
+          "description": "A feature-rich, extensible media and video player system for VRChat.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3",
+            "dev.architech.sdk": "^0.12"
+          },
+          "samples": [
+            {
+              "displayName": "ProTV Showcase Demo",
+              "description": "Various pre-made TV setups for different use-cases.",
+              "path": "Samples/ProTV Showcase"
+            }
+          ],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "keywords": [
+            "protv",
+            "udon",
+            "video player"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "a89460387dbca1b6e7db936a77625a92b1d63ead8f2fb734336f288ac5d4268b",
+          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.6.2/downloads/package",
+          "legacyFolders": {
+            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
+          },
+          "legacyFiles": {
+            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
+          }
+        },
         "3.0.0-beta.6.1": {
           "name": "dev.architech.protv",
           "displayName": "ArchiTech.ProTV",
@@ -1969,6 +2047,17 @@
     },
     "com.vrcfury.vrcfury": {
       "versions": {
+        "1.472.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.472.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.472.0/com.vrcfury.vrcfury-1.472.0-vcc.zip"
+        },
         "1.471.0": {
           "name": "com.vrcfury.vrcfury",
           "displayName": "VRCFury",
