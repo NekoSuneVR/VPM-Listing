@@ -6055,6 +6055,82 @@
           }
         }
       }
+    },
+    "com.cyan.playerobjectpool": {
+      "versions": {
+        "1.1.2": {
+          "name": "com.cyan.playerobjectpool",
+          "displayName": "Cyan Player Object Pool",
+          "version": "1.1.2",
+          "unity": "2019.4",
+          "description": "A VRChat system that will assign a unique object to every player in the world.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.1.x",
+            "com.vrchat.udonsharp": "^1.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "UdonGraph Examples",
+              "description": "",
+              "path": "Examples~/UdonGraph"
+            },
+            {
+              "displayName": "UdonSharp Examples",
+              "description": "",
+              "path": "Examples~/UdonSharp"
+            },
+            {
+              "displayName": "CyanTrigger Examples",
+              "description": "",
+              "path": "Examples~/CyanTrigger"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "c248cef049a25349319c344d1966d0d2a3fd6cfa30f699a5ec4462e83524e699",
+          "url": "https://github.com/CyanLaser/CyanPlayerObjectPool/releases/download/v1.1.2/com.cyan.playerobjectpool-1.1.2.zip",
+          "legacyFolders": {
+            "Assets\\Cyan\\PlayerObjectPool": "b8de48290350821488f80da1d1c22556"
+          }
+        },
+        "1.1.1": {
+          "name": "com.cyan.playerobjectpool",
+          "displayName": "Cyan Player Object Pool",
+          "version": "1.1.1",
+          "unity": "2019.4",
+          "description": "A VRChat system that will assign a unique object to every player in the world.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.1.x",
+            "com.vrchat.udonsharp": "1.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "UdonGraph Examples",
+              "description": "",
+              "path": "Examples~/UdonGraph"
+            },
+            {
+              "displayName": "UdonSharp Examples",
+              "description": "",
+              "path": "Examples~/UdonSharp"
+            },
+            {
+              "displayName": "CyanTrigger Examples",
+              "description": "",
+              "path": "Examples~/CyanTrigger"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "5c15c445a2f9b74113f527a2485edd3bc420147b21fc6a1928f6575d600a94ce",
+          "url": "https://github.com/CyanLaser/CyanPlayerObjectPool/releases/download/v1.1.1/com.cyan.playerobjectpool.zip",
+          "legacyFolders": {
+            "Assets\\Cyan\\PlayerObjectPool": "b8de48290350821488f80da1d1c22556"
+          }
+        }
+      }
     }
   }
 }
