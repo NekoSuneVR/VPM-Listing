@@ -6798,6 +6798,65 @@
           }
         }
       }
+    },
+    "com.github.kurotu.krt-material-tools": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.github.kurotu.krt-material-tools",
+          "displayName": "KRT Material Tools",
+          "version": "1.0.0",
+          "unity": "2019.4",
+          "description": "Small tools to manipulate materials",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "3.0.2"
+          },
+          "author": {
+            "name": "kurotu"
+          },
+          "license": "MIT",
+          "zipSHA256": "d6633dd2fda2280b2618a0f15a858505b0a99962da745d1519ddd8ba2e7b0f39",
+          "url": "https://github.com/kurotu/krt-material-tools/releases/download/1.0.0/com.github.kurotu.krt-material-tools-1.0.0.zip",
+          "legacyFolders": {
+            "Assets\\KRT\\MaterialReplacer": ""
+          },
+          "legacyPackages": [
+            "com.github.kurotu.material-replacer"
+          ]
+        },
+        "0.0.1-alpha.2": {
+          "name": "com.github.kurotu.krt-material-tools",
+          "displayName": "KRT Material Tools",
+          "version": "0.0.1-alpha.2",
+          "unity": "2019.4",
+          "description": "Small tools to manipulate materials",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "3.0.2"
+          },
+          "author": {
+            "name": "kurotu"
+          },
+          "license": "MIT",
+          "zipSHA256": "305031618571f7fe0ceda993a0b66ce03b581de2c3c9c38f8c26602fe83db4af",
+          "url": "https://github.com/kurotu/krt-material-tools/releases/download/0.0.1-alpha.2/com.github.kurotu.krt-material-tools-0.0.1-alpha.2.zip",
+          "legacyFolders": {
+            "Assets\\KRT\\MaterialReplacer": ""
+          },
+          "legacyPackages": [
+            "com.github.kurotu.material-replacer"
+          ]
+        },
+        "0.0.1-alpha.1": {
+          "name": "com.github.kurotu.krt-material-tools",
+          "displayName": "KRT Material Tools",
+          "version": "0.0.1-alpha.1",
+          "description": "Small tools to manipulate materials",
+          "author": {
+            "name": "kurotu"
+          },
+          "zipSHA256": "9678963f5f220766bb52ec4a9e269cb66ea0f0f849b0c2ed4813b14839e3e56a",
+          "url": "https://github.com/kurotu/krt-material-tools/releases/download/0.0.1-alpha.1/com.github.kurotu.krt-material-tools-0.0.1-alpha.1.zip"
+        }
+      }
     }
   }
 }
