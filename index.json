@@ -2303,6 +2303,72 @@
     },
     "com.vrcfury.vrcfury": {
       "versions": {
+        "1.517.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.517.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.517.0/com.vrcfury.vrcfury-1.517.0-vcc.zip"
+        },
+        "1.516.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.516.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.516.0/com.vrcfury.vrcfury-1.516.0-vcc.zip"
+        },
+        "1.515.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.515.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.515.0/com.vrcfury.vrcfury-1.515.0-vcc.zip"
+        },
+        "1.514.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.514.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.514.0/com.vrcfury.vrcfury-1.514.0-vcc.zip"
+        },
+        "1.513.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.513.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.513.0/com.vrcfury.vrcfury-1.513.0-vcc.zip"
+        },
+        "1.512.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.512.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.512.0/com.vrcfury.vrcfury-1.512.0-vcc.zip"
+        },
         "1.511.0": {
           "name": "com.vrcfury.vrcfury",
           "displayName": "VRCFury",
