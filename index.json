@@ -1078,6 +1078,28 @@
     },
     "at.pimaker.animatorasvisual": {
       "versions": {
+        "1.3.0": {
+          "name": "at.pimaker.animatorasvisual",
+          "displayName": "Animator as Visual",
+          "version": "1.3.0",
+          "unity": "2019.4",
+          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.x",
+            "vrchat.blackstartx.gesture-manager": "3.8.x",
+            "hai.animatorascode.pi": "1.x"
+          },
+          "author": {
+            "name": "_pi_",
+            "email": "pi+vpm@pimaker.at",
+            "url": "https://github.com/pimaker"
+          },
+          "zipSHA256": "bcf84792a7cbf85ce92e8ac2b2b123b5242643b33193bd95723f82dcfeab5698",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.3.0.zip?",
+          "legacyFolders": {
+            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
+          }
+        },
         "1.2.1": {
           "name": "at.pimaker.animatorasvisual",
           "displayName": "Animator as Visual",
@@ -2368,6 +2390,28 @@
     },
     "com.vrcfury.vrcfury": {
       "versions": {
+        "1.519.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.519.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.519.0/com.vrcfury.vrcfury-1.519.0-vcc.zip"
+        },
+        "1.518.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.518.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.518.0/com.vrcfury.vrcfury-1.518.0-vcc.zip"
+        },
         "1.517.0": {
           "name": "com.vrcfury.vrcfury",
           "displayName": "VRCFury",
@@ -6691,6 +6735,21 @@
     },
     "com.github.kurotu.material-replacer": {
       "versions": {
+        "1.2.0": {
+          "name": "com.github.kurotu.material-replacer",
+          "version": "1.2.0",
+          "displayName": "Material Replacer",
+          "description": "Editor extension to replace materials at once",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "vpmDependencies": {},
+          "url": "https://github.com/kurotu/MaterialReplacer/releases/download/v1.2.0/com.github.kurotu.material-replacer-1.2.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\MaterialReplacer": ""
+          }
+        },
         "1.1.1": {
           "name": "com.github.kurotu.material-replacer",
           "version": "1.1.1",
