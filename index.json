@@ -657,6 +657,32 @@
     },
     "dev.architech.protv.extras": {
       "versions": {
+        "0.7.1-beta": {
+          "name": "dev.architech.protv.extras",
+          "displayName": "ArchiTech.ProTV.Extras",
+          "version": "0.7.1-beta",
+          "unity": "2019.4",
+          "description": "A community collection of various scripts, prefabs and themes for ProTV.",
+          "vpmDependencies": {
+            "dev.architech.protv": "^3.0.0-beta.1"
+          },
+          "samples": [],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "keywords": [
+            "protv",
+            "skins",
+            "udon",
+            "video player"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "7a48cc126be589b741ab94eec1cf594f246445ab53cd203ea85c028117318078",
+          "url": "https://gitlab.com/techanon/protv-extras/-/releases/v0.7.1-beta/downloads/package",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
         "0.7.0-beta": {
           "name": "dev.architech.protv.extras",
           "displayName": "ArchiTech.ProTV.Extras",
@@ -2477,6 +2503,78 @@
     },
     "com.vrcfury.vrcfury": {
       "versions": {
+        "1.566.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.566.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.566.0/com.vrcfury.vrcfury-1.566.0-vcc.zip"
+        },
+        "1.565.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.565.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.565.0/com.vrcfury.vrcfury-1.565.0-vcc.zip"
+        },
+        "1.564.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.564.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.564.0/com.vrcfury.vrcfury-1.564.0-vcc.zip"
+        },
+        "1.563.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.563.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.563.0/com.vrcfury.vrcfury-1.563.0-vcc.zip"
+        },
+        "1.562.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.562.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.562.0/com.vrcfury.vrcfury-1.562.0-vcc.zip"
+        },
+        "1.561.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.561.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.561.0/com.vrcfury.vrcfury-1.561.0-vcc.zip"
+        },
         "1.560.0": {
           "name": "com.vrcfury.vrcfury",
           "displayName": "VRCFury",
