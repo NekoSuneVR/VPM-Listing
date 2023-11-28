@@ -26,6 +26,39 @@
     },
     "dev.architech.protv": {
       "versions": {
+        "3.0.0-beta.10": {
+          "name": "dev.architech.protv",
+          "displayName": "ArchiTech.ProTV",
+          "version": "3.0.0-beta.10",
+          "unity": "2019.4",
+          "description": "A feature-rich, extensible media and video player system for VRChat.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3",
+            "dev.architech.sdk": "^0.14"
+          },
+          "samples": [],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "keywords": [
+            "protv",
+            "udon",
+            "video player"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "bf60a8534db2ba95db2953c383ef393521d6de12230465af8b79b9504ef57d89",
+          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10/downloads/package",
+          "legacyFolders": {
+            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
+          },
+          "legacyFiles": {
+            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
+          }
+        },
         "3.0.0-beta.9.4": {
           "name": "dev.architech.protv",
           "displayName": "ArchiTech.ProTV",
@@ -765,6 +798,24 @@
     },
     "dev.architech.umbrella": {
       "versions": {
+        "0.5.3": {
+          "name": "dev.architech.umbrella",
+          "displayName": "ArchiTech.Umbrella",
+          "version": "0.5.3",
+          "unity": "2019.4",
+          "description": "A library of gimmicks, mechanics and tools that improves interactivity of worlds.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3",
+            "dev.architech.sdk": "^0.14"
+          },
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "294e49c9a708a2cb820d06fd9868f29804e2a5e5df42d0e5b664ef42ed43e22b",
+          "url": "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.5.3/downloads/package"
+        },
         "0.5.2": {
           "name": "dev.architech.umbrella",
           "displayName": "ArchiTech.Umbrella",
@@ -918,6 +969,23 @@
     },
     "dev.architech.sdk": {
       "versions": {
+        "0.14.0": {
+          "name": "dev.architech.sdk",
+          "displayName": "ArchiTech.SDK",
+          "version": "0.14.0",
+          "unity": "2019.4",
+          "description": "Library of common functionality used across all of the ArchiTech assets.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4"
+          },
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "b36f97b27de370bd8372301143012323c4043f0de0e04d67b560e7b77543b413",
+          "url": "https://gitlab.com/techanon/architech-sdk/-/releases/v0.14.0/downloads/package"
+        },
         "0.13.0": {
           "name": "dev.architech.sdk",
           "displayName": "ArchiTech.SDK",
