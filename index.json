@@ -2265,6 +2265,26 @@
     },
     "sh.orels.shaders.generator": {
       "versions": {
+        "6.3.0": {
+          "name": "sh.orels.shaders.generator",
+          "displayName": "ORL Shader Generator",
+          "version": "6.3.0",
+          "unity": "2019.4",
+          "description": "A template-based shader generator utilizing scripted importers",
+          "author": {
+            "name": "orels1",
+            "url": "https://github.com/orels1"
+          },
+          "documentationUrl": "https://shaders.orels.sh/docs/development",
+          "keywords": [
+            "shaders",
+            "generator",
+            "editor script"
+          ],
+          "license": "MIT",
+          "zipSHA256": "82f8dba66da87457328ec9fd384a759477eec29d6a2ae272565536ce0629b086",
+          "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v6.3.0/sh.orels.shaders.generator-6.3.0.zip"
+        },
         "6.2.1": {
           "name": "sh.orels.shaders.generator",
           "displayName": "ORL Shader Generator",
@@ -2389,6 +2409,29 @@
     },
     "sh.orels.shaders.inspector": {
       "versions": {
+        "6.3.0": {
+          "name": "sh.orels.shaders.inspector",
+          "displayName": "ORL Shader Inspector",
+          "version": "6.3.0",
+          "unity": "2019.4",
+          "description": "A simple property-based shader inspector with extension support",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "orels1",
+            "url": "https://github.com/orels1"
+          },
+          "documentationUrl": "https://shaders.orels.sh",
+          "keywords": [
+            "shaders",
+            "inspector",
+            "editor script"
+          ],
+          "license": "MIT",
+          "zipSHA256": "6a448c4c56522d93742584e9da5cf073c3011bc9a56496ac6fa55738dd254ca6",
+          "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v6.3.0/sh.orels.shaders.inspector-6.3.0.zip"
+        },
         "6.2.1": {
           "name": "sh.orels.shaders.inspector",
           "displayName": "ORL Shader Inspector",
@@ -2513,6 +2556,30 @@
     },
     "sh.orels.shaders": {
       "versions": {
+        "6.3.0": {
+          "name": "sh.orels.shaders",
+          "displayName": "ORL Shaders",
+          "version": "6.3.0",
+          "unity": "2019.4",
+          "description": "PBR Unity shaders for the Built-In pipeline built with ORL Shader Generator",
+          "vpmDependencies": {
+            "sh.orels.shaders.generator": "^6.3.0",
+            "sh.orels.shaders.inspector": "^6.3.0"
+          },
+          "author": {
+            "name": "orels1",
+            "url": "https://github.com/orels1"
+          },
+          "documentationUrl": "https://shaders.orels.sh/docs/",
+          "keywords": [
+            "shaders",
+            "pbr",
+            "vfx"
+          ],
+          "license": "MIT",
+          "zipSHA256": "8ba984e398204ff5df4cddd5207e17784c2321497811e8d1e0e739ca8f265304",
+          "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v6.3.0/sh.orels.shaders-6.3.0.zip"
+        },
         "6.2.0": {
           "name": "sh.orels.shaders",
           "displayName": "ORL Shaders",
@@ -7974,6 +8041,26 @@
     },
     "com.github.kurotu.vrc-quest-tools": {
       "versions": {
+        "1.13.5": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.13.5",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.13.5/com.github.kurotu.vrc-quest-tools-1.13.5.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
         "1.13.4": {
           "name": "com.github.kurotu.vrc-quest-tools",
           "version": "1.13.4",
