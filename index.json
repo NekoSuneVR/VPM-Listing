@@ -26,6 +26,74 @@
     },
     "dev.architech.protv": {
       "versions": {
+        "3.0.0-beta.10.5": {
+          "name": "dev.architech.protv",
+          "displayName": "ArchiTech.ProTV",
+          "version": "3.0.0-beta.10.5",
+          "unity": "2019.4",
+          "description": "A feature-rich, extensible media and video player system for VRChat.",
+          "vpmDependencies": {
+            "com.vrchat.core.vpm-resolver": "^0.1.27",
+            "com.vrchat.worlds": "^3.3",
+            "dev.architech.sdk": "^0.14"
+          },
+          "samples": [],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "keywords": [
+            "protv",
+            "udon",
+            "video player"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "4baec47449a7fdeed6e1e61197b2b998dc308ae9ec7da08d9fc01403a66323ea",
+          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.5/downloads/package",
+          "legacyFolders": {
+            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
+          },
+          "legacyFiles": {
+            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
+          }
+        },
+        "3.0.0-beta.10.4": {
+          "name": "dev.architech.protv",
+          "displayName": "ArchiTech.ProTV",
+          "version": "3.0.0-beta.10.4",
+          "unity": "2019.4",
+          "description": "A feature-rich, extensible media and video player system for VRChat.",
+          "vpmDependencies": {
+            "com.vrchat.core.vpm-resolver": "^0.1.27",
+            "com.vrchat.worlds": "^3.3",
+            "dev.architech.sdk": "^0.14"
+          },
+          "samples": [],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "keywords": [
+            "protv",
+            "udon",
+            "video player"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "156c614b5107c70f333815bd79e716ee3f61c6019895269c2793c124f11f3bf0",
+          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.4/downloads/package",
+          "legacyFolders": {
+            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
+          },
+          "legacyFiles": {
+            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
+          }
+        },
         "3.0.0-beta.10.3": {
           "name": "dev.architech.protv",
           "displayName": "ArchiTech.ProTV",
@@ -1068,6 +1136,23 @@
     },
     "dev.architech.sdk": {
       "versions": {
+        "0.14.1": {
+          "name": "dev.architech.sdk",
+          "displayName": "ArchiTech.SDK",
+          "version": "0.14.1",
+          "unity": "2019.4",
+          "description": "Library of common functionality used across all of the ArchiTech assets.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4"
+          },
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "6155c689ae4bf00e0ab2377b949287a88123bf61b60fbce52471d210dfc98825",
+          "url": "https://gitlab.com/techanon/architech-sdk/-/releases/v0.14.1/downloads/package"
+        },
         "0.14.0": {
           "name": "dev.architech.sdk",
           "displayName": "ArchiTech.SDK",
@@ -9089,6 +9174,38 @@
           "legacyFolders": {
             "Assets\\CyanTriggerSDK2Migrator": ""
           }
+        }
+      }
+    },
+    "dev.architech.videoplayershim": {
+      "versions": {
+        "1.1.0": {
+          "name": "dev.architech.videoplayershim",
+          "displayName": "ArchiTech.VideoPlayerShim",
+          "version": "1.1.0",
+          "unity": "2019.4",
+          "description": "An out-of-the-box utility for enabling both UnityVideo and AVProVideo playback in-editor for the VRChat SDK.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3"
+          },
+          "samples": [],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "keywords": [
+            "video player",
+            "unity",
+            "avpro",
+            "utility"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "66066115d0a1d411c03099ddc596bcf175fa43e4cc99aef7ca291906901133ee",
+          "url": "https://gitlab.com/techanon/videoplayershim/-/releases/v1.1.0/downloads/package",
+          "legacyFolders": {
+            "Assets\\ArchiTech\\VideoPlayerShim": "e24998e4ae4c4761b42513fe1142a7c5"
+          },
+          "legacyFiles": {}
         }
       }
     }
