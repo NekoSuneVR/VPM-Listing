@@ -1431,6 +1431,25 @@
     },
     "io.github.rurre.editor-screenshot": {
       "versions": {
+        "1.1.3": {
+          "name": "io.github.rurre.editor-screenshot",
+          "displayName": "Editor Screenshot",
+          "version": "1.1.3",
+          "unity": "2019.4",
+          "description": "An editor tool for taking transparent screenshots in the editor.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Pumkin"
+          },
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "89b4e3ea89faa8a0fe180b541c701fd9487abceafa907b06eee6b38d477a07eb",
+          "url": "https://github.com/rurre/Editor-Screenshot/releases/download/1.1.3/io.github.rurre.editor-screenshot-1.1.3.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "localPath": ".\\Packages\\io.github.rurre.editor-screenshot"
+        },
         "1.1.2": {
           "name": "io.github.rurre.editor-screenshot",
           "displayName": "Editor Screenshot",
@@ -2941,6 +2960,26 @@
     },
     "com.vrcfury.vrcfury": {
       "versions": {
+        "1.659.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.659.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.659.0/com.vrcfury.vrcfury-1.659.0-vcc.zip"
+        },
         "1.658.0": {
           "name": "com.vrcfury.vrcfury",
           "displayName": "VRCFury",
