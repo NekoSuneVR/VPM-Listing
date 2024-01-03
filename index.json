@@ -1033,6 +1033,24 @@
     },
     "dev.architech.umbrella": {
       "versions": {
+        "0.6.0": {
+          "name": "dev.architech.umbrella",
+          "displayName": "ArchiTech.Umbrella",
+          "version": "0.6.0",
+          "unity": "2019.4",
+          "description": "A library of gimmicks, mechanics and tools that improves interactivity of worlds.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3",
+            "dev.architech.sdk": "^0.15"
+          },
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "e80637fc26cc0b2d90baa3540362072f6a7183c68d104770b803257418cc865a",
+          "url": "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.6.0/downloads/package"
+        },
         "0.5.3": {
           "name": "dev.architech.umbrella",
           "displayName": "ArchiTech.Umbrella",
@@ -1204,6 +1222,23 @@
     },
     "dev.architech.sdk": {
       "versions": {
+        "0.15.0": {
+          "name": "dev.architech.sdk",
+          "displayName": "ArchiTech.SDK",
+          "version": "0.15.0",
+          "unity": "2019.4",
+          "description": "Library of common functionality used across all of the ArchiTech assets.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4"
+          },
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "fcade754f160740a45ca88a8c6cc1b5d6d8b406e525415dd0770a6d02393e870",
+          "url": "https://gitlab.com/techanon/architech-sdk/-/releases/v0.15.0/downloads/package"
+        },
         "0.14.1": {
           "name": "dev.architech.sdk",
           "displayName": "ArchiTech.SDK",
