@@ -1568,6 +1568,24 @@
     },
     "io.github.rurre.editor-screenshot": {
       "versions": {
+        "1.1.4": {
+          "name": "io.github.rurre.editor-screenshot",
+          "displayName": "Editor Screenshot",
+          "version": "1.1.4",
+          "unity": "2019.4",
+          "description": "An editor tool for taking transparent screenshots in the editor.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Pumkin"
+          },
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "ca3650289aba13a0f32247dbe2cfcd9fbcd1e2c7b1bb5237022a68b1ef939cfb",
+          "url": "https://github.com/rurre/Editor-Screenshot/releases/download/1.1.4/io.github.rurre.editor-screenshot-1.1.4.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
         "1.1.3": {
           "name": "io.github.rurre.editor-screenshot",
           "displayName": "Editor Screenshot",
@@ -2658,6 +2676,30 @@
     },
     "sh.orels.shaders": {
       "versions": {
+        "6.4.0-dev.1": {
+          "name": "sh.orels.shaders",
+          "displayName": "ORL Shaders",
+          "version": "6.4.0-dev.1",
+          "unity": "2019.4",
+          "description": "PBR Unity shaders for the Built-In pipeline built with ORL Shader Generator",
+          "vpmDependencies": {
+            "sh.orels.shaders.generator": "^6.4.0-dev.1",
+            "sh.orels.shaders.inspector": "^6.4.0-dev.1"
+          },
+          "author": {
+            "name": "orels1",
+            "url": "https://github.com/orels1"
+          },
+          "documentationUrl": "https://shaders.orels.sh/docs/",
+          "keywords": [
+            "shaders",
+            "pbr",
+            "vfx"
+          ],
+          "license": "MIT",
+          "zipSHA256": "c1bb5495c9363c78cf0d9dc268968eba4c4721db7832a10e5803eab7f83f5216",
+          "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/sh.orels.shaders%40v6.4.0-dev.1/sh.orels.shaders-6.4.0-dev.1.zip"
+        },
         "6.3.0": {
           "name": "sh.orels.shaders",
           "displayName": "ORL Shaders",
@@ -2806,6 +2848,46 @@
     },
     "sh.orels.shaders.generator": {
       "versions": {
+        "6.4.0-dev.2": {
+          "name": "sh.orels.shaders.generator",
+          "displayName": "ORL Shader Generator",
+          "version": "6.4.0-dev.2",
+          "unity": "2019.4",
+          "description": "A template-based shader generator utilizing scripted importers",
+          "author": {
+            "name": "orels1",
+            "url": "https://github.com/orels1"
+          },
+          "documentationUrl": "https://shaders.orels.sh/docs/development",
+          "keywords": [
+            "shaders",
+            "generator",
+            "editor script"
+          ],
+          "license": "MIT",
+          "zipSHA256": "d3f5766a08c5ce7b6ab462ea089b341cc39626b3d217aa4b76529482db13ae87",
+          "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/sh.orels.shaders.generator%40v6.4.0-dev.2/sh.orels.shaders.generator-6.4.0-dev.2.zip"
+        },
+        "6.4.0-dev.1": {
+          "name": "sh.orels.shaders.generator",
+          "displayName": "ORL Shader Generator",
+          "version": "6.4.0-dev.1",
+          "unity": "2019.4",
+          "description": "A template-based shader generator utilizing scripted importers",
+          "author": {
+            "name": "orels1",
+            "url": "https://github.com/orels1"
+          },
+          "documentationUrl": "https://shaders.orels.sh/docs/development",
+          "keywords": [
+            "shaders",
+            "generator",
+            "editor script"
+          ],
+          "license": "MIT",
+          "zipSHA256": "e02ae9b0c16bee6a3d81281a73c9ab02bd37a615b38486eec2950a5cfdf9ce87",
+          "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/sh.orels.shaders.generator%40v6.4.0-dev.1/sh.orels.shaders.generator-6.4.0-dev.1.zip"
+        },
         "6.3.0": {
           "name": "sh.orels.shaders.generator",
           "displayName": "ORL Shader Generator",
@@ -2950,6 +3032,29 @@
     },
     "sh.orels.shaders.inspector": {
       "versions": {
+        "6.4.0-dev.1": {
+          "name": "sh.orels.shaders.inspector",
+          "displayName": "ORL Shader Inspector",
+          "version": "6.4.0-dev.1",
+          "unity": "2019.4",
+          "description": "A simple property-based shader inspector with extension support",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "orels1",
+            "url": "https://github.com/orels1"
+          },
+          "documentationUrl": "https://shaders.orels.sh",
+          "keywords": [
+            "shaders",
+            "inspector",
+            "editor script"
+          ],
+          "license": "MIT",
+          "zipSHA256": "8973fdfde0f4b575d05f07b4657edd39571c213a61dd8520667f0b94d6bcf67e",
+          "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/sh.orels.shaders.inspector%40v6.4.0-dev.1/sh.orels.shaders.inspector-6.4.0-dev.1.zip"
+        },
         "6.3.0": {
           "name": "sh.orels.shaders.inspector",
           "displayName": "ORL Shader Inspector",
@@ -3097,6 +3202,236 @@
     },
     "com.vrcfury.vrcfury": {
       "versions": {
+        "1.692.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.692.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.692.0/com.vrcfury.vrcfury-1.692.0-vcc.zip"
+        },
+        "1.691.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.691.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.691.0/com.vrcfury.vrcfury-1.691.0-vcc.zip"
+        },
+        "1.690.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.690.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.690.0/com.vrcfury.vrcfury-1.690.0-vcc.zip"
+        },
+        "1.689.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.689.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.689.0/com.vrcfury.vrcfury-1.689.0-vcc.zip"
+        },
+        "1.688.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.688.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.688.0/com.vrcfury.vrcfury-1.688.0-vcc.zip"
+        },
+        "1.687.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.687.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.687.0/com.vrcfury.vrcfury-1.687.0-vcc.zip"
+        },
+        "1.686.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.686.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.686.0/com.vrcfury.vrcfury-1.686.0-vcc.zip"
+        },
+        "1.685.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.685.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.685.0/com.vrcfury.vrcfury-1.685.0-vcc.zip"
+        },
+        "1.684.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.684.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.684.0/com.vrcfury.vrcfury-1.684.0-vcc.zip"
+        },
+        "1.683.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.683.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.683.0/com.vrcfury.vrcfury-1.683.0-vcc.zip"
+        },
         "1.682.0": {
           "name": "com.vrcfury.vrcfury",
           "displayName": "VRCFury",
