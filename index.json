@@ -3247,6 +3247,29 @@
     },
     "com.vrcfury.vrcfury": {
       "versions": {
+        "1.693.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.693.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.693.0/com.vrcfury.vrcfury-1.693.0-vcc.zip"
+        },
         "1.692.0": {
           "name": "com.vrcfury.vrcfury",
           "displayName": "VRCFury",
@@ -9696,6 +9719,27 @@
     },
     "jp.lilxyzw.liltoon": {
       "versions": {
+        "1.7.2": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "1.7.2",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2018.1",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Toon",
+            "Shader",
+            "Material"
+          ],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.2/jp.lilxyzw.liltoon-1.7.2.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          }
+        },
         "1.7.1": {
           "name": "jp.lilxyzw.liltoon",
           "version": "1.7.1",
