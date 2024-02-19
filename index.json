@@ -12711,6 +12711,23 @@
     },
     "com.chocopoi.vrc.dressingframework": {
       "versions": {
+        "2.0.0-beta.4": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "2.0.0-beta.4",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "5d212dbb5a6fa1ceee2af7adbee774bff1aa5e20c260cb1b2725dfba0ca02ea2",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/2.0.0-beta.4/com.chocopoi.vrc.dressingframework-2.0.0-beta.4.zip"
+        },
         "2.0.0-beta.3": {
           "name": "com.chocopoi.vrc.dressingframework",
           "displayName": "DressingFramework",
