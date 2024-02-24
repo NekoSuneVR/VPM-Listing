@@ -736,10 +736,10 @@
     },
     "dev.architech.umbrella": {
       "versions": {
-        "0.7.0": {
+        "0.7.1": {
           "name": "dev.architech.umbrella",
           "displayName": "ArchiTech.Umbrella",
-          "version": "0.7.0",
+          "version": "0.7.1",
           "unity": "2019.4",
           "description": "A library of gimmicks, mechanics and tools that improves interactivity of worlds.",
           "vpmDependencies": {
@@ -751,8 +751,8 @@
             "email": "archi@techanon.dev"
           },
           "unityRelease": "31f1",
-          "zipSHA256": "76eb4ba9f85bf68def8e3dc4aa6854cce16c56bf38d2b3a0c371cd8d5334d31e",
-          "url": "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.7.0/downloads/package"
+          "zipSHA256": "ca5aeec525a2e2da49fc7c71987a8fed8e13848e6c75982c0c9e461a488a07da",
+          "url": "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.7.1/downloads/package"
         },
         "0.6.0": {
           "name": "dev.architech.umbrella",
