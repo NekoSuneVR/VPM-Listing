@@ -2825,7 +2825,7 @@
             "vfx"
           ],
           "license": "MIT",
-          "zipSHA256": "a6dcf7753a80692ea30ecd5146164aa2cbb37c9933a420553aa16fbe3b73ed5e",
+          "zipSHA256": "76823b5f789299cd8fe592078aad4e40e8635c14a6b2f70e62026128635dcf1c",
           "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v6.4.0-dev.3/sh.orels.shaders-6.4.0-dev.3.zip"
         },
         "6.4.0-dev.1": {
@@ -3020,7 +3020,7 @@
             "editor script"
           ],
           "license": "MIT",
-          "zipSHA256": "92d213e3fed251cdf0ea06c0176c80c379006bc97b8d1c4b2ca82069b1255ce3",
+          "zipSHA256": "bb043dd422c98b2acd47abf6ab8df08653bb5b1ee2e9b4b3906279639912e252",
           "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v6.4.0-dev.3/sh.orels.shaders.inspector-6.4.0-dev.3.zip"
         },
         "6.4.0-dev.1": {
@@ -3210,7 +3210,7 @@
             "editor script"
           ],
           "license": "MIT",
-          "zipSHA256": "fb0a9a1ab847d4d5d5aca1173c1ce33572db603bfbe0b6a1e0ac8035555e20b9",
+          "zipSHA256": "1b813363154b1b465efded458c9786fc519b61c4520e9de5ff654542dbe12425",
           "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v6.4.0-dev.3/sh.orels.shaders.generator-6.4.0-dev.3.zip"
         },
         "6.4.0-dev.2": {
