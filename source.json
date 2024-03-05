@@ -13,7 +13,11 @@
     "text": "Go to Repositories"
   },
   "bannerUrl": "banner.png",
-  "githubRepos": [],
+  "githubRepos": [
+    [
+      "furality/vcc-furality-sylva-shader"
+    ]
+  ],
   "packages": [
     [
       {
