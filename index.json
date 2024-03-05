@@ -4,6 +4,450 @@
   "url": "https://vrc-vpm-packages.nekosunevr.co.uk/index.json",
   "id": "co.uk.nekosunevr.listing",
   "packages": {
+    "jp.lilxyzw.liltoon": {
+      "versions": {
+        "1.7.2": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "1.7.2",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2018.1",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Toon",
+            "Shader",
+            "Material"
+          ],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.2/jp.lilxyzw.liltoon-1.7.2.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          }
+        },
+        "1.7.1": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "1.7.1",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2018.1",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Toon",
+            "Shader",
+            "Material"
+          ],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.1/jp.lilxyzw.liltoon-1.7.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          }
+        },
+        "1.7.0": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "1.7.0",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2018.1",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Toon",
+            "Shader",
+            "Material"
+          ],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.0/jp.lilxyzw.liltoon-1.7.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          }
+        },
+        "1.6.0": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "1.6.0",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2018.1",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Toon",
+            "Shader",
+            "Material"
+          ],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.6.0/jp.lilxyzw.liltoon-1.6.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          }
+        },
+        "1.5.2": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "1.5.2",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2018.1",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Toon",
+            "Shader",
+            "Material"
+          ],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.2/jp.lilxyzw.liltoon-1.5.2.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          }
+        },
+        "1.5.1": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "1.5.1",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2018.1",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Toon",
+            "Shader",
+            "Material"
+          ],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.1/jp.lilxyzw.liltoon-1.5.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          }
+        },
+        "1.5.0": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "1.5.0",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2018.1",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Toon",
+            "Shader",
+            "Material"
+          ],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.0/jp.lilxyzw.liltoon-1.5.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          }
+        },
+        "1.4.1": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "1.4.1",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2018.1",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Toon",
+            "Shader",
+            "Material"
+          ],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.4.1/jp.lilxyzw.liltoon-1.4.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          }
+        },
+        "1.4.0": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "1.4.0",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2018.1",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Toon",
+            "Shader",
+            "Material"
+          ],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.4.0/jp.lilxyzw.liltoon-1.4.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          }
+        },
+        "1.3.7": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "1.3.7",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2018.1",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Toon",
+            "Shader",
+            "Material"
+          ],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.3.7/jp.lilxyzw.liltoon-1.3.7.zip?",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          }
+        }
+      }
+    },
+    "jp.lilxyzw.avatar-utils": {
+      "versions": {
+        "1.1.0": {
+          "name": "jp.lilxyzw.avatar-utils",
+          "version": "1.1.0",
+          "displayName": "lilAvatarUtils",
+          "description": "Utilities for avatar modification.",
+          "unity": "2019.4",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.1.0/jp.lilxyzw.avatar-utils-1.1.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+        },
+        "1.0.3": {
+          "name": "jp.lilxyzw.avatar-utils",
+          "version": "1.0.3",
+          "displayName": "lilAvatarUtils",
+          "description": "Utilities for avatar modification.",
+          "unity": "2019.4",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.3/jp.lilxyzw.avatar-utils-1.0.3.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+        },
+        "1.0.2": {
+          "name": "jp.lilxyzw.avatar-utils",
+          "version": "1.0.2",
+          "displayName": "lilAvatarUtils",
+          "description": "Utilities for avatar modification.",
+          "unity": "2019.4",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.2/jp.lilxyzw.avatar-utils-1.0.2.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+        },
+        "1.0.1": {
+          "name": "jp.lilxyzw.avatar-utils",
+          "version": "1.0.1",
+          "displayName": "lilAvatarUtils",
+          "description": "Utilities for avatar modification.",
+          "unity": "2019.4",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.1/jp.lilxyzw.avatar-utils-1.0.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+        },
+        "1.0.0": {
+          "name": "jp.lilxyzw.avatar-utils",
+          "version": "1.0.0",
+          "displayName": "lilAvatarUtils",
+          "description": "Utilities for avatar modification.",
+          "unity": "2019.4",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.0/jp.lilxyzw.avatar-utils-1.0.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+        }
+      }
+    },
+    "com.cyan.playerobjectpool": {
+      "versions": {
+        "1.1.2": {
+          "name": "com.cyan.playerobjectpool",
+          "displayName": "Cyan Player Object Pool",
+          "version": "1.1.2",
+          "unity": "2019.4",
+          "description": "A VRChat system that will assign a unique object to every player in the world.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.1.x",
+            "com.vrchat.udonsharp": "^1.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "UdonGraph Examples",
+              "description": "",
+              "path": "Examples~/UdonGraph"
+            },
+            {
+              "displayName": "UdonSharp Examples",
+              "description": "",
+              "path": "Examples~/UdonSharp"
+            },
+            {
+              "displayName": "CyanTrigger Examples",
+              "description": "",
+              "path": "Examples~/CyanTrigger"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "c248cef049a25349319c344d1966d0d2a3fd6cfa30f699a5ec4462e83524e699",
+          "url": "https://github.com/CyanLaser/CyanPlayerObjectPool/releases/download/v1.1.2/com.cyan.playerobjectpool-1.1.2.zip",
+          "legacyFolders": {
+            "Assets\\Cyan\\PlayerObjectPool": "b8de48290350821488f80da1d1c22556"
+          }
+        },
+        "1.1.1": {
+          "name": "com.cyan.playerobjectpool",
+          "displayName": "Cyan Player Object Pool",
+          "version": "1.1.1",
+          "unity": "2019.4",
+          "description": "A VRChat system that will assign a unique object to every player in the world.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.1.x",
+            "com.vrchat.udonsharp": "1.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "UdonGraph Examples",
+              "description": "",
+              "path": "Examples~/UdonGraph"
+            },
+            {
+              "displayName": "UdonSharp Examples",
+              "description": "",
+              "path": "Examples~/UdonSharp"
+            },
+            {
+              "displayName": "CyanTrigger Examples",
+              "description": "",
+              "path": "Examples~/CyanTrigger"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "5c15c445a2f9b74113f527a2485edd3bc420147b21fc6a1928f6575d600a94ce",
+          "url": "https://github.com/CyanLaser/CyanPlayerObjectPool/releases/download/v1.1.1/com.cyan.playerobjectpool.zip",
+          "legacyFolders": {
+            "Assets\\Cyan\\PlayerObjectPool": "b8de48290350821488f80da1d1c22556"
+          }
+        }
+      }
+    },
+    "sh.orels.camerablocker": {
+      "versions": {
+        "1.0.0": {
+          "name": "sh.orels.camerablocker",
+          "displayName": "Camera Blocker",
+          "version": "1.0.0",
+          "description": "A camera blocker shader prefab for VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.base": "3.1.9"
+          },
+          "author": {
+            "name": "orels1",
+            "url": "https://github.com/orels1"
+          },
+          "vrchatVersion": "2022.3.1",
+          "url": "https://github.com/orels1/orels-vrc-packages/releases/download/1.0.0/sh.orels.camerablocker-1.0.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        }
+      }
+    },
+    "de.thryrallo.vrc.avatar-performance-tools": {
+      "versions": {
+        "1.3.6": {
+          "name": "de.thryrallo.vrc.avatar-performance-tools",
+          "displayName": "Thry's Avatar Performance Tools",
+          "version": "1.3.6",
+          "unity": "2019.4",
+          "description": "Calculates and evaluates multiple avatar metrics that are not currently taken into account by VRChat's ranking system. Most prominently, it gives you a breakdown of VRAM usage of different parts of your avatar.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Thryrallo",
+            "email": "thryrallo@gmail.com"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "fbe3f74d2e8a51c5b16f4e6ffc5b036704eed0a531c245233c1a1048318c1ca5",
+          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.6/de.thryrallo.vrc.avatar-performance-tools-1.3.6.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.5": {
+          "name": "de.thryrallo.vrc.avatar-performance-tools",
+          "displayName": "Thry's Avatar Performance Tools",
+          "version": "1.3.5",
+          "unity": "2019.4",
+          "description": "Calculates and evaluates multiple avatar metrics that are not currently taken into account by VRChat's ranking system. Most prominently, it gives you a breakdown of VRAM usage of different parts of your avatar.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Thryrallo",
+            "email": "thryrallo@gmail.com"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "7c039606cd3cc62112216ee3775b999e3a41ae3bcef1927eee6c3dc0d48d95ed",
+          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.5/de.thryrallo.vrc.avatar-performance-tools-1.3.5.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.2": {
+          "name": "de.thryrallo.vrc.avatar-performance-tools",
+          "displayName": "Thry's Avatar Performance Tools",
+          "version": "1.3.2",
+          "description": "Calculated and evaluates some avatar metric not currently taking into account by vrchats ranking system. Most prominently gives a breakdown over VRAM usage of different parts of the avatar.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "hideInEditor": false,
+          "zipSHA256": "ee36b744b5dac46717b9985d406cc3db484bfe38ba4aa88e1514cbfdf56d4b4e",
+          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.2/de.thryrallo.vrc.avatar-performance-tools-1.3.2.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.1": {
+          "name": "de.thryrallo.vrc.avatar-performance-tools",
+          "displayName": "Thry's Avatar Performance Tools",
+          "version": "1.3.1",
+          "description": "Calculated and evaluates some avatar metric not currently taking into account by vrchats ranking system.\r\n\nMost prominently gives a breakdown over VRAM usage of different parts of the avatar.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "hideInEditor": false,
+          "zipSHA256": "c105b7505a5804b46e4fdbac892d2c43efba1e8060b67c78a0e507c7bbdcc046",
+          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.1/de.thryrallo.vrc.avatar-performance-tools-1.3.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.0": {
+          "name": "de.thryrallo.vrc.avatar-performance-tools",
+          "displayName": "Thry's Avatar Performance Tools",
+          "version": "1.3.0",
+          "description": "Calculated and evaluates some avatar metric not currently taking into account by vrchats ranking system.\r\n\nMost prominently gives a breakdown over VRAM usage of different parts of the avatar.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "hideInEditor": false,
+          "zipSHA256": "caf9663fd62230d65d87747db5f80ca045df6628fa843c2f092240cd06bf443d",
+          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.0/de.thryrallo.vrc.avatar-performance-tools-1.3.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        }
+      }
+    },
     "io.github.rurre.pumkinsavatartools": {
       "versions": {
         "1.4.4": {
@@ -229,124 +673,6 @@
         }
       }
     },
-    "sh.orels.camerablocker": {
-      "versions": {
-        "1.0.0": {
-          "name": "sh.orels.camerablocker",
-          "displayName": "Camera Blocker",
-          "version": "1.0.0",
-          "description": "A camera blocker shader prefab for VRChat",
-          "gitDependencies": {},
-          "vpmDependencies": {
-            "com.vrchat.base": "3.1.9"
-          },
-          "author": {
-            "name": "orels1",
-            "url": "https://github.com/orels1"
-          },
-          "vrchatVersion": "2022.3.1",
-          "url": "https://github.com/orels1/orels-vrc-packages/releases/download/1.0.0/sh.orels.camerablocker-1.0.0.zip",
-          "legacyFolders": {},
-          "legacyFiles": {}
-        }
-      }
-    },
-    "com.cyan.playerobjectpool": {
-      "versions": {
-        "1.1.2": {
-          "name": "com.cyan.playerobjectpool",
-          "displayName": "Cyan Player Object Pool",
-          "version": "1.1.2",
-          "unity": "2019.4",
-          "description": "A VRChat system that will assign a unique object to every player in the world.",
-          "vpmDependencies": {
-            "com.vrchat.worlds": "^3.1.x",
-            "com.vrchat.udonsharp": "^1.1.x"
-          },
-          "samples": [
-            {
-              "displayName": "UdonGraph Examples",
-              "description": "",
-              "path": "Examples~/UdonGraph"
-            },
-            {
-              "displayName": "UdonSharp Examples",
-              "description": "",
-              "path": "Examples~/UdonSharp"
-            },
-            {
-              "displayName": "CyanTrigger Examples",
-              "description": "",
-              "path": "Examples~/CyanTrigger"
-            }
-          ],
-          "author": {
-            "name": "CyanLaser"
-          },
-          "zipSHA256": "c248cef049a25349319c344d1966d0d2a3fd6cfa30f699a5ec4462e83524e699",
-          "url": "https://github.com/CyanLaser/CyanPlayerObjectPool/releases/download/v1.1.2/com.cyan.playerobjectpool-1.1.2.zip",
-          "legacyFolders": {
-            "Assets\\Cyan\\PlayerObjectPool": "b8de48290350821488f80da1d1c22556"
-          }
-        },
-        "1.1.1": {
-          "name": "com.cyan.playerobjectpool",
-          "displayName": "Cyan Player Object Pool",
-          "version": "1.1.1",
-          "unity": "2019.4",
-          "description": "A VRChat system that will assign a unique object to every player in the world.",
-          "vpmDependencies": {
-            "com.vrchat.worlds": "3.1.x",
-            "com.vrchat.udonsharp": "1.1.x"
-          },
-          "samples": [
-            {
-              "displayName": "UdonGraph Examples",
-              "description": "",
-              "path": "Examples~/UdonGraph"
-            },
-            {
-              "displayName": "UdonSharp Examples",
-              "description": "",
-              "path": "Examples~/UdonSharp"
-            },
-            {
-              "displayName": "CyanTrigger Examples",
-              "description": "",
-              "path": "Examples~/CyanTrigger"
-            }
-          ],
-          "author": {
-            "name": "CyanLaser"
-          },
-          "zipSHA256": "5c15c445a2f9b74113f527a2485edd3bc420147b21fc6a1928f6575d600a94ce",
-          "url": "https://github.com/CyanLaser/CyanPlayerObjectPool/releases/download/v1.1.1/com.cyan.playerobjectpool.zip",
-          "legacyFolders": {
-            "Assets\\Cyan\\PlayerObjectPool": "b8de48290350821488f80da1d1c22556"
-          }
-        }
-      }
-    },
-    "com.i5ucc.vrcaslgestures": {
-      "versions": {
-        "2.1.1": {
-          "name": "com.i5ucc.vrcaslgestures",
-          "displayName": "VRC-ASL_Gestures",
-          "version": "2.1.1",
-          "unity": "2019.4",
-          "description": "Gesture AnimationControllers for VRChat 3.0 Avatars to be able to do more ASL Handshapes.",
-          "dependencies": {},
-          "gitDependencies": {},
-          "vpmDependencies": {},
-          "legacyFolders": {
-            "Assets\\VRC-ASL_Gestures": ""
-          },
-          "legacyFiles": {},
-          "hideInEditor": false,
-          "url": "https://github.com/I5UCC/VRC-ASL_Gestures/releases/download/v2.1.1-Hotfix/VRC-ASL_Gestures_v2.1.1-Hotfix_VCC.zip"
-        }
-      }
-    },
     "dev.pokeyi.udontools": {
       "versions": {
         "1.0.1": {
@@ -404,6 +730,250 @@
           "url": "https://github.com/Pokeyi/vpm-packages/releases/download/v1.0.0/dev.pokeyi.udontools-1.0.0.zip",
           "legacyFolders": {},
           "legacyFiles": {}
+        }
+      }
+    },
+    "at.pimaker.animatorasvisual": {
+      "versions": {
+        "1.3.0": {
+          "name": "at.pimaker.animatorasvisual",
+          "displayName": "Animator as Visual",
+          "version": "1.3.0",
+          "unity": "2019.4",
+          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.x",
+            "vrchat.blackstartx.gesture-manager": "3.8.x",
+            "hai.animatorascode.pi": "1.x"
+          },
+          "author": {
+            "name": "_pi_",
+            "email": "pi+vpm@pimaker.at",
+            "url": "https://github.com/pimaker"
+          },
+          "zipSHA256": "bcf84792a7cbf85ce92e8ac2b2b123b5242643b33193bd95723f82dcfeab5698",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.3.0.zip?",
+          "legacyFolders": {
+            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
+          }
+        },
+        "1.2.1": {
+          "name": "at.pimaker.animatorasvisual",
+          "displayName": "Animator as Visual",
+          "version": "1.2.1",
+          "unity": "2019.4",
+          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.x",
+            "vrchat.blackstartx.gesture-manager": "3.8.x",
+            "hai.animatorascode.pi": "1.x"
+          },
+          "author": {
+            "name": "_pi_",
+            "email": "pi+vpm@pimaker.at",
+            "url": "https://github.com/pimaker"
+          },
+          "zipSHA256": "c9de6357011fd32f663975d7a62f4c6bba270cdaf0aec6d19e5ae4ee34fcccb5",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.2.1.zip?",
+          "legacyFolders": {
+            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
+          }
+        },
+        "1.2.0": {
+          "name": "at.pimaker.animatorasvisual",
+          "displayName": "Animator as Visual",
+          "version": "1.2.0",
+          "unity": "2019.4",
+          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.x",
+            "vrchat.blackstartx.gesture-manager": "3.8.x",
+            "hai.animatorascode.pi": "1.x"
+          },
+          "author": {
+            "name": "_pi_",
+            "email": "pi+vpm@pimaker.at",
+            "url": "https://github.com/pimaker"
+          },
+          "zipSHA256": "c921ba8db6be5ccadfe778d16947c3542d895fac1a6dca60e37f28bdf3532edc",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.2.0.zip?",
+          "legacyFolders": {
+            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
+          }
+        },
+        "1.1.2": {
+          "name": "at.pimaker.animatorasvisual",
+          "displayName": "Animator as Visual",
+          "version": "1.1.2",
+          "unity": "2019.4",
+          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.x",
+            "vrchat.blackstartx.gesture-manager": "3.8.x",
+            "hai.animatorascode.pi": "1.x"
+          },
+          "author": {
+            "name": "_pi_",
+            "email": "pi+vpm@pimaker.at",
+            "url": "https://github.com/pimaker"
+          },
+          "zipSHA256": "2289da28534ca6d391986e099dcc0cc21b2d83842ad21690625f851dfa9f8e15",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.1.2.zip?",
+          "legacyFolders": {
+            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
+          }
+        },
+        "1.1.0": {
+          "name": "at.pimaker.animatorasvisual",
+          "displayName": "Animator as Visual",
+          "version": "1.1.0",
+          "unity": "2019.4",
+          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.x",
+            "vrchat.blackstartx.gesture-manager": "3.8.x",
+            "hai.animatorascode.pi": "1.x"
+          },
+          "author": {
+            "name": "_pi_",
+            "email": "pi+vpm@pimaker.at",
+            "url": "https://github.com/pimaker"
+          },
+          "zipSHA256": "7fb9a115a3748f8793ff56075961c33b2676cd8e1621c00ea49714b19dcc395e",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.1.0.zip?",
+          "legacyFolders": {
+            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
+          }
+        },
+        "1.0.0": {
+          "name": "at.pimaker.animatorasvisual",
+          "displayName": "Animator as Visual",
+          "version": "1.0.0",
+          "unity": "2019.4",
+          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.1.x",
+            "vrchat.blackstartx.gesture-manager": "3.8.x"
+          },
+          "author": {
+            "name": "_pi_",
+            "email": "pi+vpm@pimaker.at",
+            "url": "https://github.com/pimaker"
+          },
+          "zipSHA256": "0ff598e398097444c77cd8aed50b6bfed949a6488ccb9329439980f4512d3ab4",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.0.0.zip?",
+          "legacyFolders": {
+            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
+          }
+        }
+      }
+    },
+    "at.pimaker.ltcgi": {
+      "versions": {
+        "1.4.1": {
+          "name": "at.pimaker.ltcgi",
+          "displayName": "LTCGI",
+          "version": "1.4.1",
+          "description": "Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat. ",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "zipSHA256": "8bae6f232f4ff13aeab2d07ea09e5bd1fcbfdc6167b60c24c740ab30e9ed43a7",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.4.1.zip?",
+          "legacyFolders": {
+            "Assets\\_pi_\\_LTCGI": ""
+          },
+          "legacyFiles": {}
+        },
+        "1.4.0": {
+          "name": "at.pimaker.ltcgi",
+          "displayName": "LTCGI",
+          "version": "1.4.0",
+          "description": "Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat. ",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.base": "x"
+          },
+          "zipSHA256": "1ba046f9efba7ef131b190868b7e05a272d56c22f0695cf8c608c598a594d2f6",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.4.0.zip?",
+          "legacyFolders": {
+            "Assets\\_pi_\\_LTCGI": ""
+          },
+          "legacyFiles": {}
+        },
+        "1.3.3": {
+          "name": "at.pimaker.ltcgi",
+          "displayName": "LTCGI",
+          "version": "1.3.3",
+          "description": "Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat. ",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.base": "x"
+          },
+          "zipSHA256": "4c52784dca02d12f9512c1d7d712ce57b7dd64ab6654ebda578929e7dcabb00f",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.3.3.zip?",
+          "legacyFolders": {
+            "Assets\\_pi_\\_LTCGI": ""
+          },
+          "legacyFiles": {}
+        },
+        "1.3.2": {
+          "name": "at.pimaker.ltcgi",
+          "displayName": "LTCGI",
+          "version": "1.3.2",
+          "description": "Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat. ",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.base": "x"
+          },
+          "zipSHA256": "3c916b42b251354dba2befc9726ab8cc766cab34ccfc0b77e8c68037f7650042",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.3.2.zip?",
+          "legacyFolders": {
+            "Assets\\_pi_\\_LTCGI": ""
+          },
+          "legacyFiles": {}
+        },
+        "1.2.4": {
+          "name": "at.pimaker.ltcgi",
+          "displayName": "LTCGI",
+          "version": "1.2.4",
+          "description": "Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat. ",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.base": "x"
+          },
+          "zipSHA256": "db55f683ffb8a61299e5a6b68544c24921324423d794f0cea318721b5332e339",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.2.4.zip?",
+          "legacyFolders": {
+            "Assets\\_pi_\\_LTCGI": ""
+          },
+          "legacyFiles": {}
+        }
+      }
+    },
+    "hai.animatorascode.pi": {
+      "versions": {
+        "1.0.0": {
+          "name": "hai.animatorascode.pi",
+          "displayName": "Animator as Code (pi's fork)",
+          "version": "1.0.0",
+          "unity": "2019.4",
+          "description": "Animator As Code is a small Unity Editor facility to generate Avatars 3.0 Animator layers and animations from a fluent builder syntax written in C#.\nOriginally created by Haï~ (https://github.com/hai-vr/av3-animator-as-code), maintained as VPM by _pi_",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.x"
+          },
+          "author": {
+            "name": "Haï~, maintained as VPM by _pi_",
+            "email": "pi+vpm@pimaker.at",
+            "url": "https://github.com/pimaker"
+          },
+          "zipSHA256": "c5907ec1d1423af0d9aa5d3ce9d2d65c9887eacff453181e9d025d810bf70149",
+          "url": "https://vpm.pimaker.at/downloads/hai.animatorascode.pi_1.0.0.zip?",
+          "legacyFolders": {}
         }
       }
     },
@@ -788,352 +1358,6 @@
           "legacyFolders": {
             "Assets\\CyanTriggerSDK2Migrator": ""
           }
-        }
-      }
-    },
-    "de.thryrallo.vrc.avatar-performance-tools": {
-      "versions": {
-        "1.3.6": {
-          "name": "de.thryrallo.vrc.avatar-performance-tools",
-          "displayName": "Thry's Avatar Performance Tools",
-          "version": "1.3.6",
-          "unity": "2019.4",
-          "description": "Calculates and evaluates multiple avatar metrics that are not currently taken into account by VRChat's ranking system. Most prominently, it gives you a breakdown of VRAM usage of different parts of your avatar.",
-          "gitDependencies": {},
-          "vpmDependencies": {},
-          "author": {
-            "name": "Thryrallo",
-            "email": "thryrallo@gmail.com"
-          },
-          "hideInEditor": false,
-          "zipSHA256": "fbe3f74d2e8a51c5b16f4e6ffc5b036704eed0a531c245233c1a1048318c1ca5",
-          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.6/de.thryrallo.vrc.avatar-performance-tools-1.3.6.zip",
-          "legacyFolders": {},
-          "legacyFiles": {}
-        },
-        "1.3.5": {
-          "name": "de.thryrallo.vrc.avatar-performance-tools",
-          "displayName": "Thry's Avatar Performance Tools",
-          "version": "1.3.5",
-          "unity": "2019.4",
-          "description": "Calculates and evaluates multiple avatar metrics that are not currently taken into account by VRChat's ranking system. Most prominently, it gives you a breakdown of VRAM usage of different parts of your avatar.",
-          "gitDependencies": {},
-          "vpmDependencies": {},
-          "author": {
-            "name": "Thryrallo",
-            "email": "thryrallo@gmail.com"
-          },
-          "hideInEditor": false,
-          "zipSHA256": "7c039606cd3cc62112216ee3775b999e3a41ae3bcef1927eee6c3dc0d48d95ed",
-          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.5/de.thryrallo.vrc.avatar-performance-tools-1.3.5.zip",
-          "legacyFolders": {},
-          "legacyFiles": {}
-        },
-        "1.3.2": {
-          "name": "de.thryrallo.vrc.avatar-performance-tools",
-          "displayName": "Thry's Avatar Performance Tools",
-          "version": "1.3.2",
-          "description": "Calculated and evaluates some avatar metric not currently taking into account by vrchats ranking system. Most prominently gives a breakdown over VRAM usage of different parts of the avatar.",
-          "gitDependencies": {},
-          "vpmDependencies": {},
-          "hideInEditor": false,
-          "zipSHA256": "ee36b744b5dac46717b9985d406cc3db484bfe38ba4aa88e1514cbfdf56d4b4e",
-          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.2/de.thryrallo.vrc.avatar-performance-tools-1.3.2.zip",
-          "legacyFolders": {},
-          "legacyFiles": {}
-        },
-        "1.3.1": {
-          "name": "de.thryrallo.vrc.avatar-performance-tools",
-          "displayName": "Thry's Avatar Performance Tools",
-          "version": "1.3.1",
-          "description": "Calculated and evaluates some avatar metric not currently taking into account by vrchats ranking system.\r\n\nMost prominently gives a breakdown over VRAM usage of different parts of the avatar.",
-          "gitDependencies": {},
-          "vpmDependencies": {},
-          "hideInEditor": false,
-          "zipSHA256": "c105b7505a5804b46e4fdbac892d2c43efba1e8060b67c78a0e507c7bbdcc046",
-          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.1/de.thryrallo.vrc.avatar-performance-tools-1.3.1.zip",
-          "legacyFolders": {},
-          "legacyFiles": {}
-        },
-        "1.3.0": {
-          "name": "de.thryrallo.vrc.avatar-performance-tools",
-          "displayName": "Thry's Avatar Performance Tools",
-          "version": "1.3.0",
-          "description": "Calculated and evaluates some avatar metric not currently taking into account by vrchats ranking system.\r\n\nMost prominently gives a breakdown over VRAM usage of different parts of the avatar.",
-          "gitDependencies": {},
-          "vpmDependencies": {},
-          "hideInEditor": false,
-          "zipSHA256": "caf9663fd62230d65d87747db5f80ca045df6628fa843c2f092240cd06bf443d",
-          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.0/de.thryrallo.vrc.avatar-performance-tools-1.3.0.zip",
-          "legacyFolders": {},
-          "legacyFiles": {}
-        }
-      }
-    },
-    "jp.lilxyzw.liltoon": {
-      "versions": {
-        "1.7.2": {
-          "name": "jp.lilxyzw.liltoon",
-          "version": "1.7.2",
-          "displayName": "lilToon",
-          "description": "Feature-rich toon shader.",
-          "unity": "2018.1",
-          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
-          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
-          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
-          "license": "MIT",
-          "keywords": [
-            "Toon",
-            "Shader",
-            "Material"
-          ],
-          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.2/jp.lilxyzw.liltoon-1.7.2.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders": {
-            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
-          }
-        },
-        "1.7.1": {
-          "name": "jp.lilxyzw.liltoon",
-          "version": "1.7.1",
-          "displayName": "lilToon",
-          "description": "Feature-rich toon shader.",
-          "unity": "2018.1",
-          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
-          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
-          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
-          "license": "MIT",
-          "keywords": [
-            "Toon",
-            "Shader",
-            "Material"
-          ],
-          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.1/jp.lilxyzw.liltoon-1.7.1.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders": {
-            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
-          }
-        },
-        "1.7.0": {
-          "name": "jp.lilxyzw.liltoon",
-          "version": "1.7.0",
-          "displayName": "lilToon",
-          "description": "Feature-rich toon shader.",
-          "unity": "2018.1",
-          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
-          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
-          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
-          "license": "MIT",
-          "keywords": [
-            "Toon",
-            "Shader",
-            "Material"
-          ],
-          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.0/jp.lilxyzw.liltoon-1.7.0.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders": {
-            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
-          }
-        },
-        "1.6.0": {
-          "name": "jp.lilxyzw.liltoon",
-          "version": "1.6.0",
-          "displayName": "lilToon",
-          "description": "Feature-rich toon shader.",
-          "unity": "2018.1",
-          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
-          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
-          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
-          "license": "MIT",
-          "keywords": [
-            "Toon",
-            "Shader",
-            "Material"
-          ],
-          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.6.0/jp.lilxyzw.liltoon-1.6.0.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders": {
-            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
-          }
-        },
-        "1.5.2": {
-          "name": "jp.lilxyzw.liltoon",
-          "version": "1.5.2",
-          "displayName": "lilToon",
-          "description": "Feature-rich toon shader.",
-          "unity": "2018.1",
-          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
-          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
-          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
-          "license": "MIT",
-          "keywords": [
-            "Toon",
-            "Shader",
-            "Material"
-          ],
-          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.2/jp.lilxyzw.liltoon-1.5.2.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders": {
-            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
-          }
-        },
-        "1.5.1": {
-          "name": "jp.lilxyzw.liltoon",
-          "version": "1.5.1",
-          "displayName": "lilToon",
-          "description": "Feature-rich toon shader.",
-          "unity": "2018.1",
-          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
-          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
-          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
-          "license": "MIT",
-          "keywords": [
-            "Toon",
-            "Shader",
-            "Material"
-          ],
-          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.1/jp.lilxyzw.liltoon-1.5.1.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders": {
-            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
-          }
-        },
-        "1.5.0": {
-          "name": "jp.lilxyzw.liltoon",
-          "version": "1.5.0",
-          "displayName": "lilToon",
-          "description": "Feature-rich toon shader.",
-          "unity": "2018.1",
-          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
-          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
-          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
-          "license": "MIT",
-          "keywords": [
-            "Toon",
-            "Shader",
-            "Material"
-          ],
-          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.0/jp.lilxyzw.liltoon-1.5.0.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders": {
-            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
-          }
-        },
-        "1.4.1": {
-          "name": "jp.lilxyzw.liltoon",
-          "version": "1.4.1",
-          "displayName": "lilToon",
-          "description": "Feature-rich toon shader.",
-          "unity": "2018.1",
-          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
-          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
-          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
-          "license": "MIT",
-          "keywords": [
-            "Toon",
-            "Shader",
-            "Material"
-          ],
-          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.4.1/jp.lilxyzw.liltoon-1.4.1.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders": {
-            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
-          }
-        },
-        "1.4.0": {
-          "name": "jp.lilxyzw.liltoon",
-          "version": "1.4.0",
-          "displayName": "lilToon",
-          "description": "Feature-rich toon shader.",
-          "unity": "2018.1",
-          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
-          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
-          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
-          "license": "MIT",
-          "keywords": [
-            "Toon",
-            "Shader",
-            "Material"
-          ],
-          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.4.0/jp.lilxyzw.liltoon-1.4.0.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders": {
-            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
-          }
-        },
-        "1.3.7": {
-          "name": "jp.lilxyzw.liltoon",
-          "version": "1.3.7",
-          "displayName": "lilToon",
-          "description": "Feature-rich toon shader.",
-          "unity": "2018.1",
-          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
-          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
-          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
-          "license": "MIT",
-          "keywords": [
-            "Toon",
-            "Shader",
-            "Material"
-          ],
-          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.3.7/jp.lilxyzw.liltoon-1.3.7.zip?",
-          "legacyFolders": {
-            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
-          }
-        }
-      }
-    },
-    "jp.lilxyzw.avatar-utils": {
-      "versions": {
-        "1.1.0": {
-          "name": "jp.lilxyzw.avatar-utils",
-          "version": "1.1.0",
-          "displayName": "lilAvatarUtils",
-          "description": "Utilities for avatar modification.",
-          "unity": "2019.4",
-          "license": "MIT",
-          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.1.0/jp.lilxyzw.avatar-utils-1.1.0.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
-        },
-        "1.0.3": {
-          "name": "jp.lilxyzw.avatar-utils",
-          "version": "1.0.3",
-          "displayName": "lilAvatarUtils",
-          "description": "Utilities for avatar modification.",
-          "unity": "2019.4",
-          "license": "MIT",
-          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.3/jp.lilxyzw.avatar-utils-1.0.3.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
-        },
-        "1.0.2": {
-          "name": "jp.lilxyzw.avatar-utils",
-          "version": "1.0.2",
-          "displayName": "lilAvatarUtils",
-          "description": "Utilities for avatar modification.",
-          "unity": "2019.4",
-          "license": "MIT",
-          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.2/jp.lilxyzw.avatar-utils-1.0.2.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
-        },
-        "1.0.1": {
-          "name": "jp.lilxyzw.avatar-utils",
-          "version": "1.0.1",
-          "displayName": "lilAvatarUtils",
-          "description": "Utilities for avatar modification.",
-          "unity": "2019.4",
-          "license": "MIT",
-          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.1/jp.lilxyzw.avatar-utils-1.0.1.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
-        },
-        "1.0.0": {
-          "name": "jp.lilxyzw.avatar-utils",
-          "version": "1.0.0",
-          "displayName": "lilAvatarUtils",
-          "description": "Utilities for avatar modification.",
-          "unity": "2019.4",
-          "license": "MIT",
-          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.0/jp.lilxyzw.avatar-utils-1.0.0.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
         }
       }
     },
@@ -2248,1261 +2472,6 @@
           "legacyFolders": {
             "Assets\\KRT\\MaterialReplacer": ""
           }
-        }
-      }
-    },
-    "at.pimaker.animatorasvisual": {
-      "versions": {
-        "1.3.0": {
-          "name": "at.pimaker.animatorasvisual",
-          "displayName": "Animator as Visual",
-          "version": "1.3.0",
-          "unity": "2019.4",
-          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
-          "vpmDependencies": {
-            "com.vrchat.avatars": "^3.x",
-            "vrchat.blackstartx.gesture-manager": "3.8.x",
-            "hai.animatorascode.pi": "1.x"
-          },
-          "author": {
-            "name": "_pi_",
-            "email": "pi+vpm@pimaker.at",
-            "url": "https://github.com/pimaker"
-          },
-          "zipSHA256": "bcf84792a7cbf85ce92e8ac2b2b123b5242643b33193bd95723f82dcfeab5698",
-          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.3.0.zip?",
-          "legacyFolders": {
-            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
-          }
-        },
-        "1.2.1": {
-          "name": "at.pimaker.animatorasvisual",
-          "displayName": "Animator as Visual",
-          "version": "1.2.1",
-          "unity": "2019.4",
-          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
-          "vpmDependencies": {
-            "com.vrchat.avatars": "^3.x",
-            "vrchat.blackstartx.gesture-manager": "3.8.x",
-            "hai.animatorascode.pi": "1.x"
-          },
-          "author": {
-            "name": "_pi_",
-            "email": "pi+vpm@pimaker.at",
-            "url": "https://github.com/pimaker"
-          },
-          "zipSHA256": "c9de6357011fd32f663975d7a62f4c6bba270cdaf0aec6d19e5ae4ee34fcccb5",
-          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.2.1.zip?",
-          "legacyFolders": {
-            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
-          }
-        },
-        "1.2.0": {
-          "name": "at.pimaker.animatorasvisual",
-          "displayName": "Animator as Visual",
-          "version": "1.2.0",
-          "unity": "2019.4",
-          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
-          "vpmDependencies": {
-            "com.vrchat.avatars": "3.x",
-            "vrchat.blackstartx.gesture-manager": "3.8.x",
-            "hai.animatorascode.pi": "1.x"
-          },
-          "author": {
-            "name": "_pi_",
-            "email": "pi+vpm@pimaker.at",
-            "url": "https://github.com/pimaker"
-          },
-          "zipSHA256": "c921ba8db6be5ccadfe778d16947c3542d895fac1a6dca60e37f28bdf3532edc",
-          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.2.0.zip?",
-          "legacyFolders": {
-            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
-          }
-        },
-        "1.1.2": {
-          "name": "at.pimaker.animatorasvisual",
-          "displayName": "Animator as Visual",
-          "version": "1.1.2",
-          "unity": "2019.4",
-          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
-          "vpmDependencies": {
-            "com.vrchat.avatars": "3.x",
-            "vrchat.blackstartx.gesture-manager": "3.8.x",
-            "hai.animatorascode.pi": "1.x"
-          },
-          "author": {
-            "name": "_pi_",
-            "email": "pi+vpm@pimaker.at",
-            "url": "https://github.com/pimaker"
-          },
-          "zipSHA256": "2289da28534ca6d391986e099dcc0cc21b2d83842ad21690625f851dfa9f8e15",
-          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.1.2.zip?",
-          "legacyFolders": {
-            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
-          }
-        },
-        "1.1.0": {
-          "name": "at.pimaker.animatorasvisual",
-          "displayName": "Animator as Visual",
-          "version": "1.1.0",
-          "unity": "2019.4",
-          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
-          "vpmDependencies": {
-            "com.vrchat.avatars": "3.x",
-            "vrchat.blackstartx.gesture-manager": "3.8.x",
-            "hai.animatorascode.pi": "1.x"
-          },
-          "author": {
-            "name": "_pi_",
-            "email": "pi+vpm@pimaker.at",
-            "url": "https://github.com/pimaker"
-          },
-          "zipSHA256": "7fb9a115a3748f8793ff56075961c33b2676cd8e1621c00ea49714b19dcc395e",
-          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.1.0.zip?",
-          "legacyFolders": {
-            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
-          }
-        },
-        "1.0.0": {
-          "name": "at.pimaker.animatorasvisual",
-          "displayName": "Animator as Visual",
-          "version": "1.0.0",
-          "unity": "2019.4",
-          "description": "Provides a simple way to modify your action menu and generate toggles for your VRChat avatars.",
-          "vpmDependencies": {
-            "com.vrchat.avatars": "3.1.x",
-            "vrchat.blackstartx.gesture-manager": "3.8.x"
-          },
-          "author": {
-            "name": "_pi_",
-            "email": "pi+vpm@pimaker.at",
-            "url": "https://github.com/pimaker"
-          },
-          "zipSHA256": "0ff598e398097444c77cd8aed50b6bfed949a6488ccb9329439980f4512d3ab4",
-          "url": "https://vpm.pimaker.at/downloads/at.pimaker.animatorasvisual_1.0.0.zip?",
-          "legacyFolders": {
-            "Assets\\animator-as-visual": "b1872d20ecd4b474a85d340dfffbce70"
-          }
-        }
-      }
-    },
-    "at.pimaker.ltcgi": {
-      "versions": {
-        "1.4.1": {
-          "name": "at.pimaker.ltcgi",
-          "displayName": "LTCGI",
-          "version": "1.4.1",
-          "description": "Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat. ",
-          "dependencies": {},
-          "gitDependencies": {},
-          "vpmDependencies": {},
-          "zipSHA256": "8bae6f232f4ff13aeab2d07ea09e5bd1fcbfdc6167b60c24c740ab30e9ed43a7",
-          "url": "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.4.1.zip?",
-          "legacyFolders": {
-            "Assets\\_pi_\\_LTCGI": ""
-          },
-          "legacyFiles": {}
-        },
-        "1.4.0": {
-          "name": "at.pimaker.ltcgi",
-          "displayName": "LTCGI",
-          "version": "1.4.0",
-          "description": "Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat. ",
-          "dependencies": {},
-          "gitDependencies": {},
-          "vpmDependencies": {
-            "com.vrchat.base": "x"
-          },
-          "zipSHA256": "1ba046f9efba7ef131b190868b7e05a272d56c22f0695cf8c608c598a594d2f6",
-          "url": "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.4.0.zip?",
-          "legacyFolders": {
-            "Assets\\_pi_\\_LTCGI": ""
-          },
-          "legacyFiles": {}
-        },
-        "1.3.3": {
-          "name": "at.pimaker.ltcgi",
-          "displayName": "LTCGI",
-          "version": "1.3.3",
-          "description": "Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat. ",
-          "dependencies": {},
-          "gitDependencies": {},
-          "vpmDependencies": {
-            "com.vrchat.base": "x"
-          },
-          "zipSHA256": "4c52784dca02d12f9512c1d7d712ce57b7dd64ab6654ebda578929e7dcabb00f",
-          "url": "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.3.3.zip?",
-          "legacyFolders": {
-            "Assets\\_pi_\\_LTCGI": ""
-          },
-          "legacyFiles": {}
-        },
-        "1.3.2": {
-          "name": "at.pimaker.ltcgi",
-          "displayName": "LTCGI",
-          "version": "1.3.2",
-          "description": "Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat. ",
-          "dependencies": {},
-          "gitDependencies": {},
-          "vpmDependencies": {
-            "com.vrchat.base": "x"
-          },
-          "zipSHA256": "3c916b42b251354dba2befc9726ab8cc766cab34ccfc0b77e8c68037f7650042",
-          "url": "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.3.2.zip?",
-          "legacyFolders": {
-            "Assets\\_pi_\\_LTCGI": ""
-          },
-          "legacyFiles": {}
-        },
-        "1.2.4": {
-          "name": "at.pimaker.ltcgi",
-          "displayName": "LTCGI",
-          "version": "1.2.4",
-          "description": "Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat. ",
-          "dependencies": {},
-          "gitDependencies": {},
-          "vpmDependencies": {
-            "com.vrchat.base": "x"
-          },
-          "zipSHA256": "db55f683ffb8a61299e5a6b68544c24921324423d794f0cea318721b5332e339",
-          "url": "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.2.4.zip?",
-          "legacyFolders": {
-            "Assets\\_pi_\\_LTCGI": ""
-          },
-          "legacyFiles": {}
-        }
-      }
-    },
-    "hai.animatorascode.pi": {
-      "versions": {
-        "1.0.0": {
-          "name": "hai.animatorascode.pi",
-          "displayName": "Animator as Code (pi's fork)",
-          "version": "1.0.0",
-          "unity": "2019.4",
-          "description": "Animator As Code is a small Unity Editor facility to generate Avatars 3.0 Animator layers and animations from a fluent builder syntax written in C#.\nOriginally created by Haï~ (https://github.com/hai-vr/av3-animator-as-code), maintained as VPM by _pi_",
-          "vpmDependencies": {
-            "com.vrchat.avatars": "3.x"
-          },
-          "author": {
-            "name": "Haï~, maintained as VPM by _pi_",
-            "email": "pi+vpm@pimaker.at",
-            "url": "https://github.com/pimaker"
-          },
-          "zipSHA256": "c5907ec1d1423af0d9aa5d3ce9d2d65c9887eacff453181e9d025d810bf70149",
-          "url": "https://vpm.pimaker.at/downloads/hai.animatorascode.pi_1.0.0.zip?",
-          "legacyFolders": {}
-        }
-      }
-    },
-    "nadena.dev.modular-avatar": {
-      "versions": {
-        "1.9.4": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.9.4",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.9.4/nadena.dev.modular-avatar-1.9.4.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.4.0",
-            "nadena.dev.ndmf": ">=1.3.6 <2.0.0-a"
-          }
-        },
-        "1.9.3": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.9.3",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.9.3/nadena.dev.modular-avatar-1.9.3.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.4.0",
-            "nadena.dev.ndmf": ">=1.3.5 <2.0.0-a"
-          }
-        },
-        "1.9.2": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.9.2",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.9.2/nadena.dev.modular-avatar-1.9.2.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0",
-            "nadena.dev.ndmf": ">=1.3.1 <2.0.0-a"
-          }
-        },
-        "1.9.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.9.1",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.9.1/nadena.dev.modular-avatar-1.9.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0",
-            "nadena.dev.ndmf": ">=1.3.1 <2.0.0-a"
-          }
-        },
-        "1.9.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.9.0",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.9.0/nadena.dev.modular-avatar-1.9.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0",
-            "nadena.dev.ndmf": ">=1.3.1 <2.0.0-a"
-          }
-        },
-        "1.8.4": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.8.4",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.8.4/nadena.dev.modular-avatar-1.8.4.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0",
-            "nadena.dev.ndmf": ">=1.2.5 <2.0.0-a"
-          }
-        },
-        "1.8.3": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.8.3",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.8.3/nadena.dev.modular-avatar-1.8.3.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0",
-            "nadena.dev.ndmf": ">=1.2.5 <2.0.0-a"
-          }
-        },
-        "1.8.2": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.8.2",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.8.2/nadena.dev.modular-avatar-1.8.2.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0",
-            "nadena.dev.ndmf": ">=1.2.4 <2.0.0-a"
-          }
-        },
-        "1.8.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.8.1",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.8.1/nadena.dev.modular-avatar-1.8.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0",
-            "nadena.dev.ndmf": ">=1.1.1 <2.0.0-a"
-          }
-        },
-        "1.8.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.8.0",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.8.0/nadena.dev.modular-avatar-1.8.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0",
-            "nadena.dev.ndmf": ">=1.1.1 <2.0.0-a"
-          }
-        },
-        "1.7.7": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.7.7",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.7/nadena.dev.modular-avatar-1.7.7.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.7.6": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.7.6",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.6/nadena.dev.modular-avatar-1.7.6.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.7.5": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.7.5",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.5/nadena.dev.modular-avatar-1.7.5.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.7.4": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.7.4",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.4/nadena.dev.modular-avatar-1.7.4.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.7.3": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.7.3",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.3/nadena.dev.modular-avatar-1.7.3.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.7.2": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.7.2",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.2/nadena.dev.modular-avatar-1.7.2.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.7.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.7.1",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.1/nadena.dev.modular-avatar-1.7.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.7.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.7.0",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.0/nadena.dev.modular-avatar-1.7.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.6.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.6.0",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.6.0/nadena.dev.modular-avatar-1.6.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.5.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.5.1",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.5.1/nadena.dev.modular-avatar-1.5.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.5.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.5.0",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.5.0/nadena.dev.modular-avatar-1.5.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.4.5": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.5",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.5/nadena.dev.modular-avatar-1.4.5.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.4.4": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.4",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.4/nadena.dev.modular-avatar-1.4.4.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.4.3": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.3",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.3/nadena.dev.modular-avatar-1.4.3.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.4.2": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.2",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.2/nadena.dev.modular-avatar-1.4.2.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.4.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.1",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.1/nadena.dev.modular-avatar-1.4.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.4.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.0",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.0/nadena.dev.modular-avatar-1.4.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.3.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.3.0",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.3.0/nadena.dev.modular-avatar-1.3.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.2.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.2.1",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.2.1/nadena.dev.modular-avatar-1.2.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.2.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.2.0",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.2.0/nadena.dev.modular-avatar-1.2.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.1.2": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.1.2",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.2/nadena.dev.modular-avatar-1.1.2.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.1.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.1.1",
-          "unity": "2019.4",
-          "description": "",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.1/nadena.dev.modular-avatar-1.1.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.base": ">=3.1.9",
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.1.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.1.0",
-          "unity": "2019.4",
-          "description": "",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.0/nadena.dev.modular-avatar-1.1.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.base": "3.1.9",
-            "com.vrchat.avatars": "3.1.9"
-          }
-        },
-        "1.0.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.0.1",
-          "unity": "2019.4",
-          "description": "",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.0.1/nadena.dev.modular-avatar-1.0.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.base": "3.1.9",
-            "com.vrchat.avatars": "3.1.9"
-          }
-        },
-        "1.0.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.0.0",
-          "unity": "2019.4",
-          "description": "",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.0.0/nadena.dev.modular-avatar-1.0.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.base": "3.1.9",
-            "com.vrchat.avatars": "3.1.9"
-          }
-        }
-      }
-    },
-    "nadena.dev.ndmf": {
-      "versions": {
-        "1.3.6": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.3.6",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.6/nadena.dev.ndmf-1.3.6.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.3.5": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.3.5",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.5/nadena.dev.ndmf-1.3.5.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.3.4": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.3.4",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.4/nadena.dev.ndmf-1.3.4.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.3.3": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.3.3",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.3/nadena.dev.ndmf-1.3.3.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.3.2": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.3.2",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.2/nadena.dev.ndmf-1.3.2.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.3.1": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.3.1",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.1/nadena.dev.ndmf-1.3.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.3.0": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.3.0",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.0/nadena.dev.ndmf-1.3.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.2.5": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.2.5",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.5/nadena.dev.ndmf-1.2.5.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.2.4": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.2.4",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.4/nadena.dev.ndmf-1.2.4.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.2.3": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.2.3",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.3/nadena.dev.ndmf-1.2.3.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.2.2": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.2.2",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.2/nadena.dev.ndmf-1.2.2.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.2.1": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.2.1",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.1/nadena.dev.ndmf-1.2.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.2.0": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.2.0",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.0/nadena.dev.ndmf-1.2.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.1.1": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.1.1",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.1.1/nadena.dev.ndmf-1.1.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.1.0": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.1.0",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.1.0/nadena.dev.ndmf-1.1.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.0.2": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.0.2",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.0.2/nadena.dev.ndmf-1.0.2.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.0.1": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.0.1",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.0.1/nadena.dev.ndmf-1.0.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        },
-        "1.0.0": {
-          "name": "nadena.dev.ndmf",
-          "displayName": "Non-Destructive Modular Framework",
-          "version": "1.0.0",
-          "unity": "2019.4",
-          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/ndmf"
-          },
-          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.0.0/nadena.dev.ndmf-1.0.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
-        }
-      }
-    },
-    "nadena.dev.misc-vrc-tools": {
-      "versions": {
-        "0.0.8": {
-          "name": "nadena.dev.misc-vrc-tools",
-          "displayName": "bd_'s misc tools",
-          "version": "0.0.8",
-          "unity": "2022.3",
-          "description": "bd_'s random tools for VRChat",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/misc-vrc-tools/releases/download/0.0.8/nadena.dev.misc-vrc-tools-0.0.8.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json"
         }
       }
     },
@@ -14716,167 +13685,1478 @@
         }
       }
     },
-    "dev.vrlabs.av3manager": {
+    "nadena.dev.modular-avatar": {
       "versions": {
-        "2.0.28": {
-          "name": "dev.vrlabs.av3manager",
-          "displayName": "Avatars 3.0 Manager",
-          "version": "2.0.28",
-          "license": "MIT",
+        "1.9.4": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.9.4",
           "unity": "2019.4",
-          "description": "A tool for managing playable layers and parameters for Avatars 3.0.",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
           "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
           },
-          "siteUrl": "https://github.com/VRLabs/Avatars-3.0-Manager",
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.9.4/nadena.dev.modular-avatar-1.9.4.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
           "vpmDependencies": {
-            "com.vrchat.avatars": "3.2 - 3.5"
-          },
-          "legacyFolders": {
-            "Assets\\VRLabs\\Avatars 3.0 Manager": "513a67139704dd249855ebe5f760cba5"
-          },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Avatars 3.0 Manager",
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Avatars 3.0 Manager": "513a67139704dd249855ebe5f760cba5"
-          },
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Avatars-3.0-Manager/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Avatars-3.0-Manager/main/Media/Web/Preview.webp"
-          },
-          "url": "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.28/dev.vrlabs.av3manager-2.0.28.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.28/dev.vrlabs.av3manager-2.0.28.unitypackage",
-          "zipSHA256": "e91990a65b6ebb6496dc00ff68642ab685eaee4970c2a42498f7ffa8bf3e349d"
-        }
-      }
-    },
-    "dev.vrlabs.dynamic-bones-stub": {
-      "versions": {
-        "1.3.3": {
-          "name": "dev.vrlabs.dynamic-bones-stub",
-          "displayName": "Dynamic Bones Stub",
-          "version": "1.3.3",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub",
-          "vpmDependencies": {},
-          "legacyFolders": {
-            "Assets\\VRLabs\\Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
-          },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Dynamic Bones Stub",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp"
-          },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
-          },
-          "url": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.3.3/dev.vrlabs.dynamic-bones-stub-1.3.3.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.3.3/dev.vrlabs.dynamic-bones-stub-1.3.3.unitypackage",
-          "zipSHA256": "ee82aaebfacd064ec3f4b543eb79b56ab15768c16e109f0a111df46fbdccec23"
+            "com.vrchat.avatars": ">=3.4.0",
+            "nadena.dev.ndmf": ">=1.3.6 <2.0.0-a"
+          }
         },
-        "1.0.1": {
-          "name": "dev.vrlabs.dynamic-bones-stub",
-          "displayName": "Dynamic Bones Stub",
-          "version": "1.0.1",
-          "license": "MIT",
+        "1.9.3": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.9.3",
           "unity": "2019.4",
-          "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
           "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
           },
-          "siteUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub",
-          "vpmDependencies": {},
-          "legacyFolders": {
-            "Assets\\VRLabs\\Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.9.3/nadena.dev.modular-avatar-1.9.3.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
           },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Dynamic Bones Stub",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp"
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.4.0",
+            "nadena.dev.ndmf": ">=1.3.5 <2.0.0-a"
+          }
+        },
+        "1.9.2": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.9.2",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
           },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.9.2/nadena.dev.modular-avatar-1.9.2.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
           },
-          "url": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.0.1/dev.vrlabs.dynamic-bones-stub-1.0.1.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.0.1/dev.vrlabs.dynamic-bones-stub-1.0.1.unitypackage",
-          "zipSHA256": "8599da1330ac92be5c01d152b98cf7a1b914e281218224080f551805753c675a"
-        }
-      }
-    },
-    "dev.vrlabs.final-ik-stub": {
-      "versions": {
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "nadena.dev.ndmf": ">=1.3.1 <2.0.0-a"
+          }
+        },
         "1.9.1": {
-          "name": "dev.vrlabs.final-ik-stub",
-          "displayName": "Final IK Stub",
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
           "version": "1.9.1",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.9.1/nadena.dev.modular-avatar-1.9.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "nadena.dev.ndmf": ">=1.3.1 <2.0.0-a"
+          }
+        },
+        "1.9.0": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.9.0",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.9.0/nadena.dev.modular-avatar-1.9.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "nadena.dev.ndmf": ">=1.3.1 <2.0.0-a"
+          }
+        },
+        "1.8.4": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.8.4",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.8.4/nadena.dev.modular-avatar-1.8.4.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "nadena.dev.ndmf": ">=1.2.5 <2.0.0-a"
+          }
+        },
+        "1.8.3": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.8.3",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.8.3/nadena.dev.modular-avatar-1.8.3.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "nadena.dev.ndmf": ">=1.2.5 <2.0.0-a"
+          }
+        },
+        "1.8.2": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.8.2",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.8.2/nadena.dev.modular-avatar-1.8.2.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "nadena.dev.ndmf": ">=1.2.4 <2.0.0-a"
+          }
+        },
+        "1.8.1": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.8.1",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.8.1/nadena.dev.modular-avatar-1.8.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "nadena.dev.ndmf": ">=1.1.1 <2.0.0-a"
+          }
+        },
+        "1.8.0": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.8.0",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.8.0/nadena.dev.modular-avatar-1.8.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "nadena.dev.ndmf": ">=1.1.1 <2.0.0-a"
+          }
+        },
+        "1.7.7": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.7.7",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.7/nadena.dev.modular-avatar-1.7.7.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "1.7.6": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.7.6",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.6/nadena.dev.modular-avatar-1.7.6.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "1.7.5": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.7.5",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.5/nadena.dev.modular-avatar-1.7.5.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "1.7.4": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.7.4",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.4/nadena.dev.modular-avatar-1.7.4.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "1.7.3": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.7.3",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.3/nadena.dev.modular-avatar-1.7.3.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "1.7.2": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.7.2",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.2/nadena.dev.modular-avatar-1.7.2.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "1.7.1": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.7.1",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.1/nadena.dev.modular-avatar-1.7.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "1.7.0": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.7.0",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.7.0/nadena.dev.modular-avatar-1.7.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "1.6.0": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.6.0",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.6.0/nadena.dev.modular-avatar-1.6.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "1.5.1": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.5.1",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.5.1/nadena.dev.modular-avatar-1.5.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "1.5.0": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.5.0",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.5.0/nadena.dev.modular-avatar-1.5.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "1.4.5": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.4.5",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.5/nadena.dev.modular-avatar-1.4.5.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.9"
+          }
+        },
+        "1.4.4": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.4.4",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.4/nadena.dev.modular-avatar-1.4.4.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.9"
+          }
+        },
+        "1.4.3": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.4.3",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.3/nadena.dev.modular-avatar-1.4.3.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.9"
+          }
+        },
+        "1.4.2": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.4.2",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.2/nadena.dev.modular-avatar-1.4.2.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.9"
+          }
+        },
+        "1.4.1": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.4.1",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.1/nadena.dev.modular-avatar-1.4.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.9"
+          }
+        },
+        "1.4.0": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.4.0",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.0/nadena.dev.modular-avatar-1.4.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.9"
+          }
+        },
+        "1.3.0": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.3.0",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.3.0/nadena.dev.modular-avatar-1.3.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.9"
+          }
+        },
+        "1.2.1": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.2.1",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.2.1/nadena.dev.modular-avatar-1.2.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.9"
+          }
+        },
+        "1.2.0": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.2.0",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.2.0/nadena.dev.modular-avatar-1.2.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.9"
+          }
+        },
+        "1.1.2": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.1.2",
+          "unity": "2019.4",
+          "description": "A suite of tools for assembling your avatar out of reusable components",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.2/nadena.dev.modular-avatar-1.1.2.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.9"
+          }
+        },
+        "1.1.1": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.1.1",
+          "unity": "2019.4",
+          "description": "",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.1/nadena.dev.modular-avatar-1.1.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.base": ">=3.1.9",
+            "com.vrchat.avatars": ">=3.1.9"
+          }
+        },
+        "1.1.0": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.1.0",
+          "unity": "2019.4",
+          "description": "",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.0/nadena.dev.modular-avatar-1.1.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.base": "3.1.9",
+            "com.vrchat.avatars": "3.1.9"
+          }
+        },
+        "1.0.1": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.0.1",
+          "unity": "2019.4",
+          "description": "",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.0.1/nadena.dev.modular-avatar-1.0.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.base": "3.1.9",
+            "com.vrchat.avatars": "3.1.9"
+          }
+        },
+        "1.0.0": {
+          "name": "nadena.dev.modular-avatar",
+          "displayName": "Modular Avatar",
+          "version": "1.0.0",
+          "unity": "2019.4",
+          "description": "",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.0.0/nadena.dev.modular-avatar-1.0.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.base": "3.1.9",
+            "com.vrchat.avatars": "3.1.9"
+          }
+        }
+      }
+    },
+    "nadena.dev.ndmf": {
+      "versions": {
+        "1.3.6": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.3.6",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.6/nadena.dev.ndmf-1.3.6.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.3.5": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.3.5",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.5/nadena.dev.ndmf-1.3.5.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.3.4": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.3.4",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.4/nadena.dev.ndmf-1.3.4.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.3.3": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.3.3",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.3/nadena.dev.ndmf-1.3.3.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.3.2": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.3.2",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.2/nadena.dev.ndmf-1.3.2.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.3.1": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.3.1",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.1/nadena.dev.ndmf-1.3.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.3.0": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.3.0",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.3.0/nadena.dev.ndmf-1.3.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.2.5": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.2.5",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.5/nadena.dev.ndmf-1.2.5.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.2.4": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.2.4",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.4/nadena.dev.ndmf-1.2.4.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.2.3": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.2.3",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.3/nadena.dev.ndmf-1.2.3.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.2.2": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.2.2",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.2/nadena.dev.ndmf-1.2.2.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.2.1": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.2.1",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.1/nadena.dev.ndmf-1.2.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.2.0": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.2.0",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.2.0/nadena.dev.ndmf-1.2.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.1.1": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.1.1",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.1.1/nadena.dev.ndmf-1.1.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.1.0": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.1.0",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.1.0/nadena.dev.ndmf-1.1.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.0.2": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.0.2",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.0.2/nadena.dev.ndmf-1.0.2.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.0.1": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.0.1",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.0.1/nadena.dev.ndmf-1.0.1.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        },
+        "1.0.0": {
+          "name": "nadena.dev.ndmf",
+          "displayName": "Non-Destructive Modular Framework",
+          "version": "1.0.0",
+          "unity": "2019.4",
+          "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/ndmf"
+          },
+          "url": "https://github.com/bdunderscore/ndmf/releases/download/1.0.0/nadena.dev.ndmf-1.0.0.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        }
+      }
+    },
+    "nadena.dev.misc-vrc-tools": {
+      "versions": {
+        "0.0.8": {
+          "name": "nadena.dev.misc-vrc-tools",
+          "displayName": "bd_'s misc tools",
+          "version": "0.0.8",
+          "unity": "2022.3",
+          "description": "bd_'s random tools for VRChat",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "bd_",
+            "email": "bd_@nadena.dev",
+            "url": "https://github.com/bdunderscore/modular-avatar"
+          },
+          "url": "https://github.com/bdunderscore/misc-vrc-tools/releases/download/0.0.8/nadena.dev.misc-vrc-tools-0.0.8.zip?",
+          "repo": "https://vpm.nadena.dev/vpm.json"
+        }
+      }
+    },
+    "com.i5ucc.vrcaslgestures": {
+      "versions": {
+        "2.1.1": {
+          "name": "com.i5ucc.vrcaslgestures",
+          "displayName": "VRC-ASL_Gestures",
+          "version": "2.1.1",
+          "unity": "2019.4",
+          "description": "Gesture AnimationControllers for VRChat 3.0 Avatars to be able to do more ASL Handshapes.",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "legacyFolders": {
+            "Assets\\VRC-ASL_Gestures": ""
+          },
+          "legacyFiles": {},
+          "hideInEditor": false,
+          "url": "https://github.com/I5UCC/VRC-ASL_Gestures/releases/download/v2.1.1-Hotfix/VRC-ASL_Gestures_v2.1.1-Hotfix_VCC.zip"
+        }
+      }
+    },
+    "dev.vrlabs.contact-tracker": {
+      "versions": {
+        "1.4.5": {
+          "name": "dev.vrlabs.contact-tracker",
+          "displayName": "Contact Tracker",
+          "version": "1.4.5",
           "license": "MIT",
           "unity": "2019.4",
-          "description": "Stub package for the Final IK components whitelisted by VRChat",
+          "description": "Tracking for contacts, by contacts.",
           "author": {
             "name": "VRLabs",
             "email": "mail@vrlabs.dev",
             "url": "https://vrlabs.dev"
           },
-          "siteUrl": "https://github.com/VRLabs/Final-IK-Stub",
-          "vpmDependencies": {},
-          "legacyFolders": {
-            "Assets\\VRLabs\\Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+          "siteUrl": "https://github.com/VRLabs/Contact-Tracker",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
           },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Final IK Stub",
+          "legacyFolders": {
+            "Assets\\VRLabs\\Contact Tracker": "9cd56b450009343a99b606696779825a"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Contact Tracker",
           "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp"
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Contact-Tracker/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Contact-Tracker/main/Media/Web/PreviewGif.webp"
           },
           "unityPackageDestinationFolderMetas": {
             "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+            "Assets/VRLabs/Contact Tracker": "9cd56b450009343a99b606696779825a"
           },
-          "url": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.9.1/dev.vrlabs.final-ik-stub-1.9.1.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.9.1/dev.vrlabs.final-ik-stub-1.9.1.unitypackage",
-          "zipSHA256": "9ce31026a2aa16334ca4bd53c2e0f634015737839e748aefd3dce4bfd9491390"
-        },
+          "url": "https://github.com/VRLabs/Contact-Tracker/releases/download/1.4.5/dev.vrlabs.contact-tracker-1.4.5.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Contact-Tracker/releases/download/1.4.5/dev.vrlabs.contact-tracker-1.4.5.unitypackage",
+          "zipSHA256": "d095d7bc87537020af045a2b503507290befe7a1e858eb301f6e9538763ee5a9"
+        }
+      }
+    },
+    "dev.vrlabs.damping-constraints": {
+      "versions": {
         "1.0.1": {
-          "name": "dev.vrlabs.final-ik-stub",
-          "displayName": "Final IK Stub",
+          "name": "dev.vrlabs.damping-constraints",
+          "displayName": "Damping Constraints",
           "version": "1.0.1",
           "license": "MIT",
           "unity": "2019.4",
-          "description": "Stub package for the Final IK components whitelisted by VRChat",
+          "description": "Constraints with adjustable damping effects",
           "author": {
             "name": "VRLabs",
             "email": "mail@vrlabs.dev",
             "url": "https://vrlabs.dev"
           },
-          "siteUrl": "https://github.com/VRLabs/Final-IK-Stub",
-          "vpmDependencies": {},
-          "legacyFolders": {
-            "Assets\\VRLabs\\Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+          "siteUrl": "https://github.com/VRLabs/Damping-Constraints",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
           },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Final IK Stub",
+          "legacyFolders": {
+            "Assets\\VRLabs\\Damping Constraints": "f71457bcffdb2c14cb8b10d7f5ad0a93"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Damping Constraints",
           "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp"
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Damping-Constraints/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Damping-Constraints/main/Media/Web/PreviewGif.webp"
           },
           "unityPackageDestinationFolderMetas": {
             "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+            "Assets/VRLabs/Damping Constraints": "f71457bcffdb2c14cb8b10d7f5ad0a93"
           },
-          "url": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.0.1/dev.vrlabs.final-ik-stub-1.0.1.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.0.1/dev.vrlabs.final-ik-stub-1.0.1.unitypackage",
-          "zipSHA256": "ffd5e0c1675ccb3b496dc66518f50dfa712fdd45986a3dd425a7628d36c9f57b"
+          "url": "https://github.com/VRLabs/Damping-Constraints/releases/download/1.0.1/dev.vrlabs.damping-constraints-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Damping-Constraints/releases/download/1.0.1/dev.vrlabs.damping-constraints-1.0.1.unitypackage",
+          "zipSHA256": "9850e40b3aa5e915c5bbedfba441ffc1bf8444d6d2b3183fc9719dba5a6208c0"
+        }
+      }
+    },
+    "dev.vrlabs.instancer": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.instancer",
+          "displayName": "VRLabs Instancer",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Instancer",
+          "vpmDependencies": {},
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
+          },
+          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.unitypackage",
+          "zipSHA256": "a028e942035ea76f9198781ee91195b598f534ff418454a67f36e6e02537f160"
+        },
+        "1.0.0": {
+          "name": "dev.vrlabs.instancer",
+          "displayName": "VRLabs Instancer",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Instancer",
+          "vpmDependencies": {},
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
+          },
+          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.unitypackage",
+          "zipSHA256": "068e89de9fc525996060ff238be1a2d9f44133b28fd569228f89625ea3379256"
+        }
+      }
+    },
+    "dev.vrlabs.isrendering-detection": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.isrendering-detection",
+          "displayName": "IsRendering Detection",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Sets an \"IsRendering\" parameter to true when being looked at",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/IsRendering-Detection",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\IsRendering Detection": "0a323fedc1a15df488611b180c214891"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/IsRendering Detection",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/IsRendering-Detection/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/IsRendering-Detection/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/IsRendering Detection": "0a323fedc1a15df488611b180c214891"
+          },
+          "url": "https://github.com/VRLabs/IsRendering-Detection/releases/download/1.0.1/dev.vrlabs.isrendering-detection-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/IsRendering-Detection/releases/download/1.0.1/dev.vrlabs.isrendering-detection-1.0.1.unitypackage",
+          "zipSHA256": "4bc7bdec31f177bd5dcec70492425a8484bfce8fc04386e74c17ad4918f83385"
+        }
+      }
+    },
+    "dev.vrlabs.local-mirror-detection": {
+      "versions": {
+        "1.0.5": {
+          "name": "dev.vrlabs.local-mirror-detection",
+          "displayName": "Local Mirror Detection",
+          "version": "1.0.5",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Sets an \"IsMirror\" parameter to true on your mirror clone",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Local-Mirror-Detection",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Local Mirror Detection",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Local-Mirror-Detection/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Local-Mirror-Detection/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
+          },
+          "url": "https://github.com/VRLabs/Local-Mirror-Detection/releases/download/1.0.5/dev.vrlabs.local-mirror-detection-1.0.5.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Local-Mirror-Detection/releases/download/1.0.5/dev.vrlabs.local-mirror-detection-1.0.5.unitypackage",
+          "zipSHA256": "51a32ae5adf34e37584fd24691d21fcde4c990aa47907ec4c1f899be4bfcd42c"
+        }
+      }
+    },
+    "dev.vrlabs.offset-constraint": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.offset-constraint",
+          "displayName": "Offset Constraint",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A hierarchy of animated constraints that display how to move an object in world space while preserving previously generated offsets.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Offset-Constraint",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Offset Constraint": "594678af05e88bd41bf2421d9acb9365"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Offset Constraint",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Offset-Constraint/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Offset-Constraint/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Offset Constraint": "594678af05e88bd41bf2421d9acb9365"
+          },
+          "url": "https://github.com/VRLabs/Offset-Constraint/releases/download/1.0.1/dev.vrlabs.offset-constraint-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Offset-Constraint/releases/download/1.0.1/dev.vrlabs.offset-constraint-1.0.1.unitypackage",
+          "zipSHA256": "c1065a4548989854d7f49d67ecd76f518907b54f076408af59c11b843b5d0a9f"
+        }
+      }
+    },
+    "dev.vrlabs.raycast-prefab": {
+      "versions": {
+        "1.2.0": {
+          "name": "dev.vrlabs.raycast-prefab",
+          "displayName": "Raycast Prefab",
+          "version": "1.2.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Places an object at the hit point of a raycast",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Raycast-Prefab",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Raycast Prefab": "96ca89f88e52b1d41bd440736d30e35d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Raycast Prefab",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Raycast-Prefab/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Raycast-Prefab/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Raycast Prefab": "96ca89f88e52b1d41bd440736d30e35d"
+          },
+          "url": "https://github.com/VRLabs/Raycast-Prefab/releases/download/1.2.0/dev.vrlabs.raycast-prefab-1.2.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Raycast-Prefab/releases/download/1.2.0/dev.vrlabs.raycast-prefab-1.2.0.unitypackage",
+          "zipSHA256": "5c2af881df97a4069d0e7020f55f88d44585381dd0ba819cc21fff1b297ed9e6"
+        }
+      }
+    },
+    "dev.vrlabs.selective-animation": {
+      "versions": {
+        "1.0.0": {
+          "name": "dev.vrlabs.selective-animation",
+          "displayName": "Selective Animation",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "System for playing animations for only a single player in an instance",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Selective-Animation",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Selective Animation": "7a21e49786371eb4aa7d72f69824cf71"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Selective Animation",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Selective-Animation/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Selective-Animation/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Selective Animation": "7a21e49786371eb4aa7d72f69824cf71"
+          },
+          "url": "https://github.com/VRLabs/Selective-Animation/releases/download/1.0.0/dev.vrlabs.selective-animation-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Selective-Animation/releases/download/1.0.0/dev.vrlabs.selective-animation-1.0.0.unitypackage",
+          "zipSHA256": "11834bece017877447a8b03647f7ee831d9b9ad29bf3c907dc906ea064d64533"
+        }
+      }
+    },
+    "dev.vrlabs.spring-constraint": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.spring-constraint",
+          "displayName": "Spring Constraint",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A constraint system with spring behavior",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Spring-Constraint",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Spring Constraint": "64faad95e10bec74b817c5e4f21a9abe"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Spring Constraint",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Spring-Constraint/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Spring-Constraint/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Spring Constraint": "64faad95e10bec74b817c5e4f21a9abe"
+          },
+          "url": "https://github.com/VRLabs/Spring-Constraint/releases/download/1.0.1/dev.vrlabs.spring-constraint-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Spring-Constraint/releases/download/1.0.1/dev.vrlabs.spring-constraint-1.0.1.unitypackage",
+          "zipSHA256": "74798613b9268d2a5d80078e53cbde4b03925723a351ed432e5baae54e487371"
+        }
+      }
+    },
+    "dev.vrlabs.world-constraint": {
+      "versions": {
+        "1.2.3": {
+          "name": "dev.vrlabs.world-constraint",
+          "displayName": "World Constraint",
+          "version": "1.2.3",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A world-fixed object, held in place with a constraint",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/World-Constraint",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/World Constraint",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+          },
+          "url": "https://github.com/VRLabs/World-Constraint/releases/download/1.2.3/dev.vrlabs.world-constraint-1.2.3.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/World-Constraint/releases/download/1.2.3/dev.vrlabs.world-constraint-1.2.3.unitypackage",
+          "zipSHA256": "08dba756e7d781950b16874b96498bd0f02318d6171bc9eae37738cdcb6ea070"
+        },
+        "1.2.2": {
+          "name": "dev.vrlabs.world-constraint",
+          "displayName": "World Constraint",
+          "version": "1.2.2",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A world-fixed object, held in place with a constraint",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/World-Constraint",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/World Constraint",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+          },
+          "url": "https://github.com/VRLabs/World-Constraint/releases/download/1.2.2/dev.vrlabs.world-constraint-1.2.2.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/World-Constraint/releases/download/1.2.2/dev.vrlabs.world-constraint-1.2.2.unitypackage",
+          "zipSHA256": "068621700fadb950f74f182b78333a06a4843c4f86a527750074dde684a5bb09"
+        }
+      }
+    },
+    "dev.vrlabs.world-physics": {
+      "versions": {
+        "1.3.2": {
+          "name": "dev.vrlabs.world-physics",
+          "displayName": "World Physics",
+          "version": "1.3.2",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Easy fix for Physics components behaving weirdly in world space",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/World-Physics",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\World Physics": "022cf6b4fef2546c591b9d4b2af30e0e"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/World Physics",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/World-Physics/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/World-Physics/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/World Physics": "022cf6b4fef2546c591b9d4b2af30e0e"
+          },
+          "url": "https://github.com/VRLabs/World-Physics/releases/download/1.3.2/dev.vrlabs.world-physics-1.3.2.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/World-Physics/releases/download/1.3.2/dev.vrlabs.world-physics-1.3.2.unitypackage",
+          "zipSHA256": "6184b5ac7a2945b9b57acf5ea57a73fa3b165b86f1d48547a5382a5f7a7a5a43"
         }
       }
     }
