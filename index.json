@@ -2857,170 +2857,6 @@
         }
       }
     },
-    "dev.vrlabs.av3manager": {
-      "versions": {
-        "2.0.28": {
-          "name": "dev.vrlabs.av3manager",
-          "displayName": "Avatars 3.0 Manager",
-          "version": "2.0.28",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "A tool for managing playable layers and parameters for Avatars 3.0.",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Avatars-3.0-Manager",
-          "vpmDependencies": {
-            "com.vrchat.avatars": "3.2 - 3.5"
-          },
-          "legacyFolders": {
-            "Assets\\VRLabs\\Avatars 3.0 Manager": "513a67139704dd249855ebe5f760cba5"
-          },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Avatars 3.0 Manager",
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Avatars 3.0 Manager": "513a67139704dd249855ebe5f760cba5"
-          },
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Avatars-3.0-Manager/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Avatars-3.0-Manager/main/Media/Web/Preview.webp"
-          },
-          "url": "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.28/dev.vrlabs.av3manager-2.0.28.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.28/dev.vrlabs.av3manager-2.0.28.unitypackage",
-          "zipSHA256": "e91990a65b6ebb6496dc00ff68642ab685eaee4970c2a42498f7ffa8bf3e349d"
-        }
-      }
-    },
-    "dev.vrlabs.dynamic-bones-stub": {
-      "versions": {
-        "1.3.3": {
-          "name": "dev.vrlabs.dynamic-bones-stub",
-          "displayName": "Dynamic Bones Stub",
-          "version": "1.3.3",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub",
-          "vpmDependencies": {},
-          "legacyFolders": {
-            "Assets\\VRLabs\\Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
-          },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Dynamic Bones Stub",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp"
-          },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
-          },
-          "url": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.3.3/dev.vrlabs.dynamic-bones-stub-1.3.3.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.3.3/dev.vrlabs.dynamic-bones-stub-1.3.3.unitypackage",
-          "zipSHA256": "ee82aaebfacd064ec3f4b543eb79b56ab15768c16e109f0a111df46fbdccec23"
-        },
-        "1.0.1": {
-          "name": "dev.vrlabs.dynamic-bones-stub",
-          "displayName": "Dynamic Bones Stub",
-          "version": "1.0.1",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub",
-          "vpmDependencies": {},
-          "legacyFolders": {
-            "Assets\\VRLabs\\Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
-          },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Dynamic Bones Stub",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp"
-          },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
-          },
-          "url": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.0.1/dev.vrlabs.dynamic-bones-stub-1.0.1.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.0.1/dev.vrlabs.dynamic-bones-stub-1.0.1.unitypackage",
-          "zipSHA256": "8599da1330ac92be5c01d152b98cf7a1b914e281218224080f551805753c675a"
-        }
-      }
-    },
-    "dev.vrlabs.final-ik-stub": {
-      "versions": {
-        "1.9.1": {
-          "name": "dev.vrlabs.final-ik-stub",
-          "displayName": "Final IK Stub",
-          "version": "1.9.1",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "Stub package for the Final IK components whitelisted by VRChat",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Final-IK-Stub",
-          "vpmDependencies": {},
-          "legacyFolders": {
-            "Assets\\VRLabs\\Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
-          },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Final IK Stub",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp"
-          },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
-          },
-          "url": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.9.1/dev.vrlabs.final-ik-stub-1.9.1.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.9.1/dev.vrlabs.final-ik-stub-1.9.1.unitypackage",
-          "zipSHA256": "9ce31026a2aa16334ca4bd53c2e0f634015737839e748aefd3dce4bfd9491390"
-        },
-        "1.0.1": {
-          "name": "dev.vrlabs.final-ik-stub",
-          "displayName": "Final IK Stub",
-          "version": "1.0.1",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "Stub package for the Final IK components whitelisted by VRChat",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Final-IK-Stub",
-          "vpmDependencies": {},
-          "legacyFolders": {
-            "Assets\\VRLabs\\Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
-          },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Final IK Stub",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp"
-          },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
-          },
-          "url": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.0.1/dev.vrlabs.final-ik-stub-1.0.1.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.0.1/dev.vrlabs.final-ik-stub-1.0.1.unitypackage",
-          "zipSHA256": "ffd5e0c1675ccb3b496dc66518f50dfa712fdd45986a3dd425a7628d36c9f57b"
-        }
-      }
-    },
     "sh.orels.shaders": {
       "versions": {
         "6.4.0-dev.3": {
@@ -13124,6 +12960,2657 @@
           "url": "https://github.com/Pokeyi/vpm-packages/releases/download/v1.0.0/dev.pokeyi.udontools-1.0.0.zip",
           "legacyFolders": {},
           "legacyFiles": {}
+        }
+      }
+    },
+    "com.github.kurotu.vrc-quest-tools": {
+      "versions": {
+        "2.2.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "2.2.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Android avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "changelogUrl": "https://kurotu.github.io/VRCQuestTools/docs/changelog?lang=auto",
+          "documentationUrl": "https://kurotu.github.io/VRCQuestTools/?lang=auto",
+          "licensesUrl": "https://github.com/kurotu/VRCQuestTools/blob/master/LICENSE.txt",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.3.0"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v2.2.0/com.github.kurotu.vrc-quest-tools-2.2.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1",
+            "Assets\\KRT\\VRCQuestToolsExtra": "0d11585594bb9756382a21acad43a616"
+          },
+          "legacyPackages": [
+            "com.github.kurotu.vrc-quest-tools-extra"
+          ]
+        },
+        "2.1.2": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "2.1.2",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Android avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "changelogUrl": "https://kurotu.github.io/VRCQuestTools/docs/changelog?lang=auto",
+          "documentationUrl": "https://kurotu.github.io/VRCQuestTools/?lang=auto",
+          "licensesUrl": "https://github.com/kurotu/VRCQuestTools/blob/master/LICENSE.txt",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.3.0"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v2.1.2/com.github.kurotu.vrc-quest-tools-2.1.2.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1",
+            "Assets\\KRT\\VRCQuestToolsExtra": "0d11585594bb9756382a21acad43a616"
+          },
+          "legacyPackages": [
+            "com.github.kurotu.vrc-quest-tools-extra"
+          ]
+        },
+        "2.1.1": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "2.1.1",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Android avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "changelogUrl": "https://kurotu.github.io/VRCQuestTools/docs/changelog?lang=auto",
+          "documentationUrl": "https://kurotu.github.io/VRCQuestTools/?lang=auto",
+          "licensesUrl": "https://github.com/kurotu/VRCQuestTools/blob/master/LICENSE.txt",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.3.0"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v2.1.1/com.github.kurotu.vrc-quest-tools-2.1.1.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1",
+            "Assets\\KRT\\VRCQuestToolsExtra": "0d11585594bb9756382a21acad43a616"
+          },
+          "legacyPackages": [
+            "com.github.kurotu.vrc-quest-tools-extra"
+          ]
+        },
+        "2.1.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "2.1.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Android avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "changelogUrl": "https://kurotu.github.io/VRCQuestTools/docs/changelog?lang=auto",
+          "documentationUrl": "https://kurotu.github.io/VRCQuestTools/?lang=auto",
+          "licensesUrl": "https://github.com/kurotu/VRCQuestTools/blob/master/LICENSE.txt",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.3.0"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v2.1.0/com.github.kurotu.vrc-quest-tools-2.1.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1",
+            "Assets\\KRT\\VRCQuestToolsExtra": "0d11585594bb9756382a21acad43a616"
+          },
+          "legacyPackages": [
+            "com.github.kurotu.vrc-quest-tools-extra"
+          ]
+        },
+        "2.0.1": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "2.0.1",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Android avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "changelogUrl": "https://kurotu.github.io/VRCQuestTools/docs/changelog",
+          "documentationUrl": "https://kurotu.github.io/VRCQuestTools/",
+          "licensesUrl": "https://github.com/kurotu/VRCQuestTools/blob/master/LICENSE.txt",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.3.0"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v2.0.1/com.github.kurotu.vrc-quest-tools-2.0.1.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1",
+            "Assets\\KRT\\VRCQuestToolsExtra": "0d11585594bb9756382a21acad43a616"
+          },
+          "legacyPackages": [
+            "com.github.kurotu.vrc-quest-tools-extra"
+          ]
+        },
+        "2.0.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "2.0.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "changelogUrl": "https://kurotu.github.io/VRCQuestTools/docs/changelog",
+          "documentationUrl": "https://kurotu.github.io/VRCQuestTools/",
+          "licensesUrl": "https://github.com/kurotu/VRCQuestTools/blob/master/LICENSE.txt",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v2.0.0/com.github.kurotu.vrc-quest-tools-2.0.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1",
+            "Assets\\KRT\\VRCQuestToolsExtra": "0d11585594bb9756382a21acad43a616"
+          },
+          "legacyPackages": [
+            "com.github.kurotu.vrc-quest-tools-extra"
+          ]
+        },
+        "1.14.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.14.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.14.0/com.github.kurotu.vrc-quest-tools-1.14.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.13.5": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.13.5",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.13.5/com.github.kurotu.vrc-quest-tools-1.13.5.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.13.4": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.13.4",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.13.4/com.github.kurotu.vrc-quest-tools-1.13.4.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.13.3": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.13.3",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.13.3/com.github.kurotu.vrc-quest-tools-1.13.3.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.13.2": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.13.2",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.13.2/com.github.kurotu.vrc-quest-tools-1.13.2.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.13.1": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.13.1",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.13.1/com.github.kurotu.vrc-quest-tools-1.13.1.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.13.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.13.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.13.0/com.github.kurotu.vrc-quest-tools-1.13.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.12.1": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.12.1",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.12.1/com.github.kurotu.vrc-quest-tools-1.12.1.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.12.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.12.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.12.0/com.github.kurotu.vrc-quest-tools-1.12.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.11.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.11.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.11.0/com.github.kurotu.vrc-quest-tools-1.11.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.10.1": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.10.1",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.10.1/com.github.kurotu.vrc-quest-tools-1.10.1.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.10.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.10.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.10.0/com.github.kurotu.vrc-quest-tools-1.10.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.9.1": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.9.1",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.9.1/com.github.kurotu.vrc-quest-tools-1.9.1.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        },
+        "1.9.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.9.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.9.0/com.github.kurotu.vrc-quest-tools-1.9.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
+          }
+        }
+      }
+    },
+    "com.github.kurotu.krt-material-tools": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.github.kurotu.krt-material-tools",
+          "displayName": "KRT Material Tools",
+          "version": "1.0.0",
+          "unity": "2019.4",
+          "description": "Small tools to manipulate materials",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "3.0.2"
+          },
+          "author": {
+            "name": "kurotu"
+          },
+          "license": "MIT",
+          "zipSHA256": "d6633dd2fda2280b2618a0f15a858505b0a99962da745d1519ddd8ba2e7b0f39",
+          "url": "https://github.com/kurotu/krt-material-tools/releases/download/1.0.0/com.github.kurotu.krt-material-tools-1.0.0.zip",
+          "legacyFolders": {
+            "Assets\\KRT\\MaterialReplacer": ""
+          },
+          "legacyPackages": [
+            "com.github.kurotu.material-replacer"
+          ]
+        },
+        "0.0.1-alpha.2": {
+          "name": "com.github.kurotu.krt-material-tools",
+          "displayName": "KRT Material Tools",
+          "version": "0.0.1-alpha.2",
+          "unity": "2019.4",
+          "description": "Small tools to manipulate materials",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "3.0.2"
+          },
+          "author": {
+            "name": "kurotu"
+          },
+          "license": "MIT",
+          "zipSHA256": "305031618571f7fe0ceda993a0b66ce03b581de2c3c9c38f8c26602fe83db4af",
+          "url": "https://github.com/kurotu/krt-material-tools/releases/download/0.0.1-alpha.2/com.github.kurotu.krt-material-tools-0.0.1-alpha.2.zip",
+          "legacyFolders": {
+            "Assets\\KRT\\MaterialReplacer": ""
+          },
+          "legacyPackages": [
+            "com.github.kurotu.material-replacer"
+          ]
+        },
+        "0.0.1-alpha.1": {
+          "name": "com.github.kurotu.krt-material-tools",
+          "displayName": "KRT Material Tools",
+          "version": "0.0.1-alpha.1",
+          "description": "Small tools to manipulate materials",
+          "author": {
+            "name": "kurotu"
+          },
+          "zipSHA256": "9678963f5f220766bb52ec4a9e269cb66ea0f0f849b0c2ed4813b14839e3e56a",
+          "url": "https://github.com/kurotu/krt-material-tools/releases/download/0.0.1-alpha.1/com.github.kurotu.krt-material-tools-0.0.1-alpha.1.zip"
+        }
+      }
+    },
+    "com.github.kurotu.material-replacer": {
+      "versions": {
+        "1.2.0": {
+          "name": "com.github.kurotu.material-replacer",
+          "version": "1.2.0",
+          "displayName": "Material Replacer",
+          "description": "Editor extension to replace materials at once",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "vpmDependencies": {},
+          "url": "https://github.com/kurotu/MaterialReplacer/releases/download/v1.2.0/com.github.kurotu.material-replacer-1.2.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\MaterialReplacer": ""
+          }
+        },
+        "1.1.1": {
+          "name": "com.github.kurotu.material-replacer",
+          "version": "1.1.1",
+          "displayName": "Material Replacer",
+          "description": "Editor extension to replace materials at once",
+          "unity": "2019.4",
+          "author": {
+            "name": "kurotu"
+          },
+          "vpmDependencies": {},
+          "url": "https://github.com/kurotu/MaterialReplacer/releases/download/v1.1.1/com.github.kurotu.material-replacer-1.1.1.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\MaterialReplacer": ""
+          }
+        }
+      }
+    },
+    "com.cyan.playerobjectpool": {
+      "versions": {
+        "1.1.2": {
+          "name": "com.cyan.playerobjectpool",
+          "displayName": "Cyan Player Object Pool",
+          "version": "1.1.2",
+          "unity": "2019.4",
+          "description": "A VRChat system that will assign a unique object to every player in the world.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.1.x",
+            "com.vrchat.udonsharp": "^1.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "UdonGraph Examples",
+              "description": "",
+              "path": "Examples~/UdonGraph"
+            },
+            {
+              "displayName": "UdonSharp Examples",
+              "description": "",
+              "path": "Examples~/UdonSharp"
+            },
+            {
+              "displayName": "CyanTrigger Examples",
+              "description": "",
+              "path": "Examples~/CyanTrigger"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "c248cef049a25349319c344d1966d0d2a3fd6cfa30f699a5ec4462e83524e699",
+          "url": "https://github.com/CyanLaser/CyanPlayerObjectPool/releases/download/v1.1.2/com.cyan.playerobjectpool-1.1.2.zip",
+          "legacyFolders": {
+            "Assets\\Cyan\\PlayerObjectPool": "b8de48290350821488f80da1d1c22556"
+          }
+        },
+        "1.1.1": {
+          "name": "com.cyan.playerobjectpool",
+          "displayName": "Cyan Player Object Pool",
+          "version": "1.1.1",
+          "unity": "2019.4",
+          "description": "A VRChat system that will assign a unique object to every player in the world.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.1.x",
+            "com.vrchat.udonsharp": "1.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "UdonGraph Examples",
+              "description": "",
+              "path": "Examples~/UdonGraph"
+            },
+            {
+              "displayName": "UdonSharp Examples",
+              "description": "",
+              "path": "Examples~/UdonSharp"
+            },
+            {
+              "displayName": "CyanTrigger Examples",
+              "description": "",
+              "path": "Examples~/CyanTrigger"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "5c15c445a2f9b74113f527a2485edd3bc420147b21fc6a1928f6575d600a94ce",
+          "url": "https://github.com/CyanLaser/CyanPlayerObjectPool/releases/download/v1.1.1/com.cyan.playerobjectpool.zip",
+          "legacyFolders": {
+            "Assets\\Cyan\\PlayerObjectPool": "b8de48290350821488f80da1d1c22556"
+          }
+        }
+      }
+    },
+    "com.cyan.cyantrigger": {
+      "versions": {
+        "4.4.2": {
+          "name": "com.cyan.cyantrigger",
+          "displayName": "CyanTrigger",
+          "version": "4.4.2",
+          "unity": "2019.4",
+          "description": "A VRChat Udon compiler that simplifies creating logic while still providing the full power of Udon. Features Event and Action lists with in scene editing. Visually similar to VRCSDK2's VRC_Trigger.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "ExamplesAndPrefabs",
+              "description": "Examples of how to use CyanTrigger and useful sample prefabs.",
+              "path": "Samples~/GeneralExamples"
+            },
+            {
+              "displayName": "DefaultCustomActions",
+              "description": "Helpful Custom Actions for making logic using CyanTrigger.",
+              "path": "Samples~/DefaultCustomActions"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "b850806cca105c20a4c62b438dfa7d2a99bc7d523b3650b17a1e1271edbfb01b",
+          "url": "https://github.com/CyanLaser/CyanTrigger/releases/download/4.4.2/com.cyan.cyantrigger-4.4.2.zip",
+          "legacyFolders": {
+            "Assets\\CyanTrigger\\DefaultCustomActions": "18c5393a2789ef247a01fda9efeecd96",
+            "Assets\\CyanTrigger\\Editor": "645d4060f293c1645a6808bf56a36133",
+            "Assets\\CyanTrigger\\Examples": "5537fd307d7a93b4b8711020e5a8e589",
+            "Assets\\CyanTrigger\\Resources": "b07965ba377fb8044b908e83ec68c56c",
+            "Assets\\CyanTrigger\\Runtime": "965354f146da23042abe6e090742449e",
+            "Assets\\CyanTriggerExamples": "d0143e885dafbbd40ac4cdf1ec09361d"
+          },
+          "legacyFiles": {
+            "Assets\\CyanTrigger\\CyanTriggerLicense.txt": "5e1f7f33dafe75e42b53f895b9ae7093",
+            "Assets\\CyanTrigger\\package.json": "70ef95417547a714b80f77073e7f810d"
+          }
+        },
+        "4.4.1": {
+          "name": "com.cyan.cyantrigger",
+          "displayName": "CyanTrigger",
+          "version": "4.4.1",
+          "unity": "2019.4",
+          "description": "A VRChat Udon compiler that simplifies creating logic while still providing the full power of Udon. Features Event and Action lists with in scene editing. Visually similar to VRCSDK2's VRC_Trigger.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "ExamplesAndPrefabs",
+              "description": "Examples of how to use CyanTrigger and useful sample prefabs.",
+              "path": "Samples~/GeneralExamples"
+            },
+            {
+              "displayName": "DefaultCustomActions",
+              "description": "Helpful Custom Actions for making logic using CyanTrigger.",
+              "path": "Samples~/DefaultCustomActions"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "305e8b75983a76afd77c26b6200ba59284c21ebc37a32b4b74289ed2c330763e",
+          "url": "https://github.com/CyanLaser/CyanTrigger/releases/download/4.4.1/com.cyan.cyantrigger-4.4.1.zip",
+          "legacyFolders": {
+            "Assets\\CyanTrigger\\DefaultCustomActions": "18c5393a2789ef247a01fda9efeecd96",
+            "Assets\\CyanTrigger\\Editor": "645d4060f293c1645a6808bf56a36133",
+            "Assets\\CyanTrigger\\Examples": "5537fd307d7a93b4b8711020e5a8e589",
+            "Assets\\CyanTrigger\\Resources": "b07965ba377fb8044b908e83ec68c56c",
+            "Assets\\CyanTrigger\\Runtime": "965354f146da23042abe6e090742449e",
+            "Assets\\CyanTrigger": "b6e805649837a4340bfd55ffe4c700bb",
+            "Assets\\CyanTriggerExamples": "d0143e885dafbbd40ac4cdf1ec09361d"
+          },
+          "legacyFiles": {
+            "Assets\\CyanTrigger\\CyanTriggerLicense.txt": "5e1f7f33dafe75e42b53f895b9ae7093",
+            "Assets\\CyanTrigger\\package.json": "70ef95417547a714b80f77073e7f810d"
+          }
+        },
+        "4.4.0": {
+          "name": "com.cyan.cyantrigger",
+          "displayName": "CyanTrigger",
+          "version": "4.4.0",
+          "unity": "2019.4",
+          "description": "A VRChat Udon compiler that simplifies creating logic while still providing the full power of Udon. Features Event and Action lists with in scene editing. Visually similar to VRCSDK2's VRC_Trigger.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "ExamplesAndPrefabs",
+              "description": "Examples of how to use CyanTrigger and useful sample prefabs.",
+              "path": "Samples~/GeneralExamples"
+            },
+            {
+              "displayName": "DefaultCustomActions",
+              "description": "Helpful Custom Actions for making logic using CyanTrigger.",
+              "path": "Samples~/DefaultCustomActions"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "4d2898714f6f1a9362882acc761e7dd24120f45e65dc536d0e236eafae50b2da",
+          "url": "https://github.com/CyanLaser/CyanTrigger/releases/download/4.4.0/com.cyan.cyantrigger-4.4.0.zip",
+          "legacyFolders": {
+            "Assets\\CyanTrigger\\DefaultCustomActions": "18c5393a2789ef247a01fda9efeecd96",
+            "Assets\\CyanTrigger\\Editor": "645d4060f293c1645a6808bf56a36133",
+            "Assets\\CyanTrigger\\Examples": "5537fd307d7a93b4b8711020e5a8e589",
+            "Assets\\CyanTrigger\\Resources": "b07965ba377fb8044b908e83ec68c56c",
+            "Assets\\CyanTrigger\\Runtime": "965354f146da23042abe6e090742449e",
+            "Assets\\CyanTrigger": "b6e805649837a4340bfd55ffe4c700bb",
+            "Assets\\CyanTriggerExamples": "d0143e885dafbbd40ac4cdf1ec09361d"
+          },
+          "legacyFiles": {
+            "Assets\\CyanTrigger\\CyanTriggerLicense.txt": "5e1f7f33dafe75e42b53f895b9ae7093",
+            "Assets\\CyanTrigger\\package.json": "70ef95417547a714b80f77073e7f810d"
+          }
+        },
+        "4.3.3": {
+          "name": "com.cyan.cyantrigger",
+          "displayName": "CyanTrigger",
+          "version": "4.3.3",
+          "unity": "2019.4",
+          "description": "A VRChat Udon compiler that simplifies creating logic while still providing the full power of Udon. Features Event and Action lists with in scene editing. Visually similar to VRCSDK2's VRC_Trigger.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "ExamplesAndPrefabs",
+              "description": "Examples of how to use CyanTrigger and useful sample prefabs.",
+              "path": "Samples~/GeneralExamples"
+            },
+            {
+              "displayName": "DefaultCustomActions",
+              "description": "Helpful Custom Actions for making logic using CyanTrigger.",
+              "path": "Samples~/DefaultCustomActions"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "19b216ceada0eb6a76e07690ddc9e380e8a7917fc8cbcc5e5b31cb14f0baf082",
+          "url": "https://github.com/CyanLaser/CyanTrigger/releases/download/4.3.3/com.cyan.cyantrigger-4.3.3.zip",
+          "legacyFolders": {
+            "Assets\\CyanTrigger\\DefaultCustomActions": "18c5393a2789ef247a01fda9efeecd96",
+            "Assets\\CyanTrigger\\Editor": "645d4060f293c1645a6808bf56a36133",
+            "Assets\\CyanTrigger\\Examples": "5537fd307d7a93b4b8711020e5a8e589",
+            "Assets\\CyanTrigger\\Resources": "b07965ba377fb8044b908e83ec68c56c",
+            "Assets\\CyanTrigger\\Runtime": "965354f146da23042abe6e090742449e",
+            "Assets\\CyanTrigger": "b6e805649837a4340bfd55ffe4c700bb",
+            "Assets\\CyanTriggerExamples": "d0143e885dafbbd40ac4cdf1ec09361d"
+          },
+          "legacyFiles": {
+            "Assets\\CyanTrigger\\CyanTriggerLicense.txt": "5e1f7f33dafe75e42b53f895b9ae7093",
+            "Assets\\CyanTrigger\\package.json": "70ef95417547a714b80f77073e7f810d"
+          }
+        },
+        "4.3.2": {
+          "name": "com.cyan.cyantrigger",
+          "displayName": "CyanTrigger",
+          "version": "4.3.2",
+          "unity": "2019.4",
+          "description": "A VRChat Udon compiler that simplifies creating logic while still providing the full power of Udon. Features Event and Action lists with in scene editing. Visually similar to VRCSDK2's VRC_Trigger.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "ExamplesAndPrefabs",
+              "description": "Examples of how to use CyanTrigger and useful sample prefabs.",
+              "path": "Samples~/GeneralExamples"
+            },
+            {
+              "displayName": "DefaultCustomActions",
+              "description": "Helpful Custom Actions for making logic using CyanTrigger.",
+              "path": "Samples~/DefaultCustomActions"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "a462abed9926a31c8cc1de080e60bbd10e377ddecbb7be96136122af579fa457",
+          "url": "https://github.com/CyanLaser/CyanTrigger/releases/download/4.3.2/com.cyan.cyantrigger-4.3.2.zip",
+          "legacyFolders": {
+            "Assets\\CyanTrigger\\DefaultCustomActions": "18c5393a2789ef247a01fda9efeecd96",
+            "Assets\\CyanTrigger\\Editor": "645d4060f293c1645a6808bf56a36133",
+            "Assets\\CyanTrigger\\Examples": "5537fd307d7a93b4b8711020e5a8e589",
+            "Assets\\CyanTrigger\\Resources": "b07965ba377fb8044b908e83ec68c56c",
+            "Assets\\CyanTrigger\\Runtime": "965354f146da23042abe6e090742449e",
+            "Assets\\CyanTrigger": "b6e805649837a4340bfd55ffe4c700bb",
+            "Assets\\CyanTriggerExamples": "d0143e885dafbbd40ac4cdf1ec09361d"
+          },
+          "legacyFiles": {
+            "Assets\\CyanTrigger\\CyanTriggerLicense.txt": "5e1f7f33dafe75e42b53f895b9ae7093",
+            "Assets\\CyanTrigger\\package.json": "70ef95417547a714b80f77073e7f810d"
+          }
+        },
+        "4.3.1": {
+          "name": "com.cyan.cyantrigger",
+          "displayName": "CyanTrigger",
+          "version": "4.3.1",
+          "unity": "2019.4",
+          "description": "A VRChat Udon compiler that simplifies creating logic while still providing the full power of Udon. Features Event and Action lists with in scene editing. Visually similar to VRCSDK2's VRC_Trigger.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "ExamplesAndPrefabs",
+              "description": "Examples of how to use CyanTrigger and useful sample prefabs.",
+              "path": "Samples~/GeneralExamples"
+            },
+            {
+              "displayName": "DefaultCustomActions",
+              "description": "Helpful Custom Actions for making logic using CyanTrigger.",
+              "path": "Samples~/DefaultCustomActions"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "c55e4bf3beaf8815859c419ff7e1757fe7fe6139d38519802fb044dd8896f650",
+          "url": "https://github.com/CyanLaser/CyanTrigger/releases/download/4.3.1/com.cyan.cyantrigger-4.3.1.zip",
+          "legacyFolders": {
+            "Assets\\CyanTrigger\\DefaultCustomActions": "18c5393a2789ef247a01fda9efeecd96",
+            "Assets\\CyanTrigger\\Editor": "645d4060f293c1645a6808bf56a36133",
+            "Assets\\CyanTrigger\\Examples": "5537fd307d7a93b4b8711020e5a8e589",
+            "Assets\\CyanTrigger\\Resources": "b07965ba377fb8044b908e83ec68c56c",
+            "Assets\\CyanTrigger\\Runtime": "965354f146da23042abe6e090742449e",
+            "Assets\\CyanTrigger": "b6e805649837a4340bfd55ffe4c700bb",
+            "Assets\\CyanTriggerExamples": "d0143e885dafbbd40ac4cdf1ec09361d"
+          },
+          "legacyFiles": {
+            "Assets\\CyanTrigger\\CyanTriggerLicense.txt": "5e1f7f33dafe75e42b53f895b9ae7093",
+            "Assets\\CyanTrigger\\package.json": "70ef95417547a714b80f77073e7f810d"
+          }
+        },
+        "4.3.0": {
+          "name": "com.cyan.cyantrigger",
+          "displayName": "CyanTrigger",
+          "version": "4.3.0",
+          "unity": "2019.4",
+          "description": "A VRChat Udon compiler that simplifies creating logic while still providing the full power of Udon. Features Event and Action lists with in scene editing. Visually similar to VRCSDK2's VRC_Trigger.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "ExamplesAndPrefabs",
+              "description": "Examples of how to use CyanTrigger and useful sample prefabs.",
+              "path": "Samples~/GeneralExamples"
+            },
+            {
+              "displayName": "DefaultCustomActions",
+              "description": "Helpful Custom Actions for making logic using CyanTrigger.",
+              "path": "Samples~/DefaultCustomActions"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "00fc64c6b84ad218a716b6d2610aa772704bea08c557a497bec1224a07bc7d99",
+          "url": "https://github.com/CyanLaser/CyanTrigger/releases/download/4.3.0/com.cyan.cyantrigger-4.3.0.zip",
+          "legacyFolders": {
+            "Assets\\CyanTrigger\\DefaultCustomActions": "18c5393a2789ef247a01fda9efeecd96",
+            "Assets\\CyanTrigger\\Editor": "645d4060f293c1645a6808bf56a36133",
+            "Assets\\CyanTrigger\\Examples": "5537fd307d7a93b4b8711020e5a8e589",
+            "Assets\\CyanTrigger\\Resources": "b07965ba377fb8044b908e83ec68c56c",
+            "Assets\\CyanTrigger\\Runtime": "965354f146da23042abe6e090742449e",
+            "Assets\\CyanTrigger": "b6e805649837a4340bfd55ffe4c700bb",
+            "Assets\\CyanTriggerExamples": "d0143e885dafbbd40ac4cdf1ec09361d"
+          },
+          "legacyFiles": {
+            "Assets\\CyanTrigger\\CyanTriggerLicense.txt": "5e1f7f33dafe75e42b53f895b9ae7093",
+            "Assets\\CyanTrigger\\package.json": "70ef95417547a714b80f77073e7f810d"
+          }
+        },
+        "4.2.0": {
+          "name": "com.cyan.cyantrigger",
+          "displayName": "CyanTrigger",
+          "version": "4.2.0",
+          "unity": "2019.4",
+          "description": "A VRChat Udon compiler that simplifies creating logic while still providing the full power of Udon. Features Event and Action lists with in scene editing. Visually similar to VRCSDK2's VRC_Trigger.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "ExamplesAndPrefabs",
+              "description": "Examples of how to use CyanTrigger and useful sample prefabs.",
+              "path": "Samples~/GeneralExamples"
+            },
+            {
+              "displayName": "DefaultCustomActions",
+              "description": "Helpful Custom Actions for making logic using CyanTrigger.",
+              "path": "Samples~/DefaultCustomActions"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "dc23ad14f5288241f4aa60e70163f13db78f50d1aa17bb103d54fe343ab245be",
+          "url": "https://github.com/CyanLaser/CyanTrigger/releases/download/4.2.0/com.cyan.cyantrigger-4.2.0.zip",
+          "legacyFolders": {
+            "Assets\\CyanTrigger\\DefaultCustomActions": "18c5393a2789ef247a01fda9efeecd96",
+            "Assets\\CyanTrigger\\Editor": "645d4060f293c1645a6808bf56a36133",
+            "Assets\\CyanTrigger\\Examples": "5537fd307d7a93b4b8711020e5a8e589",
+            "Assets\\CyanTrigger\\Resources": "b07965ba377fb8044b908e83ec68c56c",
+            "Assets\\CyanTrigger\\Runtime": "965354f146da23042abe6e090742449e"
+          },
+          "legacyFiles": {
+            "Assets\\CyanTrigger\\CyanTriggerLicense.txt": "5e1f7f33dafe75e42b53f895b9ae7093",
+            "Assets\\CyanTrigger\\package.json": "70ef95417547a714b80f77073e7f810d"
+          }
+        },
+        "0.4.2": {
+          "name": "com.cyan.cyantrigger",
+          "displayName": "CyanTrigger",
+          "version": "0.4.2",
+          "unity": "2019.4",
+          "description": "A VRChat Udon compiler that simplifies creating logic while still providing the full power of Udon. Features Event and Action lists with in scene editing. Visually similar to VRCSDK2's VRC_Trigger.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.1.x"
+          },
+          "samples": [
+            {
+              "displayName": "ExamplesAndPrefabs",
+              "description": "Examples of how to use CyanTrigger and useful sample prefabs.",
+              "path": "Samples~/GeneralExamples"
+            },
+            {
+              "displayName": "DefaultCustomActions",
+              "description": "Helpful Custom Actions for making logic using CyanTrigger.",
+              "path": "Samples~/DefaultCustomActions"
+            }
+          ],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "6f26502b8ca4fda29c25b021986ce380c8ae24884f846d8edc8c4dc177ee4f01",
+          "url": "https://github.com/CyanLaser/CyanTrigger/releases/download/0.4.2/com.cyan.cyantrigger-0.4.2.zip",
+          "legacyFolders": {
+            "Assets\\CyanTrigger\\DefaultCustomActions": "18c5393a2789ef247a01fda9efeecd96",
+            "Assets\\CyanTrigger\\Editor": "645d4060f293c1645a6808bf56a36133",
+            "Assets\\CyanTrigger\\Examples": "5537fd307d7a93b4b8711020e5a8e589",
+            "Assets\\CyanTrigger\\Resources": "b07965ba377fb8044b908e83ec68c56c",
+            "Assets\\CyanTrigger\\Runtime": "965354f146da23042abe6e090742449e",
+            "Assets\\CyanTrigger": "b6e805649837a4340bfd55ffe4c700bb",
+            "Assets\\CyanTriggerExamples": "d0143e885dafbbd40ac4cdf1ec09361d"
+          },
+          "legacyFiles": {
+            "Assets\\CyanTrigger\\CyanTriggerLicense.txt": "5e1f7f33dafe75e42b53f895b9ae7093",
+            "Assets\\CyanTrigger\\package.json": "70ef95417547a714b80f77073e7f810d"
+          }
+        }
+      }
+    },
+    "com.cyan.cyantrigger.sdk2migrator": {
+      "versions": {
+        "2.1.0": {
+          "name": "com.cyan.cyantrigger.sdk2migrator",
+          "displayName": "CyanTrigger SDK2 Migrator",
+          "version": "2.1.0",
+          "unity": "2019.4",
+          "description": "System to migrate a VRChat SDK2 project to Udon using CyanTrigger. Note that not everything can be converted.",
+          "vpmDependencies": {
+            "com.cyan.cyantrigger": "^4.3.x"
+          },
+          "samples": [],
+          "author": {
+            "name": "CyanLaser"
+          },
+          "zipSHA256": "7c315f1077aea51dfb73730fbddc319e9f29f727d9f62e34ee983d1b58650827",
+          "url": "https://github.com/CyanLaser/CyanTrigger-SDK2Migrator/releases/download/v2.1.0/com.cyan.cyantrigger.sdk2migrator-2.1.0.zip",
+          "legacyFolders": {
+            "Assets\\CyanTriggerSDK2Migrator": ""
+          }
+        }
+      }
+    },
+    "com.chocopoi.vrc.avatarlib": {
+      "versions": {
+        "1.1.1": {
+          "name": "com.chocopoi.vrc.avatarlib",
+          "displayName": "AvatarLib",
+          "version": "1.1.1",
+          "unity": "2019.4",
+          "description": "Contains a bunch of quick-to-use APIs for plugins and applications to add, modify a VRChat avatar.",
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc"
+          },
+          "documentationUrl": "https://github.com/poi-vrc/AvatarLib",
+          "licensesUrl": "https://www.gnu.org/licenses/lgpl-3.0.html",
+          "zipSHA256": "a284ee3717ab755b2dfc0cf00551cacab9953841ac42254228b1368b5b76bdd7",
+          "url": "https://github.com/poi-vrc/AvatarLib/releases/download/1.1.1/com.chocopoi.vrc.avatarlib-1.1.1.zip"
+        },
+        "1.1.0": {
+          "name": "com.chocopoi.vrc.avatarlib",
+          "displayName": "AvatarLib",
+          "version": "1.1.0",
+          "unity": "2019.4",
+          "description": "Contains a bunch of quick-to-use APIs for plugins and applications to add, modify a VRChat avatar.",
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc"
+          },
+          "documentationUrl": "https://github.com/poi-vrc/AvatarLib",
+          "licensesUrl": "https://www.gnu.org/licenses/lgpl-3.0.html",
+          "zipSHA256": "faed18750ced2cb93e8002ccce39439683fe676e8ec74437e4f5e9f2b0af11c6",
+          "url": "https://github.com/poi-vrc/AvatarLib/releases/download/1.1.0/com.chocopoi.vrc.avatarlib-1.1.0.zip"
+        },
+        "1.0.2": {
+          "name": "com.chocopoi.vrc.avatarlib",
+          "displayName": "AvatarLib",
+          "version": "1.0.2",
+          "unity": "2019.4",
+          "description": "Contains a bunch of quick-to-use APIs for plugins and applications to add, modify a VRChat avatar.",
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc"
+          },
+          "documentationUrl": "https://github.com/poi-vrc/AvatarLib",
+          "licensesUrl": "https://www.gnu.org/licenses/lgpl-3.0.html",
+          "zipSHA256": "e8a4135aad25baba6cd9b96619e2232b5b5c848d010270278997f16d49f04a8f",
+          "url": "https://github.com/poi-vrc/AvatarLib/releases/download/1.0.2/com.chocopoi.vrc.avatarlib-1.0.2.zip"
+        },
+        "1.0.1": {
+          "name": "com.chocopoi.vrc.avatarlib",
+          "displayName": "AvatarLib",
+          "version": "1.0.1",
+          "unity": "2019.4",
+          "description": "Contains a bunch of quick-to-use APIs for plugins and applications to add, modify a VRChat avatar.",
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc"
+          },
+          "documentationUrl": "https://github.com/poi-vrc/AvatarLib",
+          "licensesUrl": "https://www.gnu.org/licenses/lgpl-3.0.html",
+          "zipSHA256": "93a2ef7c0a3fd08d8334530cb2a714adb65d12ed547d04b0c1213f1f29afca7a",
+          "url": "https://github.com/poi-vrc/AvatarLib/releases/download/1.0.1/com.chocopoi.vrc.avatarlib-1.0.1.zip"
+        },
+        "1.0.0-beta": {
+          "name": "com.chocopoi.vrc.avatarlib",
+          "displayName": "AvatarLib",
+          "version": "1.0.0-beta",
+          "unity": "2019.4",
+          "description": "Contains a bunch of quick-to-use APIs for plugins and applications to add, modify a VRChat avatar.",
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc"
+          },
+          "documentationUrl": "https://github.com/poi-vrc/AvatarLib",
+          "licensesUrl": "https://www.gnu.org/licenses/lgpl-3.0.html",
+          "zipSHA256": "26dba2c194275901fd1b9ba25d3f8d3e1973dcdb43e959de9b6edbf9c0f40ee7",
+          "url": "https://github.com/poi-vrc/AvatarLib/releases/download/1.0.0-beta/com.chocopoi.vrc.avatarlib-1.0.0-beta.zip"
+        }
+      }
+    },
+    "com.chocopoi.vrc.dressingtools": {
+      "versions": {
+        "2.2.0-beta.2": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.2.0-beta.2",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.1.0",
+            "com.chocopoi.vrc.dressingframework": "^2.0.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "8beb7ac6ee5945d71393f4805e009fd2ee8ffdac2e71a99bdfe326a7b16485aa",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.2.0-beta.2/com.chocopoi.vrc.dressingtools-2.2.0-beta.2.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.2.0-beta.1": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.2.0-beta.1",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.1.0",
+            "com.chocopoi.vrc.dressingframework": "^2.0.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "35f6fe36e21751a0bb976bfa78de16c036d1a81628643e265e2bdb07d376dce5",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.2.0-beta.1/com.chocopoi.vrc.dressingtools-2.2.0-beta.1.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.2.0-beta": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.2.0-beta",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.1.0",
+            "com.chocopoi.vrc.dressingframework": "^2.0.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "2c146bd33f1ed389592ce18733f768418cb5bee46fe0f0d39cb7a5ee046fcdd3",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.2.0-beta/com.chocopoi.vrc.dressingtools-2.2.0-beta.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.1.0": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.1.0",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.1.0",
+            "com.chocopoi.vrc.dressingframework": "^1.1.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "5b1f14b0f5d81ffd1f272f9f30824ef7f0d4863f462c4006f5ae26c826a83e26",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.1.0/com.chocopoi.vrc.dressingtools-2.1.0.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.3": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.3",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.1.0",
+            "com.chocopoi.vrc.dressingframework": "^1.0.4"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "79fe3a2b5bcfeaec06f3a1da024d1492956d67661925d1e323fd4aa36fdf3ea4",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.3/com.chocopoi.vrc.dressingtools-2.0.3.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.2": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.2",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.2",
+            "com.chocopoi.vrc.dressingframework": "^1.0.4"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "85f93cee7c60cecca0fde5e68332966827bd16d5c90dcd65e3872ac705e2df8d",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.2/com.chocopoi.vrc.dressingtools-2.0.2.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.1": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.1",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.2",
+            "com.chocopoi.vrc.dressingframework": "^1.0.4"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "6607f229b22c9356efdc2da9dddfd44686e4760d329163ede94815e7e8dd4a30",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.1/com.chocopoi.vrc.dressingtools-2.0.1.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.0": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.0",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.2",
+            "com.chocopoi.vrc.dressingframework": "^1.0.4"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "7460bfa8421aa064bc797c60e25e09d09783167231e865ba132dec57d9c43eb1",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.0/com.chocopoi.vrc.dressingtools-2.0.0.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.0-beta.4": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.0-beta.4",
+          "unity": "2019.4",
+          "description": "Dressing your own avatar is really that easy.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.1",
+            "com.chocopoi.vrc.dressingframework": "^1.0.3"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "871316498ba232faa5f1ddecb7104afb349e0a9c15ee8bed96c2a175ce928ccb",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.0-beta.4/com.chocopoi.vrc.dressingtools-2.0.0-beta.4.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.0-beta.3": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.0-beta.3",
+          "unity": "2019.4",
+          "description": "Dressing your own avatar is really that easy.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.0",
+            "com.chocopoi.vrc.dressingframework": "^1.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "1cdc6030445ffa144266919d4a1f1cc306d55b7476026bcdf13ddf50411ac719",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.0-beta.3/com.chocopoi.vrc.dressingtools-2.0.0-beta.3.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.0-beta.2": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.0-beta.2",
+          "unity": "2019.4",
+          "description": "Dressing your own avatar is really that easy.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.0",
+            "com.chocopoi.vrc.dressingframework": "^1.0.1"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "612a2e6d37df8c2a9c6ec49a32bf4687bb248902dbf2ce03b100695df56f79b4",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.0-beta.2/com.chocopoi.vrc.dressingtools-2.0.0-beta.2.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.0-beta.1": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.0-beta.1",
+          "unity": "2019.4",
+          "description": "Dressing your own avatar is really that easy.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.0",
+            "com.chocopoi.vrc.dressingframework": "^1.0.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "b57d6cbf20b61cf8fe729534a01f0b00e8f1a16fdde5211e8af2f644a4b87a55",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.0-beta.1/com.chocopoi.vrc.dressingtools-2.0.0-beta.1.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.0-beta": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.0-beta",
+          "unity": "2019.4",
+          "description": "Dressing your own avatar is really that easy.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.0",
+            "com.chocopoi.vrc.dressingframework": "^1.0.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "a68a5819daca610732f44232ab75cd8e907c5969909b0c7aea4b9b68eb8458c8",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.0-beta/com.chocopoi.vrc.dressingtools-2.0.0-beta.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.0-alpha.10": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.0-alpha.10",
+          "unity": "2019.4",
+          "description": "Dressing your own avatar is really that easy.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "2bd2062a4f2f54ce5d514a3cb094bc008c1e6e242b52e4fdedc2b07f69ac368b",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.0-alpha.10/com.chocopoi.vrc.dressingtools-2.0.0-alpha.10.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.0-alpha.9": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.0-alpha.9",
+          "unity": "2019.4",
+          "description": "Dressing your own avatar is really that easy.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "61c68ea2191c231436ca2f9407f80195c263a95a169740a8082e73306af65c9d",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.0-alpha.9/com.chocopoi.vrc.dressingtools-2.0.0-alpha.9.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.0-alpha.8": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.0-alpha.8",
+          "unity": "2019.4",
+          "description": "Dressing your own avatar is really that easy.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "2d2c7d701ae6f7020bd63f7cd583d21c6797b4086096bee52a58830a23e092eb",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.0-alpha.8/com.chocopoi.vrc.dressingtools-2.0.0-alpha.8.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.0-alpha.7": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.0-alpha.7",
+          "unity": "2019.4",
+          "description": "Dressing your own avatar is really that easy.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "65e6ac3f326ce2f4a2ae8e8cac09ea70cbd7d761a555fa1223a48f578c78ab8f",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.0-alpha.7/com.chocopoi.vrc.dressingtools-2.0.0-alpha.7.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.0.0-alpha.6": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.0.0-alpha.6",
+          "unity": "2019.4",
+          "description": "Dressing your own avatar is really that easy.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.0.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "fa19beb58b8cdd00def259712af3734ea09fa609f1682fc61efe084e2dd2b55e",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.0.0-alpha.6/com.chocopoi.vrc.dressingtools-2.0.0-alpha.6.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        }
+      }
+    },
+    "com.chocopoi.vrc.dressingframework": {
+      "versions": {
+        "2.0.0-beta.5": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "2.0.0-beta.5",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "e15fb01f6bfe001147bb38c793b62a510cb982858c398b19c21685a4083987c1",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/2.0.0-beta.5/com.chocopoi.vrc.dressingframework-2.0.0-beta.5.zip"
+        },
+        "2.0.0-beta.4": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "2.0.0-beta.4",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "5d212dbb5a6fa1ceee2af7adbee774bff1aa5e20c260cb1b2725dfba0ca02ea2",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/2.0.0-beta.4/com.chocopoi.vrc.dressingframework-2.0.0-beta.4.zip"
+        },
+        "2.0.0-beta.3": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "2.0.0-beta.3",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "2d84affb2e689ea11e5a6aa489a8468556ce075b6ddd4fb2d43765f1466a2477",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/2.0.0-beta.3/com.chocopoi.vrc.dressingframework-2.0.0-beta.3.zip"
+        },
+        "2.0.0-beta.2": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "2.0.0-beta.2",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "53373957246ab581c25546fa2b152584331c997a9ce1f91faddc8d0886fcbc95",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/2.0.0-beta.2/com.chocopoi.vrc.dressingframework-2.0.0-beta.2.zip"
+        },
+        "2.0.0-beta.1": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "2.0.0-beta.1",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "dcee1daf15e46e846210e95c1c43b2fb7d7d61fe55b800365aeefdf4b5f84c1b",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/2.0.0-beta.1/com.chocopoi.vrc.dressingframework-2.0.0-beta.1.zip"
+        },
+        "2.0.0-beta": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "2.0.0-beta",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "395e4a76143d6d7cd580cf5258988f2d668b98f6b4508788e666b016c0056b8c",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/2.0.0-beta/com.chocopoi.vrc.dressingframework-2.0.0-beta.zip"
+        },
+        "1.1.2": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "1.1.2",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "7d99547ea81ee07d82a80a3bed0ec8e608f7324e8a6a9c4480941ae417bc5750",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/1.1.2/com.chocopoi.vrc.dressingframework-1.1.2.zip"
+        },
+        "1.1.1": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "1.1.1",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "d0e0e6b6e8c0c640915169a44b946c0a8b6a9018f37f48e6c4722d46c4d7746f",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/1.1.1/com.chocopoi.vrc.dressingframework-1.1.1.zip"
+        },
+        "1.1.0": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "1.1.0",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "cb5ebca28b44e19aa1b93790940645abee234fe36133710fb6b1e07bd11e82f3",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/1.1.0/com.chocopoi.vrc.dressingframework-1.1.0.zip"
+        },
+        "1.0.6": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "1.0.6",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "69cec018e5aa1c7c9e07283d5de0caec38df104e5a2333756ef17b28b18b2bde",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/1.0.6/com.chocopoi.vrc.dressingframework-1.0.6.zip"
+        },
+        "1.0.5": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "1.0.5",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "816ee13a62b9b0e303507ec013fbaf82d0a61b256e87366d8164f8d71ee57d30",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/1.0.5/com.chocopoi.vrc.dressingframework-1.0.5.zip"
+        },
+        "1.0.4": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "1.0.4",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "66a120ecf3edd148ae74e060632c9e81f8b0a9d6176313ac4deb1128e0d49a9c",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/1.0.4/com.chocopoi.vrc.dressingframework-1.0.4.zip"
+        },
+        "1.0.3": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "1.0.3",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "32ba1f894164a761cd4d837c523c7dbe999abd64885752dcbdd40800681dce2e",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/1.0.3/com.chocopoi.vrc.dressingframework-1.0.3.zip"
+        },
+        "1.0.2": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "1.0.2",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "c6f6bea0f086fb880142cda0fbaf0d6e9b61bf9f4fcb83d0feee6a7eedaf3492",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/1.0.2/com.chocopoi.vrc.dressingframework-1.0.2.zip"
+        }
+      }
+    },
+    "de.thryrallo.vrc.avatar-performance-tools": {
+      "versions": {
+        "1.3.6": {
+          "name": "de.thryrallo.vrc.avatar-performance-tools",
+          "displayName": "Thry's Avatar Performance Tools",
+          "version": "1.3.6",
+          "unity": "2019.4",
+          "description": "Calculates and evaluates multiple avatar metrics that are not currently taken into account by VRChat's ranking system. Most prominently, it gives you a breakdown of VRAM usage of different parts of your avatar.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Thryrallo",
+            "email": "thryrallo@gmail.com"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "fbe3f74d2e8a51c5b16f4e6ffc5b036704eed0a531c245233c1a1048318c1ca5",
+          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.6/de.thryrallo.vrc.avatar-performance-tools-1.3.6.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.5": {
+          "name": "de.thryrallo.vrc.avatar-performance-tools",
+          "displayName": "Thry's Avatar Performance Tools",
+          "version": "1.3.5",
+          "unity": "2019.4",
+          "description": "Calculates and evaluates multiple avatar metrics that are not currently taken into account by VRChat's ranking system. Most prominently, it gives you a breakdown of VRAM usage of different parts of your avatar.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Thryrallo",
+            "email": "thryrallo@gmail.com"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "7c039606cd3cc62112216ee3775b999e3a41ae3bcef1927eee6c3dc0d48d95ed",
+          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.5/de.thryrallo.vrc.avatar-performance-tools-1.3.5.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.2": {
+          "name": "de.thryrallo.vrc.avatar-performance-tools",
+          "displayName": "Thry's Avatar Performance Tools",
+          "version": "1.3.2",
+          "description": "Calculated and evaluates some avatar metric not currently taking into account by vrchats ranking system. Most prominently gives a breakdown over VRAM usage of different parts of the avatar.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "hideInEditor": false,
+          "zipSHA256": "ee36b744b5dac46717b9985d406cc3db484bfe38ba4aa88e1514cbfdf56d4b4e",
+          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.2/de.thryrallo.vrc.avatar-performance-tools-1.3.2.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.1": {
+          "name": "de.thryrallo.vrc.avatar-performance-tools",
+          "displayName": "Thry's Avatar Performance Tools",
+          "version": "1.3.1",
+          "description": "Calculated and evaluates some avatar metric not currently taking into account by vrchats ranking system.\r\n\nMost prominently gives a breakdown over VRAM usage of different parts of the avatar.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "hideInEditor": false,
+          "zipSHA256": "c105b7505a5804b46e4fdbac892d2c43efba1e8060b67c78a0e507c7bbdcc046",
+          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.1/de.thryrallo.vrc.avatar-performance-tools-1.3.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.0": {
+          "name": "de.thryrallo.vrc.avatar-performance-tools",
+          "displayName": "Thry's Avatar Performance Tools",
+          "version": "1.3.0",
+          "description": "Calculated and evaluates some avatar metric not currently taking into account by vrchats ranking system.\r\n\nMost prominently gives a breakdown over VRAM usage of different parts of the avatar.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "hideInEditor": false,
+          "zipSHA256": "caf9663fd62230d65d87747db5f80ca045df6628fa843c2f092240cd06bf443d",
+          "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.0/de.thryrallo.vrc.avatar-performance-tools-1.3.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        }
+      }
+    },
+    "dev.vrlabs.instancer": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.instancer",
+          "displayName": "VRLabs Instancer",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Instancer",
+          "vpmDependencies": {},
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
+          },
+          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.unitypackage",
+          "zipSHA256": "a028e942035ea76f9198781ee91195b598f534ff418454a67f36e6e02537f160"
+        },
+        "1.0.0": {
+          "name": "dev.vrlabs.instancer",
+          "displayName": "VRLabs Instancer",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Instancer",
+          "vpmDependencies": {},
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
+          },
+          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.unitypackage",
+          "zipSHA256": "068e89de9fc525996060ff238be1a2d9f44133b28fd569228f89625ea3379256"
+        }
+      }
+    },
+    "dev.vrlabs.contact-tracker": {
+      "versions": {
+        "1.4.5": {
+          "name": "dev.vrlabs.contact-tracker",
+          "displayName": "Contact Tracker",
+          "version": "1.4.5",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Tracking for contacts, by contacts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Contact-Tracker",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Contact Tracker": "9cd56b450009343a99b606696779825a"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Contact Tracker",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Contact-Tracker/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Contact-Tracker/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Contact Tracker": "9cd56b450009343a99b606696779825a"
+          },
+          "url": "https://github.com/VRLabs/Contact-Tracker/releases/download/1.4.5/dev.vrlabs.contact-tracker-1.4.5.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Contact-Tracker/releases/download/1.4.5/dev.vrlabs.contact-tracker-1.4.5.unitypackage",
+          "zipSHA256": "d095d7bc87537020af045a2b503507290befe7a1e858eb301f6e9538763ee5a9"
+        }
+      }
+    },
+    "dev.vrlabs.damping-constraints": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.damping-constraints",
+          "displayName": "Damping Constraints",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Constraints with adjustable damping effects",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Damping-Constraints",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Damping Constraints": "f71457bcffdb2c14cb8b10d7f5ad0a93"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Damping Constraints",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Damping-Constraints/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Damping-Constraints/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Damping Constraints": "f71457bcffdb2c14cb8b10d7f5ad0a93"
+          },
+          "url": "https://github.com/VRLabs/Damping-Constraints/releases/download/1.0.1/dev.vrlabs.damping-constraints-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Damping-Constraints/releases/download/1.0.1/dev.vrlabs.damping-constraints-1.0.1.unitypackage",
+          "zipSHA256": "9850e40b3aa5e915c5bbedfba441ffc1bf8444d6d2b3183fc9719dba5a6208c0"
+        }
+      }
+    },
+    "dev.vrlabs.isrendering-detection": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.isrendering-detection",
+          "displayName": "IsRendering Detection",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Sets an \"IsRendering\" parameter to true when being looked at",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/IsRendering-Detection",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\IsRendering Detection": "0a323fedc1a15df488611b180c214891"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/IsRendering Detection",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/IsRendering-Detection/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/IsRendering-Detection/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/IsRendering Detection": "0a323fedc1a15df488611b180c214891"
+          },
+          "url": "https://github.com/VRLabs/IsRendering-Detection/releases/download/1.0.1/dev.vrlabs.isrendering-detection-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/IsRendering-Detection/releases/download/1.0.1/dev.vrlabs.isrendering-detection-1.0.1.unitypackage",
+          "zipSHA256": "4bc7bdec31f177bd5dcec70492425a8484bfce8fc04386e74c17ad4918f83385"
+        }
+      }
+    },
+    "dev.vrlabs.local-mirror-detection": {
+      "versions": {
+        "1.0.5": {
+          "name": "dev.vrlabs.local-mirror-detection",
+          "displayName": "Local Mirror Detection",
+          "version": "1.0.5",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Sets an \"IsMirror\" parameter to true on your mirror clone",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Local-Mirror-Detection",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Local Mirror Detection",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Local-Mirror-Detection/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Local-Mirror-Detection/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
+          },
+          "url": "https://github.com/VRLabs/Local-Mirror-Detection/releases/download/1.0.5/dev.vrlabs.local-mirror-detection-1.0.5.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Local-Mirror-Detection/releases/download/1.0.5/dev.vrlabs.local-mirror-detection-1.0.5.unitypackage",
+          "zipSHA256": "51a32ae5adf34e37584fd24691d21fcde4c990aa47907ec4c1f899be4bfcd42c"
+        }
+      }
+    },
+    "dev.vrlabs.offset-constraint": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.offset-constraint",
+          "displayName": "Offset Constraint",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A hierarchy of animated constraints that display how to move an object in world space while preserving previously generated offsets.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Offset-Constraint",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Offset Constraint": "594678af05e88bd41bf2421d9acb9365"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Offset Constraint",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Offset-Constraint/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Offset-Constraint/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Offset Constraint": "594678af05e88bd41bf2421d9acb9365"
+          },
+          "url": "https://github.com/VRLabs/Offset-Constraint/releases/download/1.0.1/dev.vrlabs.offset-constraint-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Offset-Constraint/releases/download/1.0.1/dev.vrlabs.offset-constraint-1.0.1.unitypackage",
+          "zipSHA256": "c1065a4548989854d7f49d67ecd76f518907b54f076408af59c11b843b5d0a9f"
+        }
+      }
+    },
+    "dev.vrlabs.raycast-prefab": {
+      "versions": {
+        "1.2.0": {
+          "name": "dev.vrlabs.raycast-prefab",
+          "displayName": "Raycast Prefab",
+          "version": "1.2.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Places an object at the hit point of a raycast",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Raycast-Prefab",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Raycast Prefab": "96ca89f88e52b1d41bd440736d30e35d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Raycast Prefab",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Raycast-Prefab/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Raycast-Prefab/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Raycast Prefab": "96ca89f88e52b1d41bd440736d30e35d"
+          },
+          "url": "https://github.com/VRLabs/Raycast-Prefab/releases/download/1.2.0/dev.vrlabs.raycast-prefab-1.2.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Raycast-Prefab/releases/download/1.2.0/dev.vrlabs.raycast-prefab-1.2.0.unitypackage",
+          "zipSHA256": "5c2af881df97a4069d0e7020f55f88d44585381dd0ba819cc21fff1b297ed9e6"
+        }
+      }
+    },
+    "dev.vrlabs.selective-animation": {
+      "versions": {
+        "1.0.0": {
+          "name": "dev.vrlabs.selective-animation",
+          "displayName": "Selective Animation",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "System for playing animations for only a single player in an instance",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Selective-Animation",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Selective Animation": "7a21e49786371eb4aa7d72f69824cf71"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Selective Animation",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Selective-Animation/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Selective-Animation/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Selective Animation": "7a21e49786371eb4aa7d72f69824cf71"
+          },
+          "url": "https://github.com/VRLabs/Selective-Animation/releases/download/1.0.0/dev.vrlabs.selective-animation-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Selective-Animation/releases/download/1.0.0/dev.vrlabs.selective-animation-1.0.0.unitypackage",
+          "zipSHA256": "11834bece017877447a8b03647f7ee831d9b9ad29bf3c907dc906ea064d64533"
+        }
+      }
+    },
+    "dev.vrlabs.spring-constraint": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.spring-constraint",
+          "displayName": "Spring Constraint",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A constraint system with spring behavior",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Spring-Constraint",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Spring Constraint": "64faad95e10bec74b817c5e4f21a9abe"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Spring Constraint",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Spring-Constraint/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Spring-Constraint/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Spring Constraint": "64faad95e10bec74b817c5e4f21a9abe"
+          },
+          "url": "https://github.com/VRLabs/Spring-Constraint/releases/download/1.0.1/dev.vrlabs.spring-constraint-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Spring-Constraint/releases/download/1.0.1/dev.vrlabs.spring-constraint-1.0.1.unitypackage",
+          "zipSHA256": "74798613b9268d2a5d80078e53cbde4b03925723a351ed432e5baae54e487371"
+        }
+      }
+    },
+    "dev.vrlabs.world-constraint": {
+      "versions": {
+        "1.2.3": {
+          "name": "dev.vrlabs.world-constraint",
+          "displayName": "World Constraint",
+          "version": "1.2.3",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A world-fixed object, held in place with a constraint",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/World-Constraint",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/World Constraint",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+          },
+          "url": "https://github.com/VRLabs/World-Constraint/releases/download/1.2.3/dev.vrlabs.world-constraint-1.2.3.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/World-Constraint/releases/download/1.2.3/dev.vrlabs.world-constraint-1.2.3.unitypackage",
+          "zipSHA256": "08dba756e7d781950b16874b96498bd0f02318d6171bc9eae37738cdcb6ea070"
+        },
+        "1.2.2": {
+          "name": "dev.vrlabs.world-constraint",
+          "displayName": "World Constraint",
+          "version": "1.2.2",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A world-fixed object, held in place with a constraint",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/World-Constraint",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/World Constraint",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+          },
+          "url": "https://github.com/VRLabs/World-Constraint/releases/download/1.2.2/dev.vrlabs.world-constraint-1.2.2.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/World-Constraint/releases/download/1.2.2/dev.vrlabs.world-constraint-1.2.2.unitypackage",
+          "zipSHA256": "068621700fadb950f74f182b78333a06a4843c4f86a527750074dde684a5bb09"
+        }
+      }
+    },
+    "dev.vrlabs.world-physics": {
+      "versions": {
+        "1.3.2": {
+          "name": "dev.vrlabs.world-physics",
+          "displayName": "World Physics",
+          "version": "1.3.2",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Easy fix for Physics components behaving weirdly in world space",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/World-Physics",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\World Physics": "022cf6b4fef2546c591b9d4b2af30e0e"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/World Physics",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/World-Physics/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/World-Physics/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/World Physics": "022cf6b4fef2546c591b9d4b2af30e0e"
+          },
+          "url": "https://github.com/VRLabs/World-Physics/releases/download/1.3.2/dev.vrlabs.world-physics-1.3.2.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/World-Physics/releases/download/1.3.2/dev.vrlabs.world-physics-1.3.2.unitypackage",
+          "zipSHA256": "6184b5ac7a2945b9b57acf5ea57a73fa3b165b86f1d48547a5382a5f7a7a5a43"
+        }
+      }
+    },
+    "dev.vrlabs.follower": {
+      "versions": {
+        "1.3.6": {
+          "name": "dev.vrlabs.follower",
+          "displayName": "Follower",
+          "version": "1.3.6",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Make something slowly follow you and look at you",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Follower",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Follower": "f71457bcffdb2c14cb8b10d7f5ad0a93"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Follower",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Follower/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Follower/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Follower": "f71457bcffdb2c14cb8b10d7f5ad0a93"
+          },
+          "url": "https://github.com/VRLabs/Follower/releases/download/1.3.6/dev.vrlabs.follower-1.3.6.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Follower/releases/download/1.3.6/dev.vrlabs.follower-1.3.6.unitypackage",
+          "zipSHA256": "35f055fe0d8aab5efb65f3ddc179c4f6e3a9dbf381b86028a43b76bc54c4ef97"
+        }
+      }
+    },
+    "dev.vrlabs.marker": {
+      "versions": {
+        "1.2.10": {
+          "name": "dev.vrlabs.marker",
+          "displayName": "Marker",
+          "version": "1.2.10",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A marker for drawing",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Marker",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.2 - 3.5"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Marker": "da8faacbf4b324c2d8bb9681e0f9ee6d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Marker",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Marker/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Marker/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Marker": "da8faacbf4b324c2d8bb9681e0f9ee6d"
+          },
+          "url": "https://github.com/VRLabs/Marker/releases/download/1.2.10/dev.vrlabs.marker-1.2.10.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Marker/releases/download/1.2.10/dev.vrlabs.marker-1.2.10.unitypackage",
+          "zipSHA256": "e13e7345141da6de04d82f7a1e98d62e65785ca0196ac082bbd3087677c487d8"
+        }
+      }
+    },
+    "dev.vrlabs.rigidbody-launcher": {
+      "versions": {
+        "1.2.6": {
+          "name": "dev.vrlabs.rigidbody-launcher",
+          "displayName": "Rigidbody Launcher",
+          "version": "1.2.6",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Launch an object with collision against the world",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Rigidbody-Launcher",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Rigidbody Launcher",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
+          },
+          "url": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.6/dev.vrlabs.rigidbody-launcher-1.2.6.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.6/dev.vrlabs.rigidbody-launcher-1.2.6.unitypackage",
+          "zipSHA256": "69d9d9bd473f4a791cc182ae26a59da9b4221a7806c2bc68359068d4c0e3e307"
+        },
+        "1.2.5": {
+          "name": "dev.vrlabs.rigidbody-launcher",
+          "displayName": "Rigidbody Launcher",
+          "version": "1.2.5",
+          "license": "MIT",
+          "unity": "2022.3.6f1",
+          "description": "Launch an object with collision against the world",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Rigidbody-Launcher",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Rigidbody Launcher",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
+          },
+          "url": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.5/dev.vrlabs.rigidbody-launcher-1.2.5.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.5/dev.vrlabs.rigidbody-launcher-1.2.5.unitypackage",
+          "zipSHA256": "0c81329b3df8dae728a2832c6456b28b05b9c628dd50d51e32f0dae06f913ea9"
+        },
+        "1.2.4": {
+          "name": "dev.vrlabs.rigidbody-launcher",
+          "displayName": "Rigidbody Launcher",
+          "version": "1.2.4",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A constraint system with spring behavior",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Rigidbody-Launcher",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Rigidbody Launcher",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
+          },
+          "url": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.4/dev.vrlabs.rigidbody-launcher-1.2.4.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.4/dev.vrlabs.rigidbody-launcher-1.2.4.unitypackage",
+          "zipSHA256": "f856a697ca512567b8de00722db850dcf5da4e8b9c2332c28a51ca164ae9d460"
+        }
+      }
+    },
+    "dev.vrlabs.weapon-slash": {
+      "versions": {
+        "1.2.20": {
+          "name": "dev.vrlabs.weapon-slash",
+          "displayName": "Weapon Slash",
+          "version": "1.2.20",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A movement based weapon effect trigger system",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Weapon-Slash",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": "1.x"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Weapon Slash": "7f0d08422f8f34538b0bb5273396366d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Weapon Slash",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Weapon-Slash/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Weapon-Slash/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Weapon Slash": "7f0d08422f8f34538b0bb5273396366d"
+          },
+          "url": "https://github.com/VRLabs/Weapon-Slash/releases/download/1.2.20/dev.vrlabs.weapon-slash-1.2.20.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Weapon-Slash/releases/download/1.2.20/dev.vrlabs.weapon-slash-1.2.20.unitypackage",
+          "zipSHA256": "c4b9a221e86e910106a9b602298f596e5ffd7e316b0c1f9798667eb01f873ccd"
+        }
+      }
+    },
+    "dev.vrlabs.av3manager": {
+      "versions": {
+        "2.0.28": {
+          "name": "dev.vrlabs.av3manager",
+          "displayName": "Avatars 3.0 Manager",
+          "version": "2.0.28",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A tool for managing playable layers and parameters for Avatars 3.0.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Avatars-3.0-Manager",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.2 - 3.5"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Avatars 3.0 Manager": "513a67139704dd249855ebe5f760cba5"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Avatars 3.0 Manager",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Avatars 3.0 Manager": "513a67139704dd249855ebe5f760cba5"
+          },
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Avatars-3.0-Manager/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Avatars-3.0-Manager/main/Media/Web/Preview.webp"
+          },
+          "url": "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.28/dev.vrlabs.av3manager-2.0.28.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.28/dev.vrlabs.av3manager-2.0.28.unitypackage",
+          "zipSHA256": "e91990a65b6ebb6496dc00ff68642ab685eaee4970c2a42498f7ffa8bf3e349d"
+        }
+      }
+    },
+    "dev.vrlabs.dynamic-bones-stub": {
+      "versions": {
+        "1.3.3": {
+          "name": "dev.vrlabs.dynamic-bones-stub",
+          "displayName": "Dynamic Bones Stub",
+          "version": "1.3.3",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub",
+          "vpmDependencies": {},
+          "legacyFolders": {
+            "Assets\\VRLabs\\Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Dynamic Bones Stub",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          },
+          "url": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.3.3/dev.vrlabs.dynamic-bones-stub-1.3.3.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.3.3/dev.vrlabs.dynamic-bones-stub-1.3.3.unitypackage",
+          "zipSHA256": "ee82aaebfacd064ec3f4b543eb79b56ab15768c16e109f0a111df46fbdccec23"
+        },
+        "1.0.1": {
+          "name": "dev.vrlabs.dynamic-bones-stub",
+          "displayName": "Dynamic Bones Stub",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub",
+          "vpmDependencies": {},
+          "legacyFolders": {
+            "Assets\\VRLabs\\Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Dynamic Bones Stub",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          },
+          "url": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.0.1/dev.vrlabs.dynamic-bones-stub-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.0.1/dev.vrlabs.dynamic-bones-stub-1.0.1.unitypackage",
+          "zipSHA256": "8599da1330ac92be5c01d152b98cf7a1b914e281218224080f551805753c675a"
+        }
+      }
+    },
+    "dev.vrlabs.final-ik-stub": {
+      "versions": {
+        "1.9.1": {
+          "name": "dev.vrlabs.final-ik-stub",
+          "displayName": "Final IK Stub",
+          "version": "1.9.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Stub package for the Final IK components whitelisted by VRChat",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Final-IK-Stub",
+          "vpmDependencies": {},
+          "legacyFolders": {
+            "Assets\\VRLabs\\Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Final IK Stub",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+          },
+          "url": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.9.1/dev.vrlabs.final-ik-stub-1.9.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.9.1/dev.vrlabs.final-ik-stub-1.9.1.unitypackage",
+          "zipSHA256": "9ce31026a2aa16334ca4bd53c2e0f634015737839e748aefd3dce4bfd9491390"
+        },
+        "1.0.1": {
+          "name": "dev.vrlabs.final-ik-stub",
+          "displayName": "Final IK Stub",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Stub package for the Final IK components whitelisted by VRChat",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Final-IK-Stub",
+          "vpmDependencies": {},
+          "legacyFolders": {
+            "Assets\\VRLabs\\Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Final IK Stub",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+          },
+          "url": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.0.1/dev.vrlabs.final-ik-stub-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.0.1/dev.vrlabs.final-ik-stub-1.0.1.unitypackage",
+          "zipSHA256": "ffd5e0c1675ccb3b496dc66518f50dfa712fdd45986a3dd425a7628d36c9f57b"
         }
       }
     }
