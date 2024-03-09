@@ -2899,6 +2899,58 @@
         }
       }
     },
+    "dev.vrlabs.instancer": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.instancer",
+          "displayName": "VRLabs Instancer",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Instancer",
+          "vpmDependencies": {},
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
+          },
+          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.unitypackage",
+          "zipSHA256": "a028e942035ea76f9198781ee91195b598f534ff418454a67f36e6e02537f160"
+        },
+        "1.0.0": {
+          "name": "dev.vrlabs.instancer",
+          "displayName": "VRLabs Instancer",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Instancer",
+          "vpmDependencies": {},
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
+          },
+          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.unitypackage",
+          "zipSHA256": "068e89de9fc525996060ff238be1a2d9f44133b28fd569228f89625ea3379256"
+        }
+      }
+    },
     "sh.orels.shaders": {
       "versions": {
         "6.4.0-dev.3": {
@@ -3494,6 +3546,52 @@
     },
     "com.vrcfury.vrcfury": {
       "versions": {
+        "1.815.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.815.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.815.0/com.vrcfury.vrcfury-1.815.0-vcc.zip"
+        },
+        "1.814.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.814.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.814.0/com.vrcfury.vrcfury-1.814.0-vcc.zip"
+        },
         "1.813.0": {
           "name": "com.vrcfury.vrcfury",
           "displayName": "VRCFury",
@@ -14925,58 +15023,6 @@
           "url": "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/download/1.3.0/de.thryrallo.vrc.avatar-performance-tools-1.3.0.zip",
           "legacyFolders": {},
           "legacyFiles": {}
-        }
-      }
-    },
-    "dev.vrlabs.instancer": {
-      "versions": {
-        "1.0.1": {
-          "name": "dev.vrlabs.instancer",
-          "displayName": "VRLabs Instancer",
-          "version": "1.0.1",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Instancer",
-          "vpmDependencies": {},
-          "legacyFolders": {},
-          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
-          },
-          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.unitypackage",
-          "zipSHA256": "a028e942035ea76f9198781ee91195b598f534ff418454a67f36e6e02537f160"
-        },
-        "1.0.0": {
-          "name": "dev.vrlabs.instancer",
-          "displayName": "VRLabs Instancer",
-          "version": "1.0.0",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Instancer",
-          "vpmDependencies": {},
-          "legacyFolders": {},
-          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
-          },
-          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.unitypackage",
-          "zipSHA256": "068e89de9fc525996060ff238be1a2d9f44133b28fd569228f89625ea3379256"
         }
       }
     },
