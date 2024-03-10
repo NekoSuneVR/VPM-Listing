@@ -14164,6 +14164,31 @@
     },
     "com.chocopoi.vrc.dressingtools": {
       "versions": {
+        "2.2.0": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.2.0",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.1.0",
+            "com.chocopoi.vrc.dressingframework": "^2.0.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "a98acdf84ebddacd3fa07bf0aa8481265318c58f1cf924d3851740017db0552c",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.2.0/com.chocopoi.vrc.dressingtools-2.2.0.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
         "2.2.0-beta.3": {
           "name": "com.chocopoi.vrc.dressingtools",
           "displayName": "DressingTools",
@@ -14638,6 +14663,23 @@
     },
     "com.chocopoi.vrc.dressingframework": {
       "versions": {
+        "2.0.0": {
+          "name": "com.chocopoi.vrc.dressingframework",
+          "displayName": "DressingFramework",
+          "version": "2.0.0",
+          "unity": "2019.4",
+          "description": "A framework that assembles DressingTools and provides interfaces for third-party developers.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingFramework"
+          },
+          "zipSHA256": "d6d2558b775886193bf618059a4756b376ea5e1b8f3dc7257e3ad181dbb33af8",
+          "url": "https://github.com/poi-vrc/DressingFramework/releases/download/2.0.0/com.chocopoi.vrc.dressingframework-2.0.0.zip"
+        },
         "2.0.0-beta.6": {
           "name": "com.chocopoi.vrc.dressingframework",
           "displayName": "DressingFramework",
