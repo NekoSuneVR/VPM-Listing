@@ -1810,6 +1810,58 @@
         }
       }
     },
+    "dev.vrlabs.instancer": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.instancer",
+          "displayName": "VRLabs Instancer",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Instancer",
+          "vpmDependencies": {},
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
+          },
+          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.unitypackage",
+          "zipSHA256": "a028e942035ea76f9198781ee91195b598f534ff418454a67f36e6e02537f160"
+        },
+        "1.0.0": {
+          "name": "dev.vrlabs.instancer",
+          "displayName": "VRLabs Instancer",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Instancer",
+          "vpmDependencies": {},
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
+          },
+          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.unitypackage",
+          "zipSHA256": "068e89de9fc525996060ff238be1a2d9f44133b28fd569228f89625ea3379256"
+        }
+      }
+    },
     "nadena.dev.modular-avatar": {
       "versions": {
         "1.9.7": {
@@ -15016,58 +15068,6 @@
         }
       }
     },
-    "dev.vrlabs.instancer": {
-      "versions": {
-        "1.0.1": {
-          "name": "dev.vrlabs.instancer",
-          "displayName": "VRLabs Instancer",
-          "version": "1.0.1",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Instancer",
-          "vpmDependencies": {},
-          "legacyFolders": {},
-          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
-          },
-          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.1/dev.vrlabs.instancer-1.0.1.unitypackage",
-          "zipSHA256": "a028e942035ea76f9198781ee91195b598f534ff418454a67f36e6e02537f160"
-        },
-        "1.0.0": {
-          "name": "dev.vrlabs.instancer",
-          "displayName": "VRLabs Instancer",
-          "version": "1.0.0",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Instancer",
-          "vpmDependencies": {},
-          "legacyFolders": {},
-          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
-          },
-          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.0/dev.vrlabs.instancer-1.0.0.unitypackage",
-          "zipSHA256": "068e89de9fc525996060ff238be1a2d9f44133b28fd569228f89625ea3379256"
-        }
-      }
-    },
     "dev.vrlabs.contact-tracker": {
       "versions": {
         "1.4.5": {
@@ -15665,6 +15665,170 @@
           "url": "https://github.com/VRLabs/Weapon-Slash/releases/download/1.2.20/dev.vrlabs.weapon-slash-1.2.20.zip",
           "unityPackageUrl": "https://github.com/VRLabs/Weapon-Slash/releases/download/1.2.20/dev.vrlabs.weapon-slash-1.2.20.unitypackage",
           "zipSHA256": "c4b9a221e86e910106a9b602298f596e5ffd7e316b0c1f9798667eb01f873ccd"
+        }
+      }
+    },
+    "dev.vrlabs.av3manager": {
+      "versions": {
+        "2.0.28": {
+          "name": "dev.vrlabs.av3manager",
+          "displayName": "Avatars 3.0 Manager",
+          "version": "2.0.28",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A tool for managing playable layers and parameters for Avatars 3.0.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Avatars-3.0-Manager",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.2 - 3.5"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Avatars 3.0 Manager": "513a67139704dd249855ebe5f760cba5"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Avatars 3.0 Manager",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Avatars 3.0 Manager": "513a67139704dd249855ebe5f760cba5"
+          },
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Avatars-3.0-Manager/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Avatars-3.0-Manager/main/Media/Web/Preview.webp"
+          },
+          "url": "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.28/dev.vrlabs.av3manager-2.0.28.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.28/dev.vrlabs.av3manager-2.0.28.unitypackage",
+          "zipSHA256": "e91990a65b6ebb6496dc00ff68642ab685eaee4970c2a42498f7ffa8bf3e349d"
+        }
+      }
+    },
+    "dev.vrlabs.dynamic-bones-stub": {
+      "versions": {
+        "1.3.3": {
+          "name": "dev.vrlabs.dynamic-bones-stub",
+          "displayName": "Dynamic Bones Stub",
+          "version": "1.3.3",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub",
+          "vpmDependencies": {},
+          "legacyFolders": {
+            "Assets\\VRLabs\\Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Dynamic Bones Stub",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          },
+          "url": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.3.3/dev.vrlabs.dynamic-bones-stub-1.3.3.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.3.3/dev.vrlabs.dynamic-bones-stub-1.3.3.unitypackage",
+          "zipSHA256": "ee82aaebfacd064ec3f4b543eb79b56ab15768c16e109f0a111df46fbdccec23"
+        },
+        "1.0.1": {
+          "name": "dev.vrlabs.dynamic-bones-stub",
+          "displayName": "Dynamic Bones Stub",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub",
+          "vpmDependencies": {},
+          "legacyFolders": {
+            "Assets\\VRLabs\\Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Dynamic Bones Stub",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          },
+          "url": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.0.1/dev.vrlabs.dynamic-bones-stub-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.0.1/dev.vrlabs.dynamic-bones-stub-1.0.1.unitypackage",
+          "zipSHA256": "8599da1330ac92be5c01d152b98cf7a1b914e281218224080f551805753c675a"
+        }
+      }
+    },
+    "dev.vrlabs.final-ik-stub": {
+      "versions": {
+        "1.9.1": {
+          "name": "dev.vrlabs.final-ik-stub",
+          "displayName": "Final IK Stub",
+          "version": "1.9.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Stub package for the Final IK components whitelisted by VRChat",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Final-IK-Stub",
+          "vpmDependencies": {},
+          "legacyFolders": {
+            "Assets\\VRLabs\\Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Final IK Stub",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+          },
+          "url": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.9.1/dev.vrlabs.final-ik-stub-1.9.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.9.1/dev.vrlabs.final-ik-stub-1.9.1.unitypackage",
+          "zipSHA256": "9ce31026a2aa16334ca4bd53c2e0f634015737839e748aefd3dce4bfd9491390"
+        },
+        "1.0.1": {
+          "name": "dev.vrlabs.final-ik-stub",
+          "displayName": "Final IK Stub",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Stub package for the Final IK components whitelisted by VRChat",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Final-IK-Stub",
+          "vpmDependencies": {},
+          "legacyFolders": {
+            "Assets\\VRLabs\\Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Final IK Stub",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Final IK Stub": "02812d9c257c2614fac9c3e0d29e24d7"
+          },
+          "url": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.0.1/dev.vrlabs.final-ik-stub-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.0.1/dev.vrlabs.final-ik-stub-1.0.1.unitypackage",
+          "zipSHA256": "ffd5e0c1675ccb3b496dc66518f50dfa712fdd45986a3dd425a7628d36c9f57b"
         }
       }
     }
