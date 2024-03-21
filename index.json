@@ -26,6 +26,43 @@
     },
     "dev.architech.protv": {
       "versions": {
+        "3.0.0-beta.14.1": {
+          "name": "dev.architech.protv",
+          "displayName": "ArchiTech.ProTV",
+          "version": "3.0.0-beta.14.1",
+          "unity": "2019.4",
+          "description": "A feature-rich, extensible media and video player system for VRChat.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3",
+            "dev.architech.sdk": ">=0.14 <1"
+          },
+          "samples": [],
+          "changelogUrl": "https://protv.dev/changelog",
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "documentationUrl": "https://protv.dev/start",
+          "hideInEditor": false,
+          "keywords": [
+            "protv",
+            "udon",
+            "video player"
+          ],
+          "licensesUrl": "https://protv.dev/license",
+          "unityRelease": "31f1",
+          "zipSHA256": "6b74e653c26c8b2803982d57a900b4683391dc5a58d9a4528c7aac4cc348a1d0",
+          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.14.1/downloads/package",
+          "legacyFolders": {
+            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
+          },
+          "legacyFiles": {
+            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
+            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
+            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
+          }
+        },
         "3.0.0-beta.13.2": {
           "name": "dev.architech.protv",
           "displayName": "ArchiTech.ProTV",
@@ -1222,6 +1259,62 @@
     },
     "dev.architech.videoplayershim": {
       "versions": {
+        "1.3.2": {
+          "name": "dev.architech.videoplayershim",
+          "displayName": "ArchiTech.VideoPlayerShim",
+          "version": "1.3.2",
+          "unity": "2019.4",
+          "description": "An out-of-the-box utility for enabling both UnityVideo and AVProVideo playback in-editor for the VRChat SDK.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3"
+          },
+          "samples": [],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "keywords": [
+            "video player",
+            "unity",
+            "avpro",
+            "utility"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "fe9302e3b5bf26e48d7aa30f627548afba4dbf2402dd8354280b636f04fc1d8e",
+          "url": "https://gitlab.com/techanon/videoplayershim/-/releases/v1.3.2/downloads/package",
+          "legacyFolders": {
+            "Assets\\ArchiTech\\VideoPlayerShim": "e24998e4ae4c4761b42513fe1142a7c5"
+          },
+          "legacyFiles": {}
+        },
+        "1.3.0": {
+          "name": "dev.architech.videoplayershim",
+          "displayName": "ArchiTech.VideoPlayerShim",
+          "version": "1.3.0",
+          "unity": "2019.4",
+          "description": "An out-of-the-box utility for enabling both UnityVideo and AVProVideo playback in-editor for the VRChat SDK.",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3"
+          },
+          "samples": [],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "keywords": [
+            "video player",
+            "unity",
+            "avpro",
+            "utility"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "427b8354c8e8f630b31fa648e0210b398ec8ecf9246cf29f0ccfd20e4bfecb70",
+          "url": "https://gitlab.com/techanon/videoplayershim/-/releases/v1.3.0/downloads/package",
+          "legacyFolders": {
+            "Assets\\ArchiTech\\VideoPlayerShim": "e24998e4ae4c4761b42513fe1142a7c5"
+          },
+          "legacyFiles": {}
+        },
         "1.2.1": {
           "name": "dev.architech.videoplayershim",
           "displayName": "ArchiTech.VideoPlayerShim",
@@ -3532,6 +3625,75 @@
     },
     "com.vrcfury.vrcfury": {
       "versions": {
+        "1.818.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.818.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.818.0/com.vrcfury.vrcfury-1.818.0-vcc.zip"
+        },
+        "1.817.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.817.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.817.0/com.vrcfury.vrcfury-1.817.0-vcc.zip"
+        },
+        "1.816.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.816.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.816.0/com.vrcfury.vrcfury-1.816.0-vcc.zip"
+        },
         "1.815.0": {
           "name": "com.vrcfury.vrcfury",
           "displayName": "VRCFury",
@@ -14202,6 +14364,56 @@
     },
     "com.chocopoi.vrc.dressingtools": {
       "versions": {
+        "2.3.0-beta.1": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.3.0-beta.1",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.1.0",
+            "com.chocopoi.vrc.dressingframework": "^2.1.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "6b660fe9e785fb3605bfdb1d12c715c61f385a48f0c31463c550a255b1dea482",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.3.0-beta.1/com.chocopoi.vrc.dressingtools-2.3.0-beta.1.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.3.0-beta": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.3.0-beta",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.1.0",
+            "com.chocopoi.vrc.dressingframework": "^2.1.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "69bbc99921795c5b9124e956142b932208ac52189f6e52f44741d2f8d25bb7c3",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.3.0-beta/com.chocopoi.vrc.dressingtools-2.3.0-beta.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
         "2.2.1": {
           "name": "com.chocopoi.vrc.dressingtools",
           "displayName": "DressingTools",
@@ -15140,6 +15352,30 @@
     },
     "dev.vrlabs.instancer": {
       "versions": {
+        "1.0.2": {
+          "name": "dev.vrlabs.instancer",
+          "displayName": "VRLabs Instancer",
+          "version": "1.0.2",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "VRLabs' Instancing system that copies files over for use in the Assets directory and can also runs install scripts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Instancer",
+          "vpmDependencies": {},
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Instancer",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Instancer": "28d5f0bca06a0d147aae2cbccaaf54a3"
+          },
+          "url": "https://github.com/VRLabs/Instancer/releases/download/1.0.2/dev.vrlabs.instancer-1.0.2.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Instancer/releases/download/1.0.2/dev.vrlabs.instancer-1.0.2.unitypackage",
+          "zipSHA256": "e96e51cb8f5877a4e14948a3f5045c71054a34113ebe5cc60a6102e293f9c732"
+        },
         "1.0.1": {
           "name": "dev.vrlabs.instancer",
           "displayName": "VRLabs Instancer",
@@ -15192,6 +15428,38 @@
     },
     "dev.vrlabs.contact-tracker": {
       "versions": {
+        "1.4.6": {
+          "name": "dev.vrlabs.contact-tracker",
+          "displayName": "Contact Tracker",
+          "version": "1.4.6",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Tracking for contacts, by contacts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Contact-Tracker",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Contact Tracker": "9cd56b450009343a99b606696779825a"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Contact Tracker",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Contact-Tracker/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Contact-Tracker/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Contact Tracker": "9cd56b450009343a99b606696779825a"
+          },
+          "url": "https://github.com/VRLabs/Contact-Tracker/releases/download/1.4.6/dev.vrlabs.contact-tracker-1.4.6.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Contact-Tracker/releases/download/1.4.6/dev.vrlabs.contact-tracker-1.4.6.unitypackage",
+          "zipSHA256": "471fc4ba72f88407bfa311365bec7191f4ce47a7b50961c1215e6bbeda306c28"
+        },
         "1.4.5": {
           "name": "dev.vrlabs.contact-tracker",
           "displayName": "Contact Tracker",
@@ -15228,6 +15496,38 @@
     },
     "dev.vrlabs.damping-constraints": {
       "versions": {
+        "1.0.2": {
+          "name": "dev.vrlabs.damping-constraints",
+          "displayName": "Damping Constraints",
+          "version": "1.0.2",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Constraints with adjustable damping effects",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Damping-Constraints",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Damping Constraints": "f71457bcffdb2c14cb8b10d7f5ad0a93"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Damping Constraints",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Damping-Constraints/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Damping-Constraints/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Damping Constraints": "f71457bcffdb2c14cb8b10d7f5ad0a93"
+          },
+          "url": "https://github.com/VRLabs/Damping-Constraints/releases/download/1.0.2/dev.vrlabs.damping-constraints-1.0.2.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Damping-Constraints/releases/download/1.0.2/dev.vrlabs.damping-constraints-1.0.2.unitypackage",
+          "zipSHA256": "fbd548abc985895c64ea0c22060833c744272fadcfd8f7e14d02385ded2a9988"
+        },
         "1.0.1": {
           "name": "dev.vrlabs.damping-constraints",
           "displayName": "Damping Constraints",
@@ -15264,6 +15564,38 @@
     },
     "dev.vrlabs.isrendering-detection": {
       "versions": {
+        "1.0.2": {
+          "name": "dev.vrlabs.isrendering-detection",
+          "displayName": "IsRendering Detection",
+          "version": "1.0.2",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Sets an \"IsRendering\" parameter to true when being looked at",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/IsRendering-Detection",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\IsRendering Detection": "0a323fedc1a15df488611b180c214891"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/IsRendering Detection",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/IsRendering-Detection/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/IsRendering-Detection/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/IsRendering Detection": "0a323fedc1a15df488611b180c214891"
+          },
+          "url": "https://github.com/VRLabs/IsRendering-Detection/releases/download/1.0.2/dev.vrlabs.isrendering-detection-1.0.2.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/IsRendering-Detection/releases/download/1.0.2/dev.vrlabs.isrendering-detection-1.0.2.unitypackage",
+          "zipSHA256": "4f5cd7596d19fd2566929260f30d27cddef1e0225fe4bbf00251bc5722d42cc8"
+        },
         "1.0.1": {
           "name": "dev.vrlabs.isrendering-detection",
           "displayName": "IsRendering Detection",
@@ -15300,6 +15632,38 @@
     },
     "dev.vrlabs.local-mirror-detection": {
       "versions": {
+        "1.0.6": {
+          "name": "dev.vrlabs.local-mirror-detection",
+          "displayName": "Local Mirror Detection",
+          "version": "1.0.6",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Sets an \"IsMirror\" parameter to true on your mirror clone",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Local-Mirror-Detection",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Local Mirror Detection",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Local-Mirror-Detection/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Local-Mirror-Detection/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
+          },
+          "url": "https://github.com/VRLabs/Local-Mirror-Detection/releases/download/1.0.6/dev.vrlabs.local-mirror-detection-1.0.6.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Local-Mirror-Detection/releases/download/1.0.6/dev.vrlabs.local-mirror-detection-1.0.6.unitypackage",
+          "zipSHA256": "63de2026e6338a77a873cc8170a89acc7b4b9d124b0d7992a2a95253ea285ae7"
+        },
         "1.0.5": {
           "name": "dev.vrlabs.local-mirror-detection",
           "displayName": "Local Mirror Detection",
@@ -15336,6 +15700,38 @@
     },
     "dev.vrlabs.offset-constraint": {
       "versions": {
+        "1.0.2": {
+          "name": "dev.vrlabs.offset-constraint",
+          "displayName": "Offset Constraint",
+          "version": "1.0.2",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A hierarchy of animated constraints that display how to move an object in world space while preserving previously generated offsets.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Offset-Constraint",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Offset Constraint": "594678af05e88bd41bf2421d9acb9365"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Offset Constraint",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Offset-Constraint/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Offset-Constraint/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Offset Constraint": "594678af05e88bd41bf2421d9acb9365"
+          },
+          "url": "https://github.com/VRLabs/Offset-Constraint/releases/download/1.0.2/dev.vrlabs.offset-constraint-1.0.2.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Offset-Constraint/releases/download/1.0.2/dev.vrlabs.offset-constraint-1.0.2.unitypackage",
+          "zipSHA256": "7f8f7c2ca40c4afc4ad0da9ea1d7646a8f8c9dc22794b2c2f07d976c5ed2a41f"
+        },
         "1.0.1": {
           "name": "dev.vrlabs.offset-constraint",
           "displayName": "Offset Constraint",
@@ -15372,6 +15768,38 @@
     },
     "dev.vrlabs.raycast-prefab": {
       "versions": {
+        "1.2.1": {
+          "name": "dev.vrlabs.raycast-prefab",
+          "displayName": "Raycast Prefab",
+          "version": "1.2.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Places an object at the hit point of a raycast",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Raycast-Prefab",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Raycast Prefab": "96ca89f88e52b1d41bd440736d30e35d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Raycast Prefab",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Raycast-Prefab/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Raycast-Prefab/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Raycast Prefab": "96ca89f88e52b1d41bd440736d30e35d"
+          },
+          "url": "https://github.com/VRLabs/Raycast-Prefab/releases/download/1.2.1/dev.vrlabs.raycast-prefab-1.2.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Raycast-Prefab/releases/download/1.2.1/dev.vrlabs.raycast-prefab-1.2.1.unitypackage",
+          "zipSHA256": "87df35a578b43cb30167e477397145d6c00ba4d668988533c4aaff6224228a32"
+        },
         "1.2.0": {
           "name": "dev.vrlabs.raycast-prefab",
           "displayName": "Raycast Prefab",
@@ -15408,6 +15836,38 @@
     },
     "dev.vrlabs.selective-animation": {
       "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.selective-animation",
+          "displayName": "Selective Animation",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "System for playing animations for only a single player in an instance",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Selective-Animation",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Selective Animation": "7a21e49786371eb4aa7d72f69824cf71"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Selective Animation",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Selective-Animation/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Selective-Animation/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Selective Animation": "7a21e49786371eb4aa7d72f69824cf71"
+          },
+          "url": "https://github.com/VRLabs/Selective-Animation/releases/download/1.0.1/dev.vrlabs.selective-animation-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Selective-Animation/releases/download/1.0.1/dev.vrlabs.selective-animation-1.0.1.unitypackage",
+          "zipSHA256": "61762959c5a84a3796f087ff49cdb42f0bd2646f68e105bd25371fdb9049d448"
+        },
         "1.0.0": {
           "name": "dev.vrlabs.selective-animation",
           "displayName": "Selective Animation",
@@ -15444,6 +15904,38 @@
     },
     "dev.vrlabs.spring-constraint": {
       "versions": {
+        "1.0.2": {
+          "name": "dev.vrlabs.spring-constraint",
+          "displayName": "Spring Constraint",
+          "version": "1.0.2",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A constraint system with spring behavior",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Spring-Constraint",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Spring Constraint": "64faad95e10bec74b817c5e4f21a9abe"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Spring Constraint",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Spring-Constraint/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Spring-Constraint/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Spring Constraint": "64faad95e10bec74b817c5e4f21a9abe"
+          },
+          "url": "https://github.com/VRLabs/Spring-Constraint/releases/download/1.0.2/dev.vrlabs.spring-constraint-1.0.2.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Spring-Constraint/releases/download/1.0.2/dev.vrlabs.spring-constraint-1.0.2.unitypackage",
+          "zipSHA256": "c0948f96ea13986a5e04cf56a2353d0d516a4fe47c124aa1d9c1b221bd8b08bc"
+        },
         "1.0.1": {
           "name": "dev.vrlabs.spring-constraint",
           "displayName": "Spring Constraint",
@@ -15480,6 +15972,38 @@
     },
     "dev.vrlabs.world-constraint": {
       "versions": {
+        "1.2.4": {
+          "name": "dev.vrlabs.world-constraint",
+          "displayName": "World Constraint",
+          "version": "1.2.4",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A world-fixed object, held in place with a constraint",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/World-Constraint",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/World Constraint",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+          },
+          "url": "https://github.com/VRLabs/World-Constraint/releases/download/1.2.4/dev.vrlabs.world-constraint-1.2.4.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/World-Constraint/releases/download/1.2.4/dev.vrlabs.world-constraint-1.2.4.unitypackage",
+          "zipSHA256": "e8af4250d296ad0ebd601b8583e16be99de7871abea43bac8c1322e8adaf9cab"
+        },
         "1.2.3": {
           "name": "dev.vrlabs.world-constraint",
           "displayName": "World Constraint",
@@ -15548,6 +16072,38 @@
     },
     "dev.vrlabs.world-physics": {
       "versions": {
+        "1.3.3": {
+          "name": "dev.vrlabs.world-physics",
+          "displayName": "World Physics",
+          "version": "1.3.3",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Easy fix for Physics components behaving weirdly in world space",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/World-Physics",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\World Physics": "022cf6b4fef2546c591b9d4b2af30e0e"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/World Physics",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/World-Physics/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/World-Physics/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/World Physics": "022cf6b4fef2546c591b9d4b2af30e0e"
+          },
+          "url": "https://github.com/VRLabs/World-Physics/releases/download/1.3.3/dev.vrlabs.world-physics-1.3.3.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/World-Physics/releases/download/1.3.3/dev.vrlabs.world-physics-1.3.3.unitypackage",
+          "zipSHA256": "f4c91d579c5c60d494da9a29445e6fbf8192a9c8eccb4cc2931d0665b0d4c10c"
+        },
         "1.3.2": {
           "name": "dev.vrlabs.world-physics",
           "displayName": "World Physics",
@@ -15584,6 +16140,38 @@
     },
     "dev.vrlabs.follower": {
       "versions": {
+        "1.3.7": {
+          "name": "dev.vrlabs.follower",
+          "displayName": "Follower",
+          "version": "1.3.7",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Make something slowly follow you and look at you",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Follower",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Follower": "f71457bcffdb2c14cb8b10d7f5ad0a93"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Follower",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Follower/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Follower/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Follower": "f71457bcffdb2c14cb8b10d7f5ad0a93"
+          },
+          "url": "https://github.com/VRLabs/Follower/releases/download/1.3.7/dev.vrlabs.follower-1.3.7.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Follower/releases/download/1.3.7/dev.vrlabs.follower-1.3.7.unitypackage",
+          "zipSHA256": "b92555e8a348d76a3dd81489fd64962749c7f6e9528293a2caf1e4451b926c30"
+        },
         "1.3.6": {
           "name": "dev.vrlabs.follower",
           "displayName": "Follower",
@@ -15620,6 +16208,38 @@
     },
     "dev.vrlabs.marker": {
       "versions": {
+        "1.2.11": {
+          "name": "dev.vrlabs.marker",
+          "displayName": "Marker",
+          "version": "1.2.11",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A marker for drawing",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Marker",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.2 - 3.5"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Marker": "da8faacbf4b324c2d8bb9681e0f9ee6d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Marker",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Marker/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Marker/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Marker": "da8faacbf4b324c2d8bb9681e0f9ee6d"
+          },
+          "url": "https://github.com/VRLabs/Marker/releases/download/1.2.11/dev.vrlabs.marker-1.2.11.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Marker/releases/download/1.2.11/dev.vrlabs.marker-1.2.11.unitypackage",
+          "zipSHA256": "d5dca2fef4374775b472bc5e6ffcee47b163b1332d52d45278d374997ee11b0b"
+        },
         "1.2.10": {
           "name": "dev.vrlabs.marker",
           "displayName": "Marker",
@@ -15656,6 +16276,38 @@
     },
     "dev.vrlabs.rigidbody-launcher": {
       "versions": {
+        "1.2.7": {
+          "name": "dev.vrlabs.rigidbody-launcher",
+          "displayName": "Rigidbody Launcher",
+          "version": "1.2.7",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Launch an object with collision against the world",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Rigidbody-Launcher",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Rigidbody Launcher",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
+          },
+          "url": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.7/dev.vrlabs.rigidbody-launcher-1.2.7.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.7/dev.vrlabs.rigidbody-launcher-1.2.7.unitypackage",
+          "zipSHA256": "28f9db24cff8231424070aec8a6bdcf99c60340b9f86bc8b63cc5df08ce39e3c"
+        },
         "1.2.6": {
           "name": "dev.vrlabs.rigidbody-launcher",
           "displayName": "Rigidbody Launcher",
@@ -15756,6 +16408,38 @@
     },
     "dev.vrlabs.weapon-slash": {
       "versions": {
+        "1.2.21": {
+          "name": "dev.vrlabs.weapon-slash",
+          "displayName": "Weapon Slash",
+          "version": "1.2.21",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A movement based weapon effect trigger system",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Weapon-Slash",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Weapon Slash": "7f0d08422f8f34538b0bb5273396366d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Weapon Slash",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Weapon-Slash/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Weapon-Slash/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Weapon Slash": "7f0d08422f8f34538b0bb5273396366d"
+          },
+          "url": "https://github.com/VRLabs/Weapon-Slash/releases/download/1.2.21/dev.vrlabs.weapon-slash-1.2.21.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Weapon-Slash/releases/download/1.2.21/dev.vrlabs.weapon-slash-1.2.21.unitypackage",
+          "zipSHA256": "bfd61308b8aeaa4caafff42fe06266001a4df4566fd0d2f927ea5fd7711f1e68"
+        },
         "1.2.20": {
           "name": "dev.vrlabs.weapon-slash",
           "displayName": "Weapon Slash",
@@ -15828,6 +16512,36 @@
     },
     "dev.vrlabs.dynamic-bones-stub": {
       "versions": {
+        "1.3.4": {
+          "name": "dev.vrlabs.dynamic-bones-stub",
+          "displayName": "Dynamic Bones Stub",
+          "version": "1.3.4",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub",
+          "vpmDependencies": {},
+          "legacyFolders": {
+            "Assets\\VRLabs\\Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Dynamic Bones Stub",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/Web/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+          },
+          "url": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.3.4/dev.vrlabs.dynamic-bones-stub-1.3.4.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub/releases/download/1.3.4/dev.vrlabs.dynamic-bones-stub-1.3.4.unitypackage",
+          "zipSHA256": "70f0be17f507b3cebbb82d4b32aa18faffdceb6d31ecd74cfff82d3d38af3cac"
+        },
         "1.3.3": {
           "name": "dev.vrlabs.dynamic-bones-stub",
           "displayName": "Dynamic Bones Stub",
