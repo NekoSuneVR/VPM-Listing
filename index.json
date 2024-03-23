@@ -26,10 +26,10 @@
     },
     "dev.architech.protv": {
       "versions": {
-        "3.0.0-beta.14.3": {
+        "3.0.0-beta.14.4": {
           "name": "dev.architech.protv",
           "displayName": "ArchiTech.ProTV",
-          "version": "3.0.0-beta.14.3",
+          "version": "3.0.0-beta.14.4",
           "unity": "2019.4",
           "description": "A feature-rich, extensible media and video player system for VRChat.",
           "vpmDependencies": {
@@ -51,8 +51,8 @@
           ],
           "licensesUrl": "https://protv.dev/license",
           "unityRelease": "31f1",
-          "zipSHA256": "dc3c1b52540cba5258335fab7952926ca759dc730e75b5b7d10309704c0b82ea",
-          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.14.3/downloads/package",
+          "zipSHA256": "25283fb1b0fa1f1105a13e50fd4e08ff548204a46b9ff1f12f6b5e3183bb8c1e",
+          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.14.4/downloads/package",
           "legacyFolders": {
             "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
           },
