@@ -14680,6 +14680,31 @@
     },
     "com.chocopoi.vrc.dressingtools": {
       "versions": {
+        "2.4.0-beta.1": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.4.0-beta.1",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.1.0",
+            "com.chocopoi.vrc.dressingframework": "^2.1.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "e4aa4d210911324b87ba48ae85bd6e0848a3f034826c8b193a566baa4af63ae5",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.4.0-beta.1/com.chocopoi.vrc.dressingtools-2.4.0-beta.1.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
         "2.4.0-beta": {
           "name": "com.chocopoi.vrc.dressingtools",
           "displayName": "DressingTools",
