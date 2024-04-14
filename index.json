@@ -16870,6 +16870,38 @@
     },
     "dev.vrlabs.marker": {
       "versions": {
+        "1.2.12": {
+          "name": "dev.vrlabs.marker",
+          "displayName": "Marker",
+          "version": "1.2.12",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A marker for drawing",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Marker",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.2 - 3.5"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Marker": "da8faacbf4b324c2d8bb9681e0f9ee6d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Marker",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Marker/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Marker/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Marker": "da8faacbf4b324c2d8bb9681e0f9ee6d"
+          },
+          "url": "https://github.com/VRLabs/Marker/releases/download/1.2.12/dev.vrlabs.marker-1.2.12.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Marker/releases/download/1.2.12/dev.vrlabs.marker-1.2.12.unitypackage",
+          "zipSHA256": "cc0bdf932f293fbe0e8f83c9b51758f4d8bcabcdca91d017e5260f31abebd8cc"
+        },
         "1.2.11": {
           "name": "dev.vrlabs.marker",
           "displayName": "Marker",
