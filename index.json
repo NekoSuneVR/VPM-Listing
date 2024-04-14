@@ -1623,6 +1623,24 @@
     },
     "io.github.rurre.editor-screenshot": {
       "versions": {
+        "1.1.5": {
+          "name": "io.github.rurre.editor-screenshot",
+          "displayName": "Pumkin's Editor Screenshot",
+          "version": "1.1.5",
+          "unity": "2019.4",
+          "description": "An editor tool for taking transparent screenshots in the editor.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Pumkin"
+          },
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "57c43f1a73675d8076a63c70d9c42534e868cefe88cb3d4313c94367c8f8264c",
+          "url": "https://github.com/rurre/Editor-Screenshot/releases/download/1.1.5/io.github.rurre.editor-screenshot-1.1.5.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
         "1.1.4": {
           "name": "io.github.rurre.editor-screenshot",
           "displayName": "Editor Screenshot",
