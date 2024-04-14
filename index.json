@@ -16090,6 +16090,38 @@
     },
     "dev.vrlabs.contact-tracker": {
       "versions": {
+        "1.4.7": {
+          "name": "dev.vrlabs.contact-tracker",
+          "displayName": "Contact Tracker",
+          "version": "1.4.7",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Tracking for contacts, by contacts.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Contact-Tracker",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Contact Tracker": "9cd56b450009343a99b606696779825a"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Contact Tracker",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Contact-Tracker/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Contact-Tracker/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Contact Tracker": "9cd56b450009343a99b606696779825a"
+          },
+          "url": "https://github.com/VRLabs/Contact-Tracker/releases/download/1.4.7/dev.vrlabs.contact-tracker-1.4.7.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Contact-Tracker/releases/download/1.4.7/dev.vrlabs.contact-tracker-1.4.7.unitypackage",
+          "zipSHA256": "0e8931c51776b9af7dce715910f5f5613f62482884cd172de81e1122dd62c489"
+        },
         "1.4.6": {
           "name": "dev.vrlabs.contact-tracker",
           "displayName": "Contact Tracker",
