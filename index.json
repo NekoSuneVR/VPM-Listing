@@ -17282,38 +17282,6 @@
           "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.6/dev.vrlabs.rigidbody-launcher-1.2.6.unitypackage",
           "zipSHA256": "69d9d9bd473f4a791cc182ae26a59da9b4221a7806c2bc68359068d4c0e3e307"
         },
-        "1.2.5": {
-          "name": "dev.vrlabs.rigidbody-launcher",
-          "displayName": "Rigidbody Launcher",
-          "version": "1.2.5",
-          "license": "MIT",
-          "unity": "2022.3.6f1",
-          "description": "Launch an object with collision against the world",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Rigidbody-Launcher",
-          "vpmDependencies": {
-            "dev.vrlabs.instancer": "1.x"
-          },
-          "legacyFolders": {
-            "Assets\\VRLabs\\Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
-          },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Rigidbody Launcher",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/PreviewGif.webp"
-          },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
-          },
-          "url": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.5/dev.vrlabs.rigidbody-launcher-1.2.5.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.5/dev.vrlabs.rigidbody-launcher-1.2.5.unitypackage",
-          "zipSHA256": "0c81329b3df8dae728a2832c6456b28b05b9c628dd50d51e32f0dae06f913ea9"
-        },
         "1.2.4": {
           "name": "dev.vrlabs.rigidbody-launcher",
           "displayName": "Rigidbody Launcher",
@@ -17637,6 +17605,40 @@
           "url": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.0.1/dev.vrlabs.final-ik-stub-1.0.1.zip",
           "unityPackageUrl": "https://github.com/VRLabs/Final-IK-Stub/releases/download/1.0.1/dev.vrlabs.final-ik-stub-1.0.1.unitypackage",
           "zipSHA256": "ffd5e0c1675ccb3b496dc66518f50dfa712fdd45986a3dd425a7628d36c9f57b"
+        }
+      }
+    },
+    "dev.vrlabs.rigidbody-throw": {
+      "versions": {
+        "1.0.0": {
+          "name": "dev.vrlabs.rigidbody-throw",
+          "displayName": "Rigidbody Throw",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A constraint system for throwing objects",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Rigidbody-Throw",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Rigidbody Throw",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Throw/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Throw/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Rigidbody Throw": "c2397041475ca1d46a4352d0deaf9cc0"
+          },
+          "url": "https://github.com/VRLabs/Rigidbody-Throw/releases/download/1.0.0/dev.vrlabs.rigidbody-throw-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Throw/releases/download/1.0.0/dev.vrlabs.rigidbody-throw-1.0.0.unitypackage",
+          "zipSHA256": "b823364dccd37c2df8aa9a81c98b2fc84aa5d831bc3187e18d96ef24b5d4d80f"
         }
       }
     }
