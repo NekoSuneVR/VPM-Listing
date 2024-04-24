@@ -16344,6 +16344,42 @@
         }
       }
     },
+    "dev.vrlabs.collision-detection": {
+      "versions": {
+        "1.0.0": {
+          "name": "dev.vrlabs.collision-detection",
+          "displayName": "Collision Detection",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A contact system to detect world collision.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Collision-Detection",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Collision Detection": "1b7ffa2cfaa4355428a147133e387cd1"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Collision Detection",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Collision-Detection/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Collision-Detection/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Collision Detection": "1b7ffa2cfaa4355428a147133e387cd1"
+          },
+          "url": "https://github.com/VRLabs/Collision-Detection/releases/download/1.0.0/dev.vrlabs.collision-detection-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Collision-Detection/releases/download/1.0.0/dev.vrlabs.collision-detection-1.0.0.unitypackage",
+          "zipSHA256": "d510f0df4ad1c2217c28022ebf8921f98a1c2388c887be3c7420b08f8ec649a2"
+        }
+      }
+    },
     "dev.vrlabs.contact-tracker": {
       "versions": {
         "1.4.7": {
@@ -17356,6 +17392,40 @@
         }
       }
     },
+    "dev.vrlabs.rigidbody-throw": {
+      "versions": {
+        "1.0.0": {
+          "name": "dev.vrlabs.rigidbody-throw",
+          "displayName": "Rigidbody Throw",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A constraint system for throwing objects",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Rigidbody-Throw",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Rigidbody Throw",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Throw/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Throw/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Rigidbody Throw": "c2397041475ca1d46a4352d0deaf9cc0"
+          },
+          "url": "https://github.com/VRLabs/Rigidbody-Throw/releases/download/1.0.0/dev.vrlabs.rigidbody-throw-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Throw/releases/download/1.0.0/dev.vrlabs.rigidbody-throw-1.0.0.unitypackage",
+          "zipSHA256": "b823364dccd37c2df8aa9a81c98b2fc84aa5d831bc3187e18d96ef24b5d4d80f"
+        }
+      }
+    },
     "dev.vrlabs.weapon-slash": {
       "versions": {
         "1.2.21": {
@@ -17648,73 +17718,235 @@
         }
       }
     },
-    "dev.vrlabs.rigidbody-throw": {
+    "com.acchosen.vr-stage-lighting": {
       "versions": {
-        "1.0.0": {
-          "name": "dev.vrlabs.rigidbody-throw",
-          "displayName": "Rigidbody Throw",
-          "version": "1.0.0",
-          "license": "MIT",
+        "2.6.1": {
+          "name": "com.acchosen.vr-stage-lighting",
+          "displayName": "VR Stage Lighting",
+          "version": "2.6.1",
           "unity": "2019.4",
-          "description": "A constraint system for throwing objects",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Rigidbody-Throw",
+          "description": "A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.",
+          "gitDependencies": {},
           "vpmDependencies": {
-            "dev.vrlabs.instancer": ">=1.0.2"
+            "com.llealloo.audiolink": ">=0.3.1"
           },
-          "legacyFolders": {},
-          "unityPackageDestinationFolder": "Assets/VRLabs/Rigidbody Throw",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Throw/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Throw/main/Media/Web/PreviewGif.webp"
+          "author": {
+            "name": "AcChosen",
+            "url": "https://github.com/AcChosen/VR-Stage-Lighting"
           },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Rigidbody Throw": "c2397041475ca1d46a4352d0deaf9cc0"
-          },
-          "url": "https://github.com/VRLabs/Rigidbody-Throw/releases/download/1.0.0/dev.vrlabs.rigidbody-throw-1.0.0.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Throw/releases/download/1.0.0/dev.vrlabs.rigidbody-throw-1.0.0.unitypackage",
-          "zipSHA256": "b823364dccd37c2df8aa9a81c98b2fc84aa5d831bc3187e18d96ef24b5d4d80f"
-        }
-      }
-    },
-    "dev.vrlabs.collision-detection": {
-      "versions": {
-        "1.0.0": {
-          "name": "dev.vrlabs.collision-detection",
-          "displayName": "Collision Detection",
-          "version": "1.0.0",
+          "hideInEditor": false,
           "license": "MIT",
-          "unity": "2019.4",
-          "description": "A contact system to detect world collision.",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Collision-Detection",
-          "vpmDependencies": {
-            "dev.vrlabs.instancer": ">=1.0.2"
-          },
+          "zipSHA256": "dd14a16f57706ff7259b9cdee4b490e0dd43e9e2cdad3b8d4f60fd52a52278a9",
+          "url": "https://github.com/AcChosen/VR-Stage-Lighting/releases/download/v2.6.1/com.acchosen.vr-stage-lighting.zip",
           "legacyFolders": {
-            "Assets\\VRLabs\\Collision Detection": "1b7ffa2cfaa4355428a147133e387cd1"
+            "Assets\\VR-Stage-Lighting": ""
           },
-          "unityPackageDestinationFolder": "Assets/VRLabs/Collision Detection",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Collision-Detection/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Collision-Detection/main/Media/Web/PreviewGif.webp"
+          "legacyFiles": {}
+        },
+        "2.6.0": {
+          "name": "com.acchosen.vr-stage-lighting",
+          "displayName": "VR Stage Lighting",
+          "version": "2.6.0",
+          "unity": "2019.4",
+          "description": "A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.llealloo.audiolink": ">=0.3.1"
           },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Collision Detection": "1b7ffa2cfaa4355428a147133e387cd1"
+          "author": {
+            "name": "AcChosen",
+            "url": "https://github.com/AcChosen/VR-Stage-Lighting"
           },
-          "url": "https://github.com/VRLabs/Collision-Detection/releases/download/1.0.0/dev.vrlabs.collision-detection-1.0.0.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Collision-Detection/releases/download/1.0.0/dev.vrlabs.collision-detection-1.0.0.unitypackage",
-          "zipSHA256": "d510f0df4ad1c2217c28022ebf8921f98a1c2388c887be3c7420b08f8ec649a2"
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "2642af5edfbca0ff686ce87ebe9d471c78ec3459010b4d44230dc6d842ca96d9",
+          "url": "https://github.com/AcChosen/VR-Stage-Lighting/releases/download/v2.6.0/com.acchosen.vr-stage-lighting.zip",
+          "legacyFolders": {
+            "Assets\\VR-Stage-Lighting": ""
+          },
+          "legacyFiles": {}
+        },
+        "2.5.1": {
+          "name": "com.acchosen.vr-stage-lighting",
+          "displayName": "VR Stage Lighting",
+          "version": "2.5.1",
+          "unity": "2019.4",
+          "description": "A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.llealloo.audiolink": ">=0.3.1"
+          },
+          "author": {
+            "name": "AcChosen",
+            "url": "https://github.com/AcChosen/VR-Stage-Lighting"
+          },
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "c2f37964beb12ff9c1780faa9543a65ef444e2102fb70f084ab5fda77efe37a4",
+          "url": "https://github.com/AcChosen/VR-Stage-Lighting/releases/download/v2.5.1/com.acchosen.vr-stage-lighting.zip",
+          "legacyFolders": {
+            "Assets\\VR-Stage-Lighting": ""
+          },
+          "legacyFiles": {}
+        },
+        "2.5.0": {
+          "name": "com.acchosen.vr-stage-lighting",
+          "displayName": "VR Stage Lighting",
+          "version": "2.5.0",
+          "unity": "2019.4",
+          "description": "A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.llealloo.audiolink": ">=0.3.1"
+          },
+          "author": {
+            "name": "AcChosen",
+            "url": "https://github.com/AcChosen/VR-Stage-Lighting"
+          },
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "a4371425333dcc2c0fa62ff0f4acb92ad667f986d385bc6fec4dbfe643c808dd",
+          "url": "https://github.com/AcChosen/VR-Stage-Lighting/releases/download/v2.5.0/com.acchosen.vr-stage-lighting.zip",
+          "legacyFolders": {
+            "Assets\\VR-Stage-Lighting": ""
+          },
+          "legacyFiles": {}
+        },
+        "2.4.5": {
+          "name": "com.acchosen.vr-stage-lighting",
+          "displayName": "VR Stage Lighting",
+          "version": "2.4.5",
+          "unity": "2019.4",
+          "description": "A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.llealloo.audiolink": ">=0.3.1"
+          },
+          "author": {
+            "name": "AcChosen",
+            "url": "https://github.com/AcChosen/VR-Stage-Lighting"
+          },
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "f310f63c7075c1b17e76683ae3bd7cced33f0aa634f5df4fb6fdc2fd91ef0e4e",
+          "url": "https://github.com/AcChosen/VR-Stage-Lighting/releases/download/v2.4.5/com.acchosen.vr-stage-lighting.zip",
+          "legacyFolders": {
+            "Assets\\VR-Stage-Lighting": ""
+          },
+          "legacyFiles": {}
+        },
+        "2.4.4": {
+          "name": "com.acchosen.vr-stage-lighting",
+          "displayName": "VR Stage Lighting",
+          "version": "2.4.4",
+          "unity": "2019.4",
+          "description": "A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.llealloo.audiolink": ">=0.3.1"
+          },
+          "author": {
+            "name": "AcChosen",
+            "url": "https://github.com/AcChosen/VR-Stage-Lighting"
+          },
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "3fa7d5cde908b569e289bd41c37b7c89c5f43476e282637eea71e5f75f79a750",
+          "url": "https://github.com/AcChosen/VR-Stage-Lighting/releases/download/v2.4.4/com.acchosen.vr-stage-lighting.zip",
+          "legacyFolders": {
+            "Assets\\VR-Stage-Lighting": ""
+          },
+          "legacyFiles": {}
+        },
+        "2.4.3": {
+          "name": "com.acchosen.vr-stage-lighting",
+          "displayName": "VR Stage Lighting",
+          "version": "2.4.3",
+          "unity": "2019.4",
+          "description": "A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.llealloo.audiolink": ">=0.3.1"
+          },
+          "author": {
+            "name": "AcChosen",
+            "url": "https://github.com/AcChosen/VR-Stage-Lighting"
+          },
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "78b139e80e2a136691f5ea627829d23409b50a66358a0a52a482879c05deb504",
+          "url": "https://github.com/AcChosen/VR-Stage-Lighting/releases/download/v2.4.3/com.acchosen.vr-stage-lighting.zip",
+          "legacyFolders": {
+            "Assets\\VR-Stage-Lighting": ""
+          },
+          "legacyFiles": {}
+        },
+        "2.4.2": {
+          "name": "com.acchosen.vr-stage-lighting",
+          "displayName": "VR Stage Lighting",
+          "version": "2.4.2",
+          "unity": "2019.4",
+          "description": "A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.llealloo.audiolink": ">=0.3.1"
+          },
+          "author": {
+            "name": "AcChosen",
+            "url": "https://github.com/AcChosen/VR-Stage-Lighting"
+          },
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "a60af27626baed9490ad9e9f6a57077d2666f671cc8d90b11fa743d696fc2602",
+          "url": "https://github.com/AcChosen/VR-Stage-Lighting/releases/download/v2.4.2/com.acchosen.vr-stage-lighting.zip",
+          "legacyFolders": {
+            "Assets\\VR-Stage-Lighting": ""
+          },
+          "legacyFiles": {}
+        },
+        "2.4.0": {
+          "name": "com.acchosen.vr-stage-lighting",
+          "displayName": "VR Stage Lighting",
+          "version": "2.4.0",
+          "unity": "2019.4",
+          "description": "A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.llealloo.audiolink": ">=0.3.1"
+          },
+          "author": {
+            "name": "AcChosen"
+          },
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "fec7804690cc4966c1cde76e6bf8aecef9b918d8ddc77b72d96eddcbeadce724",
+          "url": "https://github.com/AcChosen/VR-Stage-Lighting/releases/download/v2.4.0/com.acchosen.vr-stage-lighting.zip",
+          "legacyFolders": {
+            "Assets\\VR-Stage-Lighting": ""
+          },
+          "legacyFiles": {}
+        },
+        "2.2.0": {
+          "name": "com.acchosen.vr-stage-lighting",
+          "displayName": "VR Stage Lighting",
+          "version": "2.2.0",
+          "unity": "2019.4",
+          "description": "A collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets designed to emulate the real control, quality, and complexity of professional stage lighting into VRChat in as many ways as possible.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.llealloo.audiolink": ">=0.3.1"
+          },
+          "author": {
+            "name": "AcChosen"
+          },
+          "hideInEditor": false,
+          "license": "MIT",
+          "zipSHA256": "8340dc7464fcd009335895bb793f56708d5e5c6eb80e47245593003e64e15919",
+          "url": "https://github.com/AcChosen/VR-Stage-Lighting/releases/download/v2.2.0/com.acchosen.vr-stage-lighting.zip",
+          "legacyFolders": {
+            "Assets\\VR-Stage-Lighting": ""
+          },
+          "legacyFiles": {}
         }
       }
     }
