@@ -15167,6 +15167,56 @@
     },
     "com.chocopoi.vrc.dressingtools": {
       "versions": {
+        "2.5.0-beta.1": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.5.0-beta.1",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.1.0",
+            "com.chocopoi.vrc.dressingframework": "^2.1.1"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "455e2b2e133f3323e3df79d39a3c390ccf751c3e5a058f813d8a9c59a7c114ee",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.5.0-beta.1/com.chocopoi.vrc.dressingtools-2.5.0-beta.1.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
+        "2.4.2-beta": {
+          "name": "com.chocopoi.vrc.dressingtools",
+          "displayName": "DressingTools",
+          "version": "2.4.2-beta",
+          "unity": "2019.4",
+          "description": "A simple but advanced, non-destructive cabinet system.",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0",
+            "com.chocopoi.vrc.avatarlib": "^1.1.0",
+            "com.chocopoi.vrc.dressingframework": "^2.1.0"
+          },
+          "author": {
+            "name": "chocopoi",
+            "email": "poi@chocopoi.com",
+            "url": "https://github.com/poi-vrc/DressingTools"
+          },
+          "zipSHA256": "d28901b542857461b0c491cbf751f74146330472a7f8fc334feb6b16c0e4f26e",
+          "url": "https://github.com/poi-vrc/DressingTools/releases/download/2.4.2-beta/com.chocopoi.vrc.dressingtools-2.4.2-beta.zip",
+          "legacyFolders": {
+            "Assets\\chocopoi\\DressingTools": "99dfd7d4e95028e4eb5e45cd79549417"
+          }
+        },
         "2.5.0-beta": {
           "name": "com.chocopoi.vrc.dressingtools",
           "displayName": "DressingTools",
