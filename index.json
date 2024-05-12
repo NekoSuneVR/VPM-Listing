@@ -17755,6 +17755,38 @@
     },
     "dev.vrlabs.marker": {
       "versions": {
+        "1.2.13": {
+          "name": "dev.vrlabs.marker",
+          "displayName": "Marker",
+          "version": "1.2.13",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A marker for drawing",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Marker",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.2 - 3.5"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Marker": "da8faacbf4b324c2d8bb9681e0f9ee6d"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Marker",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Marker/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Marker/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Marker": "da8faacbf4b324c2d8bb9681e0f9ee6d"
+          },
+          "url": "https://github.com/VRLabs/Marker/releases/download/1.2.13/dev.vrlabs.marker-1.2.13.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Marker/releases/download/1.2.13/dev.vrlabs.marker-1.2.13.unitypackage",
+          "zipSHA256": "c8fbcf1c9713e941d52ad9e6a1fac5673c46d6733cf964cfcab455f413a3af3d"
+        },
         "1.2.12": {
           "name": "dev.vrlabs.marker",
           "displayName": "Marker",
@@ -17955,6 +17987,36 @@
     },
     "dev.vrlabs.rigidbody-throw": {
       "versions": {
+        "1.0.3": {
+          "name": "dev.vrlabs.rigidbody-throw",
+          "displayName": "Rigidbody Throw",
+          "version": "1.0.3",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A constraint system for throwing objects",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Rigidbody-Throw",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Rigidbody Throw",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Throw/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Throw/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Rigidbody Throw": "c2397041475ca1d46a4352d0deaf9cc0"
+          },
+          "url": "https://github.com/VRLabs/Rigidbody-Throw/releases/download/1.0.3/dev.vrlabs.rigidbody-throw-1.0.3.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Throw/releases/download/1.0.3/dev.vrlabs.rigidbody-throw-1.0.3.unitypackage",
+          "zipSHA256": "9b28f3bf1dba5bdc65cad000fe60a5edc6a1a6ed46682b80a86600f87a040001"
+        },
         "1.0.2": {
           "name": "dev.vrlabs.rigidbody-throw",
           "displayName": "Rigidbody Throw",
