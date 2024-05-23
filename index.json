@@ -3812,6 +3812,167 @@
     },
     "com.vrcfury.vrcfury": {
       "versions": {
+        "1.894.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.894.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://vcc.vrcfury.com/download/1.894.0"
+        },
+        "1.893.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.893.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://vcc.vrcfury.com/download/1.893.0"
+        },
+        "1.892.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.892.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://vcc.vrcfury.com/download/1.892.0"
+        },
+        "1.891.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.891.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://vcc.vrcfury.com/download/1.891.0"
+        },
+        "1.890.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.890.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://vcc.vrcfury.com/download/1.890.0"
+        },
+        "1.889.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.889.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://vcc.vrcfury.com/download/1.889.0"
+        },
+        "1.888.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.888.0",
+          "description": "Non-Destructive Tools for VRChat Avatars",
+          "unity": "2019.4",
+          "author": {
+            "name": "VRCFury"
+          },
+          "legacyFolders": {
+            "Assets\\VRCFury": "00b990f230095454f82c345d433841ae",
+            "Assets\\VRCFury-installer": "",
+            "Packages\\com.vrcfury.legacyprefabs": "",
+            "Packages\\com.vrcfury.updater": "",
+            "Packages\\com.vrcfury.installer": ""
+          },
+          "legacyFiles": {
+            "Packages\\com.vrcfury.legacyprefabs.tgz": "",
+            "Packages\\com.vrcfury.updater.tgz": ""
+          },
+          "hideInEditor": false,
+          "url": "https://vcc.vrcfury.com/download/1.888.0"
+        },
         "1.887.0": {
           "name": "com.vrcfury.vrcfury",
           "displayName": "VRCFury",
