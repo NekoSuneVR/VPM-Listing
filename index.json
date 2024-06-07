@@ -1760,6 +1760,22 @@
     },
     "at.pimaker.ltcgi": {
       "versions": {
+        "1.6.0": {
+          "name": "at.pimaker.ltcgi",
+          "displayName": "LTCGI",
+          "version": "1.6.0",
+          "unity": "2022.3",
+          "description": "Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat. ",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "zipSHA256": "1895d8c027eb47ba43aad42bd71cb297a48bb08eb009a792086b311aecc209f0",
+          "url": "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.6.0.zip?",
+          "legacyFolders": {
+            "Assets\\_pi_\\_LTCGI": ""
+          },
+          "legacyFiles": {}
+        },
         "1.5.0": {
           "name": "at.pimaker.ltcgi",
           "displayName": "LTCGI",
