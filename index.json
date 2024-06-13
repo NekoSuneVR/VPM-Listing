@@ -19149,6 +19149,38 @@
     },
     "dev.vrlabs.collision-detection": {
       "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.collision-detection",
+          "displayName": "Collision Detection",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A contact system to detect world collision.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Collision-Detection",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Collision Detection": "1b7ffa2cfaa4355428a147133e387cd1"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Collision Detection",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Collision-Detection/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Collision-Detection/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Collision Detection": "1b7ffa2cfaa4355428a147133e387cd1"
+          },
+          "url": "https://github.com/VRLabs/Collision-Detection/releases/download/1.0.1/dev.vrlabs.collision-detection-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Collision-Detection/releases/download/1.0.1/dev.vrlabs.collision-detection-1.0.1.unitypackage",
+          "zipSHA256": "c10f1b6e46630caa7f123ee3fd7e1d31c5d90a0d48e9357cc0ee4fa5b338cdf9"
+        },
         "1.0.0": {
           "name": "dev.vrlabs.collision-detection",
           "displayName": "Collision Detection",
@@ -20161,6 +20193,38 @@
     },
     "dev.vrlabs.rigidbody-launcher": {
       "versions": {
+        "1.2.8": {
+          "name": "dev.vrlabs.rigidbody-launcher",
+          "displayName": "Rigidbody Launcher",
+          "version": "1.2.8",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Launch an object with collision against the world",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Rigidbody-Launcher",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {
+            "Assets\\VRLabs\\Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
+          },
+          "unityPackageDestinationFolder": "Assets/VRLabs/Rigidbody Launcher",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Launcher/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Rigidbody Launcher": "731bea7ea153544eb8a3310925312f52"
+          },
+          "url": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.8/dev.vrlabs.rigidbody-launcher-1.2.8.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Launcher/releases/download/1.2.8/dev.vrlabs.rigidbody-launcher-1.2.8.unitypackage",
+          "zipSHA256": "396e1b831eb7fec5f41af85ae7ed0ba0373ecb5101db760dd839735ab4a917ca"
+        },
         "1.2.7": {
           "name": "dev.vrlabs.rigidbody-launcher",
           "displayName": "Rigidbody Launcher",
@@ -20261,6 +20325,36 @@
     },
     "dev.vrlabs.rigidbody-throw": {
       "versions": {
+        "1.0.4": {
+          "name": "dev.vrlabs.rigidbody-throw",
+          "displayName": "Rigidbody Throw",
+          "version": "1.0.4",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A constraint system for throwing objects",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Rigidbody-Throw",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Rigidbody Throw",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Throw/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Rigidbody-Throw/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Rigidbody Throw": "c2397041475ca1d46a4352d0deaf9cc0"
+          },
+          "url": "https://github.com/VRLabs/Rigidbody-Throw/releases/download/1.0.4/dev.vrlabs.rigidbody-throw-1.0.4.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Rigidbody-Throw/releases/download/1.0.4/dev.vrlabs.rigidbody-throw-1.0.4.unitypackage",
+          "zipSHA256": "bbbc4efa149b4f1397599a64683e39766e6ae9ade27736836a695b56a4049bac"
+        },
         "1.0.3": {
           "name": "dev.vrlabs.rigidbody-throw",
           "displayName": "Rigidbody Throw",
