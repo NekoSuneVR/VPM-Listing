@@ -21768,6 +21768,70 @@
           "url": "https://github.com/FACS01-01/FACS_Utilities/releases/download/24.05.03/FACS.Utilities.24.05.03.zip"
         }
       }
+    },
+    "dev.vrlabs.custom-object-sync": {
+      "versions": {
+        "1.0.1": {
+          "name": "dev.vrlabs.custom-object-sync",
+          "displayName": "Custom Object Sync",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Customizable Object Sync",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Custom-Object-Sync",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          },
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Custom Object Sync",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Custom Object Sync": "8dcb521ec80db344a9485178247c1567"
+          },
+          "url": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.1/dev.vrlabs.custom-object-sync-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.1/dev.vrlabs.custom-object-sync-1.0.1.unitypackage",
+          "zipSHA256": "7e9cbc474ab4b1d65a3277f3f9146bb7800000e5602b912de205c2cd89162ae6"
+        },
+        "1.0.0": {
+          "name": "dev.vrlabs.custom-object-sync",
+          "displayName": "Custom Object Sync",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Customizable Object Sync",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Custom-Object-Sync",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          },
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Custom Object Sync",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Custom Object Sync": "8dcb521ec80db344a9485178247c1567"
+          },
+          "url": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.0/dev.vrlabs.custom-object-sync-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.0/dev.vrlabs.custom-object-sync-1.0.0.unitypackage",
+          "zipSHA256": "9b4ad495373cac7ae3bc1c495be7469be1947b9b9df47c934c2b3541e17ded95"
+        }
+      }
     }
   }
 }
