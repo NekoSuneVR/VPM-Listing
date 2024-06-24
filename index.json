@@ -356,279 +356,38 @@
             "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
             "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
           }
-        },
-        "3.0.0-beta.10.7": {
-          "name": "dev.architech.protv",
-          "displayName": "ArchiTech.ProTV",
-          "version": "3.0.0-beta.10.7",
-          "unity": "2019.4",
-          "description": "A feature-rich, extensible media and video player system for VRChat.",
-          "vpmDependencies": {
-            "com.vrchat.core.vpm-resolver": "^0.1.27",
-            "com.vrchat.worlds": "^3.3",
-            "dev.architech.sdk": "^0.14"
-          },
-          "samples": [],
-          "author": {
-            "name": "ArchiTechVR",
-            "email": "archi@techanon.dev"
-          },
-          "keywords": [
-            "protv",
-            "udon",
-            "video player"
-          ],
-          "unityRelease": "31f1",
-          "zipSHA256": "10c3be8ec4ea4a726135ee8ea24baf3b7077247744e5f120499f0177d8f32b0b",
-          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.7/downloads/package",
-          "legacyFolders": {
-            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
-          },
-          "legacyFiles": {
-            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
-          }
-        },
-        "3.0.0-beta.10.6": {
-          "name": "dev.architech.protv",
-          "displayName": "ArchiTech.ProTV",
-          "version": "3.0.0-beta.10.6",
-          "unity": "2019.4",
-          "description": "A feature-rich, extensible media and video player system for VRChat.",
-          "vpmDependencies": {
-            "com.vrchat.core.vpm-resolver": "^0.1.27",
-            "com.vrchat.worlds": "^3.3",
-            "dev.architech.sdk": "^0.14"
-          },
-          "samples": [],
-          "author": {
-            "name": "ArchiTechVR",
-            "email": "archi@techanon.dev"
-          },
-          "keywords": [
-            "protv",
-            "udon",
-            "video player"
-          ],
-          "unityRelease": "31f1",
-          "zipSHA256": "d8ddb24e62a16230d48c2c3dd3b6458647692d810b6c14fdbc268a13a16ffaff",
-          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.6/downloads/package",
-          "legacyFolders": {
-            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
-          },
-          "legacyFiles": {
-            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
-          }
-        },
-        "3.0.0-beta.10.5": {
-          "name": "dev.architech.protv",
-          "displayName": "ArchiTech.ProTV",
-          "version": "3.0.0-beta.10.5",
-          "unity": "2019.4",
-          "description": "A feature-rich, extensible media and video player system for VRChat.",
-          "vpmDependencies": {
-            "com.vrchat.core.vpm-resolver": "^0.1.27",
-            "com.vrchat.worlds": "^3.3",
-            "dev.architech.sdk": "^0.14"
-          },
-          "samples": [],
-          "author": {
-            "name": "ArchiTechVR",
-            "email": "archi@techanon.dev"
-          },
-          "keywords": [
-            "protv",
-            "udon",
-            "video player"
-          ],
-          "unityRelease": "31f1",
-          "zipSHA256": "4baec47449a7fdeed6e1e61197b2b998dc308ae9ec7da08d9fc01403a66323ea",
-          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.5/downloads/package",
-          "legacyFolders": {
-            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
-          },
-          "legacyFiles": {
-            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
-          }
-        },
-        "3.0.0-beta.10.4": {
-          "name": "dev.architech.protv",
-          "displayName": "ArchiTech.ProTV",
-          "version": "3.0.0-beta.10.4",
-          "unity": "2019.4",
-          "description": "A feature-rich, extensible media and video player system for VRChat.",
-          "vpmDependencies": {
-            "com.vrchat.core.vpm-resolver": "^0.1.27",
-            "com.vrchat.worlds": "^3.3",
-            "dev.architech.sdk": "^0.14"
-          },
-          "samples": [],
-          "author": {
-            "name": "ArchiTechVR",
-            "email": "archi@techanon.dev"
-          },
-          "keywords": [
-            "protv",
-            "udon",
-            "video player"
-          ],
-          "unityRelease": "31f1",
-          "zipSHA256": "156c614b5107c70f333815bd79e716ee3f61c6019895269c2793c124f11f3bf0",
-          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.4/downloads/package",
-          "legacyFolders": {
-            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
-          },
-          "legacyFiles": {
-            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
-          }
-        },
-        "3.0.0-beta.10.3": {
-          "name": "dev.architech.protv",
-          "displayName": "ArchiTech.ProTV",
-          "version": "3.0.0-beta.10.3",
-          "unity": "2019.4",
-          "description": "A feature-rich, extensible media and video player system for VRChat.",
-          "vpmDependencies": {
-            "com.vrchat.worlds": "^3.3",
-            "dev.architech.sdk": "^0.14"
-          },
-          "samples": [],
-          "author": {
-            "name": "ArchiTechVR",
-            "email": "archi@techanon.dev"
-          },
-          "keywords": [
-            "protv",
-            "udon",
-            "video player"
-          ],
-          "unityRelease": "31f1",
-          "zipSHA256": "fdc5e557defeb70ecee739290e9eacc1196548e0cc05e0b99c8ec282333fcd8f",
-          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.3/downloads/package",
-          "legacyFolders": {
-            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
-          },
-          "legacyFiles": {
-            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
-          }
-        },
-        "3.0.0-beta.10.2": {
-          "name": "dev.architech.protv",
-          "displayName": "ArchiTech.ProTV",
-          "version": "3.0.0-beta.10.2",
-          "unity": "2019.4",
-          "description": "A feature-rich, extensible media and video player system for VRChat.",
-          "vpmDependencies": {
-            "com.vrchat.worlds": "^3.3",
-            "dev.architech.sdk": "^0.14"
-          },
-          "samples": [],
-          "author": {
-            "name": "ArchiTechVR",
-            "email": "archi@techanon.dev"
-          },
-          "keywords": [
-            "protv",
-            "udon",
-            "video player"
-          ],
-          "unityRelease": "31f1",
-          "zipSHA256": "293f85b258b1b15c42cecca3e6c519f80d8c8cbe164fe1752d1bd09cb093d89f",
-          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.2/downloads/package",
-          "legacyFolders": {
-            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
-          },
-          "legacyFiles": {
-            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
-          }
-        },
-        "3.0.0-beta.10.1": {
-          "name": "dev.architech.protv",
-          "displayName": "ArchiTech.ProTV",
-          "version": "3.0.0-beta.10.1",
-          "unity": "2019.4",
-          "description": "A feature-rich, extensible media and video player system for VRChat.",
-          "vpmDependencies": {
-            "com.vrchat.worlds": "^3.3",
-            "dev.architech.sdk": "^0.14"
-          },
-          "samples": [],
-          "author": {
-            "name": "ArchiTechVR",
-            "email": "archi@techanon.dev"
-          },
-          "keywords": [
-            "protv",
-            "udon",
-            "video player"
-          ],
-          "unityRelease": "31f1",
-          "zipSHA256": "82d78ae4c1d6fd49bdde0a780fd167a790797c6ddf9c69a5a6db36e0854a3a63",
-          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10.1/downloads/package",
-          "legacyFolders": {
-            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
-          },
-          "legacyFiles": {
-            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
-          }
-        },
-        "3.0.0-beta.10": {
-          "name": "dev.architech.protv",
-          "displayName": "ArchiTech.ProTV",
-          "version": "3.0.0-beta.10",
-          "unity": "2019.4",
-          "description": "A feature-rich, extensible media and video player system for VRChat.",
-          "vpmDependencies": {
-            "com.vrchat.worlds": "^3.3",
-            "dev.architech.sdk": "^0.14"
-          },
-          "samples": [],
-          "author": {
-            "name": "ArchiTechVR",
-            "email": "archi@techanon.dev"
-          },
-          "keywords": [
-            "protv",
-            "udon",
-            "video player"
-          ],
-          "unityRelease": "31f1",
-          "zipSHA256": "bf60a8534db2ba95db2953c383ef393521d6de12230465af8b79b9504ef57d89",
-          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.10/downloads/package",
-          "legacyFolders": {
-            "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
-          },
-          "legacyFiles": {
-            "Assets/_pi_/_LTCGI-Adapters/Editor/LTCGI_ProTvAdapterAutoSetup.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.asset": "",
-            "Assets/_pi_/_LTCGI-Adapters/LTCGI_ProTvAdapter.cs": "",
-            "Assets/_pi_/_LTCGI-Adapters/protv_adapter_version.txt": ""
-          }
         }
       }
     },
     "dev.architech.protv.extras": {
       "versions": {
+        "0.8.2-beta": {
+          "name": "dev.architech.protv.extras",
+          "displayName": "ArchiTech.ProTV.Extras",
+          "version": "0.8.2-beta",
+          "unity": "2019.4",
+          "description": "A community collection of various scripts, prefabs and themes for ProTV.",
+          "vpmDependencies": {
+            "dev.architech.protv": ">=3.0.0-beta.13.2"
+          },
+          "samples": [],
+          "author": {
+            "name": "ArchiTechVR",
+            "email": "archi@techanon.dev"
+          },
+          "hideInEditor": false,
+          "keywords": [
+            "protv",
+            "skins",
+            "udon",
+            "video player"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "b8352eea2e7564544bb6d820300c84eceecc934d4522a6bd9bfcc0df75622ca4",
+          "url": "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.2-beta/downloads/package",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
         "0.8.1-beta": {
           "name": "dev.architech.protv.extras",
           "displayName": "ArchiTech.ProTV.Extras",
@@ -810,58 +569,6 @@
           "unityRelease": "31f1",
           "zipSHA256": "12bb70802b9c07140824cb8ec4863387741b0fe7c02e1f62e1d585d142254063",
           "url": "https://gitlab.com/techanon/protv-extras/-/releases/v0.7.0-beta/downloads/package",
-          "legacyFolders": {},
-          "legacyFiles": {}
-        },
-        "0.6.0-beta": {
-          "name": "dev.architech.protv.extras",
-          "displayName": "ArchiTech.ProTV.Extras",
-          "version": "0.6.0-beta",
-          "unity": "2019.4",
-          "description": "A community collection of various scripts, prefabs and themes for ProTV.",
-          "vpmDependencies": {
-            "dev.architech.protv": "^3.0.0-beta.1"
-          },
-          "samples": [],
-          "author": {
-            "name": "ArchiTechVR",
-            "email": "archi@techanon.dev"
-          },
-          "keywords": [
-            "protv",
-            "skins",
-            "udon",
-            "video player"
-          ],
-          "unityRelease": "31f1",
-          "zipSHA256": "7f20feb1dc70303041bab80e069f9a16cc01387972fa8b340ca9d075e1bac1d3",
-          "url": "https://gitlab.com/techanon/protv-extras/-/releases/v0.6.0-beta/downloads/package",
-          "legacyFolders": {},
-          "legacyFiles": {}
-        },
-        "0.5.3-beta": {
-          "name": "dev.architech.protv.extras",
-          "displayName": "ArchiTech.ProTV.Extras",
-          "version": "0.5.3-beta",
-          "unity": "2019.4",
-          "description": "A community collection of various scripts, prefabs and themes for ProTV.",
-          "vpmDependencies": {
-            "dev.architech.protv": "^3.0.0-beta.1"
-          },
-          "samples": [],
-          "author": {
-            "name": "ArchiTechVR",
-            "email": "archi@techanon.dev"
-          },
-          "keywords": [
-            "protv",
-            "skins",
-            "udon",
-            "video player"
-          ],
-          "unityRelease": "31f1",
-          "zipSHA256": "3a20f764efa2e647b18e461b3e48710ef98cd58b7dee1e449ef471b829bf2836",
-          "url": "https://gitlab.com/techanon/protv-extras/-/releases/v0.5.3-beta/downloads/package",
           "legacyFolders": {},
           "legacyFiles": {}
         }
