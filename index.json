@@ -802,23 +802,6 @@
     },
     "dev.architech.sdk": {
       "versions": {
-        "0.16.2": {
-          "name": "dev.architech.sdk",
-          "displayName": "ArchiTech.SDK",
-          "version": "0.16.2",
-          "unity": "2019.4",
-          "description": "Library of common functionality used across all of the ArchiTech assets.",
-          "vpmDependencies": {
-            "com.vrchat.worlds": "^3.4"
-          },
-          "author": {
-            "name": "ArchiTechVR",
-            "email": "archi@techanon.dev"
-          },
-          "unityRelease": "31f1",
-          "zipSHA256": "5f32878c784d34038a3f6ac1076adbf310e4ff83608cfd8c9269b3a2f8a4b846",
-          "url": "https://gitlab.com/techanon/architech-sdk/-/releases/v0.16.2/downloads/package"
-        },
         "0.16.0": {
           "name": "dev.architech.sdk",
           "displayName": "ArchiTech.SDK",
