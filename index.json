@@ -52,7 +52,7 @@
           "licensesUrl": "https://protv.dev/license",
           "unityRelease": "31f1",
           "zipSHA256": "221c3daa649b3394bebdc9df17f2244b7b9e7993c54cdf1b46eff1a8b8729381",
-          "url": "https://gitlab.com/techanon/protv/-/releases/v3.0.0-beta.19/downloads/package",
+          "url": "https://gitlab.com/techanon/architech-assets/-/raw/master/ProTV/3.x/ArchiTech.ProTV_v3.0.0-beta.19.zip?ref_type=heads&inline=false",
           "legacyFolders": {
             "Assets\\ArchiTechAnon\\ProTV": "62640e80d9f10ee458707b13a97bae04"
           },
@@ -421,7 +421,7 @@
           ],
           "unityRelease": "31f1",
           "zipSHA256": "a42dcbc2f508497e6326e6388d05ee4a9cfad8e7c740cd1053beaad2136966ed",
-          "url": "https://gitlab.com/techanon/protv-extras/-/releases/v0.8.3-beta/downloads/package",
+          "url": "https://gitlab.com/techanon/architech-assets/-/raw/master/ProTV/3.x/ArchiTech.ProTV.Extras_v0.8.3-beta.zip?ref_type=heads&inline=false",
           "legacyFolders": {},
           "legacyFiles": {}
         },
@@ -881,7 +881,7 @@
           },
           "unityRelease": "31f1",
           "zipSHA256": "030aaa1198f001ccd8e6d56009c26265cf06dbcfede832b40a0ba9c255e39987",
-          "url": "https://gitlab.com/techanon/architech-sdk/-/releases/v0.16.3/downloads/package"
+          "url": "https://gitlab.com/techanon/architech-assets/-/raw/master/ProTV/3.x/ArchiTech.SDK_v0.16.3.zip?ref_type=heads&inline=false"
         },
         "0.16.0": {
           "name": "dev.architech.sdk",
