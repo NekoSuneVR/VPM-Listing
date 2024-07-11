@@ -866,10 +866,10 @@
     },
     "dev.architech.sdk": {
       "versions": {
-        "0.16.3": {
+        "0.16.4": {
           "name": "dev.architech.sdk",
           "displayName": "ArchiTech.SDK",
-          "version": "0.16.3",
+          "version": "0.16.4",
           "unity": "2019.4",
           "description": "Library of common functionality used across all of the ArchiTech assets.",
           "vpmDependencies": {
@@ -880,8 +880,8 @@
             "email": "archi@techanon.dev"
           },
           "unityRelease": "31f1",
-          "zipSHA256": "030aaa1198f001ccd8e6d56009c26265cf06dbcfede832b40a0ba9c255e39987",
-          "url": "https://gitlab.com/techanon/architech-assets/-/raw/master/ProTV/3.x/ArchiTech.SDK_v0.16.3.zip?ref_type=heads&inline=false"
+          "zipSHA256": "f28938c111d3d81e0fd954c5e9a81627f1c3b9da6e4476301375f0459ea01e18",
+          "url": "https://gitlab.com/api/v4/projects/39463625/packages/generic/ArchiTech.SDK/v0.16.4/ArchiTech.SDK_v0.16.4.zip"
         },
         "0.16.0": {
           "name": "dev.architech.sdk",
