@@ -22426,6 +22426,36 @@
     },
     "dev.vrlabs.custom-object-sync": {
       "versions": {
+        "1.0.2": {
+          "name": "dev.vrlabs.custom-object-sync",
+          "displayName": "Custom Object Sync",
+          "version": "1.0.2",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Customizable Object Sync",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Custom-Object-Sync",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          },
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Custom Object Sync",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Custom Object Sync": "8dcb521ec80db344a9485178247c1567"
+          },
+          "url": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.2/dev.vrlabs.custom-object-sync-1.0.2.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.2/dev.vrlabs.custom-object-sync-1.0.2.unitypackage",
+          "zipSHA256": "e4a6e7fd844f9db80ae0e00a6d70bc8d69f533c137e1f84d2c125e627f8125c2"
+        },
         "1.0.1": {
           "name": "dev.vrlabs.custom-object-sync",
           "displayName": "Custom Object Sync",
