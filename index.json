@@ -21141,6 +21141,38 @@
         }
       }
     },
+    "dev.vrlabs.particle-bufferer": {
+      "versions": {
+        "1.0.0": {
+          "name": "dev.vrlabs.particle-bufferer",
+          "displayName": "Particle Bufferer",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "A tool for turning particles into buffer particles.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Particle-Bufferer",
+          "vpmDependencies": {},
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Particle-Bufferer",
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Particle-Bufferer": "84d6f00cc81b69845bd84ce2c279ca6a"
+          },
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Particle-Bufferer/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Particle-Bufferer/main/Media/Web/Preview.webp"
+          },
+          "url": "https://github.com/VRLabs/Particle-Bufferer/releases/download/1.0.0/dev.vrlabs.particle-bufferer-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Particle-Bufferer/releases/download/1.0.0/dev.vrlabs.particle-bufferer-1.0.0.unitypackage",
+          "zipSHA256": "36c525c5fe94b125ba4a7160cd05107f58b8d3e99f068acc41a721c0dcfd2f5f"
+        }
+      }
+    },
     "dev.vrlabs.raycast-prefab": {
       "versions": {
         "1.2.1": {
@@ -21510,6 +21542,134 @@
           "url": "https://github.com/VRLabs/World-Physics/releases/download/1.3.2/dev.vrlabs.world-physics-1.3.2.zip",
           "unityPackageUrl": "https://github.com/VRLabs/World-Physics/releases/download/1.3.2/dev.vrlabs.world-physics-1.3.2.unitypackage",
           "zipSHA256": "6184b5ac7a2945b9b57acf5ea57a73fa3b165b86f1d48547a5382a5f7a7a5a43"
+        }
+      }
+    },
+    "dev.vrlabs.camera-system": {
+      "versions": {
+        "1.0.0": {
+          "name": "dev.vrlabs.camera-system",
+          "displayName": "Camera System",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "An OSC camera system that moves a camera along a set path.",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Camera-System",
+          "vpmDependencies": {
+            "dev.vrlabs.instancer": ">=1.0.2"
+          },
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Camera-System",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Camera-System/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Camera-System/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Camera-System": "b484069a7250d6c4b87235fd74bfbafb"
+          },
+          "url": "https://github.com/VRLabs/Camera-System/releases/download/1.0.0/dev.vrlabs.camera-system-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Camera-System/releases/download/1.0.0/dev.vrlabs.camera-system-1.0.0.unitypackage",
+          "zipSHA256": "518115a8f2bbac6a1662e4a610674b2612d920f8141d5e9d794a6503f02306c3"
+        }
+      }
+    },
+    "dev.vrlabs.custom-object-sync": {
+      "versions": {
+        "1.0.2": {
+          "name": "dev.vrlabs.custom-object-sync",
+          "displayName": "Custom Object Sync",
+          "version": "1.0.2",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Customizable Object Sync",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Custom-Object-Sync",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          },
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Custom Object Sync",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Custom Object Sync": "8dcb521ec80db344a9485178247c1567"
+          },
+          "url": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.2/dev.vrlabs.custom-object-sync-1.0.2.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.2/dev.vrlabs.custom-object-sync-1.0.2.unitypackage",
+          "zipSHA256": "e4a6e7fd844f9db80ae0e00a6d70bc8d69f533c137e1f84d2c125e627f8125c2"
+        },
+        "1.0.1": {
+          "name": "dev.vrlabs.custom-object-sync",
+          "displayName": "Custom Object Sync",
+          "version": "1.0.1",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Customizable Object Sync",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Custom-Object-Sync",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          },
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Custom Object Sync",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/PreviewGif.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Custom Object Sync": "8dcb521ec80db344a9485178247c1567"
+          },
+          "url": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.1/dev.vrlabs.custom-object-sync-1.0.1.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.1/dev.vrlabs.custom-object-sync-1.0.1.unitypackage",
+          "zipSHA256": "7e9cbc474ab4b1d65a3277f3f9146bb7800000e5602b912de205c2cd89162ae6"
+        },
+        "1.0.0": {
+          "name": "dev.vrlabs.custom-object-sync",
+          "displayName": "Custom Object Sync",
+          "version": "1.0.0",
+          "license": "MIT",
+          "unity": "2019.4",
+          "description": "Customizable Object Sync",
+          "author": {
+            "name": "VRLabs",
+            "email": "mail@vrlabs.dev",
+            "url": "https://vrlabs.dev"
+          },
+          "siteUrl": "https://github.com/VRLabs/Custom-Object-Sync",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          },
+          "legacyFolders": {},
+          "unityPackageDestinationFolder": "Assets/VRLabs/Custom Object Sync",
+          "media": {
+            "previewImage": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Preview.webp",
+            "previewGif": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Preview.webp"
+          },
+          "unityPackageDestinationFolderMetas": {
+            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+            "Assets/VRLabs/Custom Object Sync": "8dcb521ec80db344a9485178247c1567"
+          },
+          "url": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.0/dev.vrlabs.custom-object-sync-1.0.0.zip",
+          "unityPackageUrl": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.0/dev.vrlabs.custom-object-sync-1.0.0.unitypackage",
+          "zipSHA256": "9b4ad495373cac7ae3bc1c495be7469be1947b9b9df47c934c2b3541e17ded95"
         }
       }
     },
@@ -22784,100 +22944,6 @@
         }
       }
     },
-    "dev.vrlabs.custom-object-sync": {
-      "versions": {
-        "1.0.2": {
-          "name": "dev.vrlabs.custom-object-sync",
-          "displayName": "Custom Object Sync",
-          "version": "1.0.2",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "Customizable Object Sync",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Custom-Object-Sync",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          },
-          "legacyFolders": {},
-          "unityPackageDestinationFolder": "Assets/VRLabs/Custom Object Sync",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/PreviewGif.webp"
-          },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Custom Object Sync": "8dcb521ec80db344a9485178247c1567"
-          },
-          "url": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.2/dev.vrlabs.custom-object-sync-1.0.2.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.2/dev.vrlabs.custom-object-sync-1.0.2.unitypackage",
-          "zipSHA256": "e4a6e7fd844f9db80ae0e00a6d70bc8d69f533c137e1f84d2c125e627f8125c2"
-        },
-        "1.0.1": {
-          "name": "dev.vrlabs.custom-object-sync",
-          "displayName": "Custom Object Sync",
-          "version": "1.0.1",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "Customizable Object Sync",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Custom-Object-Sync",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          },
-          "legacyFolders": {},
-          "unityPackageDestinationFolder": "Assets/VRLabs/Custom Object Sync",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Web/PreviewGif.webp"
-          },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Custom Object Sync": "8dcb521ec80db344a9485178247c1567"
-          },
-          "url": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.1/dev.vrlabs.custom-object-sync-1.0.1.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.1/dev.vrlabs.custom-object-sync-1.0.1.unitypackage",
-          "zipSHA256": "7e9cbc474ab4b1d65a3277f3f9146bb7800000e5602b912de205c2cd89162ae6"
-        },
-        "1.0.0": {
-          "name": "dev.vrlabs.custom-object-sync",
-          "displayName": "Custom Object Sync",
-          "version": "1.0.0",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "Customizable Object Sync",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Custom-Object-Sync",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          },
-          "legacyFolders": {},
-          "unityPackageDestinationFolder": "Assets/VRLabs/Custom Object Sync",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Custom-Object-Sync/main/Media/Preview.webp"
-          },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Custom Object Sync": "8dcb521ec80db344a9485178247c1567"
-          },
-          "url": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.0/dev.vrlabs.custom-object-sync-1.0.0.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Custom-Object-Sync/releases/download/1.0.0/dev.vrlabs.custom-object-sync-1.0.0.unitypackage",
-          "zipSHA256": "9b4ad495373cac7ae3bc1c495be7469be1947b9b9df47c934c2b3541e17ded95"
-        }
-      }
-    },
     "com.vrsuya.avatarrebuilder": {
       "versions": {
         "1.0.0": {
@@ -23218,28 +23284,6 @@
         }
       }
     },
-    "com.vrsuya.syncchildavatar": {
-      "versions": {
-        "1.0.0": {
-          "name": "com.vrsuya.syncchildavatar",
-          "version": "1.0.0",
-          "displayName": "VRSuya - Sync Child Avatar",
-          "description": "Sync all child humanoid avatar movement",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/SyncChildAvatar/releases/download/1.00/com.vrsuya.syncchildavatar-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        }
-      }
-    },
     "com.vrsuya.suyasuyafacial": {
       "versions": {
         "1.0.0": {
@@ -23298,69 +23342,25 @@
         }
       }
     },
-    "dev.vrlabs.particle-bufferer": {
+    "com.vrsuya.syncchildavatar": {
       "versions": {
         "1.0.0": {
-          "name": "dev.vrlabs.particle-bufferer",
-          "displayName": "Particle Bufferer",
+          "name": "com.vrsuya.syncchildavatar",
           "version": "1.0.0",
-          "license": "MIT",
+          "displayName": "VRSuya - Sync Child Avatar",
+          "description": "Sync all child humanoid avatar movement",
           "unity": "2019.4",
-          "description": "A tool for turning particles into buffer particles.",
+          "dependencies": {},
           "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
           },
-          "siteUrl": "https://github.com/VRLabs/Particle-Bufferer",
-          "vpmDependencies": {},
-          "legacyFolders": {},
-          "unityPackageDestinationFolder": "Assets/VRLabs/Particle-Bufferer",
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Particle-Bufferer": "84d6f00cc81b69845bd84ce2c279ca6a"
-          },
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Particle-Bufferer/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Particle-Bufferer/main/Media/Web/Preview.webp"
-          },
-          "url": "https://github.com/VRLabs/Particle-Bufferer/releases/download/1.0.0/dev.vrlabs.particle-bufferer-1.0.0.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Particle-Bufferer/releases/download/1.0.0/dev.vrlabs.particle-bufferer-1.0.0.unitypackage",
-          "zipSHA256": "36c525c5fe94b125ba4a7160cd05107f58b8d3e99f068acc41a721c0dcfd2f5f"
-        }
-      }
-    },
-    "dev.vrlabs.camera-system": {
-      "versions": {
-        "1.0.0": {
-          "name": "dev.vrlabs.camera-system",
-          "displayName": "Camera System",
-          "version": "1.0.0",
-          "license": "MIT",
-          "unity": "2019.4",
-          "description": "An OSC camera system that moves a camera along a set path.",
-          "author": {
-            "name": "VRLabs",
-            "email": "mail@vrlabs.dev",
-            "url": "https://vrlabs.dev"
-          },
-          "siteUrl": "https://github.com/VRLabs/Camera-System",
+          "url": "https://github.com/crestudio/SyncChildAvatar/releases/download/1.00/com.vrsuya.syncchildavatar-1.0.0.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
           "vpmDependencies": {
-            "dev.vrlabs.instancer": ">=1.0.2"
-          },
-          "legacyFolders": {},
-          "unityPackageDestinationFolder": "Assets/VRLabs/Camera-System",
-          "media": {
-            "previewImage": "https://raw.githubusercontent.com/VRLabs/Camera-System/main/Media/Web/Preview.webp",
-            "previewGif": "https://raw.githubusercontent.com/VRLabs/Camera-System/main/Media/Web/PreviewGif.webp"
-          },
-          "unityPackageDestinationFolderMetas": {
-            "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-            "Assets/VRLabs/Camera-System": "b484069a7250d6c4b87235fd74bfbafb"
-          },
-          "url": "https://github.com/VRLabs/Camera-System/releases/download/1.0.0/dev.vrlabs.camera-system-1.0.0.zip",
-          "unityPackageUrl": "https://github.com/VRLabs/Camera-System/releases/download/1.0.0/dev.vrlabs.camera-system-1.0.0.unitypackage",
-          "zipSHA256": "518115a8f2bbac6a1662e4a610674b2612d920f8141d5e9d794a6503f02306c3"
+            "com.vrchat.avatars": ">=3.0.9"
+          }
         }
       }
     }
