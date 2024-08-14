@@ -18199,6 +18199,35 @@
     },
     "com.github.kurotu.vrc-quest-tools": {
       "versions": {
+        "2.4.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "displayName": "VRCQuestTools",
+          "version": "2.4.0",
+          "unity": "2019.4",
+          "description": "Editor extension to support uploading VRChat Android avatars",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.3.0"
+          },
+          "changelogUrl": "https://kurotu.github.io/VRCQuestTools/docs/changelog?lang=auto",
+          "author": {
+            "name": "kurotu"
+          },
+          "documentationUrl": "https://kurotu.github.io/VRCQuestTools/?lang=auto",
+          "license": "MIT",
+          "licensesUrl": "https://github.com/kurotu/VRCQuestTools/blob/master/LICENSE.txt",
+          "zipSHA256": "6e525090b38d5b1110c1d6093845661dce88fd51334f7789d80b1da00b16ab11",
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v2.4.0/com.github.kurotu.vrc-quest-tools-2.4.0.zip",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1",
+            "Assets\\KRT\\VRCQuestToolsExtra": "0d11585594bb9756382a21acad43a616"
+          },
+          "legacyPackages": [
+            "com.github.kurotu.vrc-quest-tools-extra"
+          ]
+        },
         "2.3.5": {
           "name": "com.github.kurotu.vrc-quest-tools",
           "displayName": "VRCQuestTools",
