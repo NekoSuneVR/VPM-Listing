@@ -18442,6 +18442,64 @@
         }
       }
     },
+    "jp.lilxyzw.lilycalinventory": {
+      "versions": {
+        "1.0.1": {
+          "name": "jp.lilxyzw.lilycalinventory",
+          "version": "1.0.1",
+          "displayName": "lilycalInventory",
+          "description": "Modify avatar at build time.",
+          "unity": "2019.4",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilycalInventory/releases/download/1.0.1/jp.lilxyzw.lilycalinventory-1.0.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+        },
+        "1.0.0": {
+          "name": "jp.lilxyzw.lilycalinventory",
+          "version": "1.0.0",
+          "displayName": "lilycalInventory",
+          "description": "Modify avatar at build time.",
+          "unity": "2019.4",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilycalInventory/releases/download/1.0.0/jp.lilxyzw.lilycalinventory-1.0.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+        }
+      }
+    },
+    "jp.lilxyzw.editortoolbox": {
+      "versions": {
+        "0.1.2": {
+          "name": "jp.lilxyzw.editortoolbox",
+          "version": "0.1.2",
+          "displayName": "lilEditorToolbox",
+          "description": "Extensions for Unity Editor.",
+          "unity": "2022.3",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.2/jp.lilxyzw.editortoolbox-0.1.2.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+        },
+        "0.1.1": {
+          "name": "jp.lilxyzw.editortoolbox",
+          "version": "0.1.1",
+          "displayName": "lilEditorToolbox",
+          "description": "Extensions for Unity Editor.",
+          "unity": "2022.3",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.1/jp.lilxyzw.editortoolbox-0.1.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+        },
+        "0.1.0": {
+          "name": "jp.lilxyzw.editortoolbox",
+          "version": "0.1.0",
+          "displayName": "lilEditorToolbox",
+          "description": "Extensions for Unity Editor.",
+          "unity": "2022.3",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.0/jp.lilxyzw.editortoolbox-0.1.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+        }
+      }
+    },
     "dev.pokeyi.udontools": {
       "versions": {
         "1.0.1": {
@@ -23724,6 +23782,28 @@
         }
       }
     },
+    "com.vrsuya.avatarscaler": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.vrsuya.avatarscaler",
+          "version": "1.0.0",
+          "displayName": "VRSuya - AvatarScaler",
+          "description": "VRChat Avatar Automatic Scaling Program",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/AvatarScaler/releases/download/1.00/com.vrsuya.avatarscaler-1.0.0.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9"
+          }
+        }
+      }
+    },
     "com.vrsuya.avatarsettingupdater": {
       "versions": {
         "1.0.0": {
@@ -23988,6 +24068,68 @@
         }
       }
     },
+    "com.vrsuya.materialoptimizer": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.vrsuya.materialoptimizer",
+          "version": "1.0.0",
+          "displayName": "VRSuya - MaterialOptimizer",
+          "description": "VRChat Avatar Material Optimization Program",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/MaterialOptimizer/releases/download/1.00/com.vrsuya.materialoptimizer-1.0.0.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9"
+          }
+        },
+        "1.0.1": {
+          "name": "com.vrsuya.materialoptimizer",
+          "version": "1.0.1",
+          "displayName": "VRSuya - MaterialOptimizer",
+          "description": "VRChat Avatar Material Optimization Program",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/MaterialOptimizer/releases/download/1.01/com.vrsuya.materialoptimizer-1.0.1.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9"
+          }
+        }
+      }
+    },
+    "com.vrsuya.portraitcamera": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.vrsuya.portraitcamera",
+          "version": "1.0.0",
+          "displayName": "VRSuya - PortraitCamera",
+          "description": "VRChat Avatar Thumbnail Camera",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/PortraitCamera/releases/download/1.00/com.vrsuya.portraitcamera-1.0.0.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9"
+          }
+        }
+      }
+    },
     "com.vrsuya.suyasuyafacial": {
       "versions": {
         "1.0.0": {
@@ -24068,145 +24210,3872 @@
         }
       }
     },
-    "jp.lilxyzw.lilycalinventory": {
+    "wtf.codec.photo-frame-manager": {
       "versions": {
-        "1.0.1": {
-          "name": "jp.lilxyzw.lilycalinventory",
-          "version": "1.0.1",
-          "displayName": "lilycalInventory",
-          "description": "Modify avatar at build time.",
+        "2.0.2": {
+          "name": "wtf.codec.photo-frame-manager",
+          "displayName": "Photo Frame Manager",
+          "version": "2.0.2",
           "unity": "2019.4",
-          "license": "MIT",
-          "url": "https://github.com/lilxyzw/lilycalInventory/releases/download/1.0.1/jp.lilxyzw.lilycalinventory-1.0.1.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "description": "Photo frame manager and optimizer package for Unity. Has photo cropping, scaling, and resizing with live previews in the 3d scene and inspector. Bakes photos to optimized textures which reduce gpu memory usage, lower the material count, and are optimized for mipmap streaming.",
+          "author": {
+            "name": "codec",
+            "email": "dev@codec.wtf",
+            "url": "https://codec.wtf"
+          },
+          "url": "https://github.com/codec-xyz/photo_frame_manager/releases/download/v2.0.2/photo_frame_manager_v2.0.2.zip"
         },
-        "1.0.0": {
-          "name": "jp.lilxyzw.lilycalinventory",
-          "version": "1.0.0",
-          "displayName": "lilycalInventory",
-          "description": "Modify avatar at build time.",
+        "2.0.1": {
+          "name": "wtf.codec.photo-frame-manager",
+          "displayName": "Photo Frame Manager",
+          "version": "2.0.1",
           "unity": "2019.4",
-          "license": "MIT",
-          "url": "https://github.com/lilxyzw/lilycalInventory/releases/download/1.0.0/jp.lilxyzw.lilycalinventory-1.0.0.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "description": "Photo frame manager and optimizer package for Unity. Has photo cropping, scaling, and resizing with live previews in the 3d scene and inspector. Bakes photos to optimized textures which reduce gpu memory usage, lower the material count, and are optimized for mipmap streaming.",
+          "author": {
+            "name": "codec",
+            "email": "dev@codec.wtf",
+            "url": "https://codec.wtf"
+          },
+          "url": "https://github.com/codec-xyz/photo_frame_manager/releases/download/v2.0.1/photo_frame_manager_v2.0.1.zip"
+        },
+        "2.0.3": {
+          "name": "wtf.codec.photo-frame-manager",
+          "version": "2.0.3",
+          "url": "https://github.com/codec-xyz/photo_frame_manager/releases/download/v2.0.3/wtf.codec.photo-frame-manager-v2.0.3.zip",
+          "displayName": "Photo Frame Manager",
+          "unity": "2019.4",
+          "description": "Photo frame manager and optimizer package for Unity. Has photo cropping, scaling, and resizing with live previews in the 3d scene and inspector. Bakes photos to optimized textures which reduce gpu memory usage, lower the material count, and are optimized for mipmap streaming.",
+          "author": {
+            "name": "codec",
+            "email": "dev@codec.wtf",
+            "url": "https://codec.wtf"
+          }
+        },
+        "2.1.0": {
+          "name": "wtf.codec.photo-frame-manager",
+          "version": "2.1.0",
+          "url": "https://github.com/codec-xyz/photo_frame_manager/releases/download/v2.1.0/wtf.codec.photo-frame-manager-v2.1.0.zip",
+          "displayName": "Photo Frame Manager",
+          "unity": "2019.4",
+          "description": "Photo frame manager and optimizer package for Unity. Has photo cropping, scaling, and resizing with live previews in the 3d scene and inspector. Bakes photos to optimized textures which reduce gpu memory usage, lower the material count, and are optimized for mipmap streaming.",
+          "author": {
+            "name": "codec",
+            "email": "dev@codec.wtf",
+            "url": "https://codec.wtf"
+          }
+        },
+        "2.2.0": {
+          "name": "wtf.codec.photo-frame-manager",
+          "version": "2.2.0",
+          "url": "https://github.com/codec-xyz/photo_frame_manager/releases/download/v2.2.0/wtf.codec.photo-frame-manager-v2.2.0.zip",
+          "displayName": "Photo Frame Manager",
+          "unity": "2019.4",
+          "description": "Photo frame manager and optimizer package for Unity. Has photo cropping, scaling, and resizing with live previews in the 3d scene and inspector. Bakes photos to optimized textures which reduce gpu memory usage, lower the material count, and are optimized for mipmap streaming.",
+          "author": {
+            "name": "codec",
+            "email": "dev@codec.wtf",
+            "url": "https://codec.wtf"
+          }
+        },
+        "2.2.1": {
+          "name": "wtf.codec.photo-frame-manager",
+          "version": "2.2.1",
+          "url": "https://github.com/codec-xyz/photo_frame_manager/releases/download/v2.2.1/wtf.codec.photo-frame-manager-v2.2.1.zip",
+          "displayName": "Photo Frame Manager",
+          "unity": "2019.4",
+          "description": "Photo frame manager and optimizer package for Unity. Has photo cropping, scaling, and resizing with live previews in the 3d scene and inspector. Bakes photos to optimized textures which reduce gpu memory usage, lower the material count, and are optimized for mipmap streaming.",
+          "author": {
+            "name": "codec",
+            "email": "dev@codec.wtf",
+            "url": "https://codec.wtf"
+          }
         }
       }
     },
-    "jp.lilxyzw.editortoolbox": {
+    "com.miner28.networked-event-caller": {
       "versions": {
-        "0.1.2": {
-          "name": "jp.lilxyzw.editortoolbox",
-          "version": "0.1.2",
-          "displayName": "lilEditorToolbox",
-          "description": "Extensions for Unity Editor.",
+        "3.1.13": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.13",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "5e29c074657186bf193a6dd0878226885fe421c09c69442615307e9311cfab66",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.13/com.miner28.networkedeventcaller-3.1.13.zip"
+        },
+        "3.1.12": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.12",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "3bd095847d0fb7a2975dc8e4555a6f8ec080d912ebdb9706e453c92b96d8ed16",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.12/com.miner28.networkedeventcaller-3.1.12.zip"
+        },
+        "3.1.11": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.11",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "7715d3f65a7f581600b657b1c6e024a7c4a13232c0d281249e14e73bedc3035c",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.11/com.miner28.networkedeventcaller-3.1.11.zip"
+        },
+        "3.1.10": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.10",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "7fa3b55f2a05436854e82ca834e11433e9a91265b26935119dedd6e31a63d01f",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.10/com.miner28.networkedeventcaller-3.1.10.zip"
+        },
+        "3.1.9": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.9",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "0ef0034dea76ecdb09480ff9343d49083104ad6abc827a783ff91f86159ef01c",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.9/com.miner28.networkedeventcaller-3.1.9.zip"
+        },
+        "3.1.8": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.8",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "03a674560600c1e3695037a41f1fe23d7a5f513029d4ae3437814e2ed85aca1e",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.8/com.miner28.networkedeventcaller-3.1.8.zip"
+        },
+        "3.1.7": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.7",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "beceb19732a7c04e7a8e95ef7908b64d57b355e06fe4af1f9ac3ec356717c912",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.7/com.miner28.networkedeventcaller-3.1.7.zip"
+        },
+        "3.1.6": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.6",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "3ad44f19f78c2df554bc523a5b170b3b2d0bdf7523a84a9607e98ba25f3dd81b",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.6/com.miner28.networkedeventcaller-3.1.6.zip"
+        },
+        "3.1.5": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.5",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "fa6a0012f67e3f27be839a5e03983cd576fd88ba5d116260332f43a63395130b",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.5/com.miner28.networkedeventcaller-3.1.5.zip"
+        },
+        "3.1.4": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.4",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "1c102992d661f10d73afaf97fde07356ac51ecd57a6319b9cb325895c21dddbc",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.4/com.miner28.networkedeventcaller-3.1.4.zip"
+        },
+        "3.1.3": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.3",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "ac0775b5a0cba2a0d9036dbc717733ea41d83701eb2cb2d8f475c9444b5fac12",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.3/com.miner28.networkedeventcaller-3.1.3.zip"
+        },
+        "3.1.2": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.2",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "6f37d39c89b8d128b2e17fef4d3feaa9dfc9d45458e0a375682900ac0658b01f",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.2/com.miner28.networkedeventcaller-3.1.2.zip"
+        },
+        "3.1.1": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.1",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {},
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "e8f879e1bc0a94a1ad2cfac1de6d31e90d89e79fd26890fb27c21d0086ef9dd4",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.1/com.miner28.networkedeventcaller-3.1.1.zip"
+        },
+        "3.1.0": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.1.0",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x"
+          },
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "f9458e64bfa068bfde3c07bdc3d0dd8e0c60eac61d7f812e17f3ad8bda815757",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.1.0/com.miner28.networkedeventcaller-3.1.0.zip"
+        },
+        "3.0.6": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.0.6",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x"
+          },
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "d1d48ae0a5a0853c5c78e3e6c9a614a47986fea64a4a65ffe09181e8468ed39f",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.0.6/com.miner28.networkedeventcaller-3.0.6.zip"
+        },
+        "3.0.5": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.0.5",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x"
+          },
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "f4bae7532f80fac91191ab129f323edecaa4dac8370317fc6fa855305f960505",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.0.5/com.miner28.networkedeventcaller-3.0.5.zip"
+        },
+        "3.0.4": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.0.4",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x"
+          },
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "e9edd80b928bca7a89209a5ee6cdfd1477eacff0028242bfe349cafbd566768d",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.0.4/com.miner28.networkedeventcaller-3.0.4.zip"
+        },
+        "3.0.3": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.0.3",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x"
+          },
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "136eeb8dbb857abfbf6477936b9ebf78ef0eb9550463d846da3987f9f1b124e8",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.0.3/com.miner28.networkedeventcaller-3.0.3.zip"
+        },
+        "3.0.2": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.0.2",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x"
+          },
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "d8f6fcc308608ab496631221fed224f9db9512a4c6f666a0a4d53d69f7d23264",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.0.2/com.miner28.networkedeventcaller-3.0.2.zip"
+        },
+        "3.0.1": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.0.1",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x"
+          },
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "d96f459e3d90dd534dfaa40231ce51f799f8c07a281e69bc1e4c6570aad00496",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.0.1/com.miner28.networkedeventcaller-3.0.1.zip"
+        },
+        "3.0.0": {
+          "name": "com.miner28.networked-event-caller",
+          "displayName": "NetworkedEventCaller",
+          "version": "3.0.0",
+          "unity": "2019.4",
+          "description": "A UdonSharp preafab that allows you to call events on other UdonBehaviours across the network with support for parameters.",
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x"
+          },
+          "author": {
+            "name": "Miner28",
+            "url": "https://github.com/Miner28"
+          },
+          "unityRelease": "31f1",
+          "zipSHA256": "ef7c0c27b4e843bc23ea9d7f3d85d68a00d7c8a56654dea311d11fdee3edf7fe",
+          "url": "https://github.com/Miner28/NetworkedEventCaller/releases/download/3.0.0/com.miner28.networkedeventcaller-3.0.0.zip"
+        }
+      }
+    },
+    "dev.hackebein.object-tracking": {
+      "versions": {
+        "0.5.1": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.5.1",
           "unity": "2022.3",
-          "license": "MIT",
-          "url": "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.2/jp.lilxyzw.editortoolbox-0.1.2.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.7.0"
+          },
+          "changelogUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/CHANGELOG.md",
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://hackebein.de"
+          },
+          "documentationUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/README.md",
+          "license": "GPL-3.0-only",
+          "licensesUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/raw/main/Packages/dev.hackebein.object-tracking/LICENSE",
+          "zipSHA256": "378230e3f817ee82cc443118273dadd54e2e0dade047f40db59994e8f26d0174",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.5.1/dev.hackebein.object-tracking-0.5.1.zip"
+        },
+        "0.5.0": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.5.0",
+          "unity": "2022.3",
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.7.0"
+          },
+          "changelogUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/CHANGELOG.md",
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://hackebein.de"
+          },
+          "documentationUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/README.md",
+          "license": "GPL-3.0-only",
+          "licensesUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/raw/main/Packages/dev.hackebein.object-tracking/LICENSE",
+          "zipSHA256": "456cc02722d8198c680e1dc2edbbbbc63e02633b94cec633ecff29fed119ebe2",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.5.0/dev.hackebein.object-tracking-0.5.0.zip"
+        },
+        "0.4.8": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.4.8",
+          "unity": "2019.4",
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">= 3.1.12 <3.7.0"
+          },
+          "changelogUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/CHANGELOG.md",
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://hackebein.de"
+          },
+          "documentationUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/README.md",
+          "license": "GPL-3.0-only",
+          "licensesUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/raw/main/Packages/dev.hackebein.object-tracking/LICENSE",
+          "zipSHA256": "89b6c874eab762195fa500f0ee3e40eb1dbf1b174944e65fa864c5a8f61ada94",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.4.8/dev.hackebein.object-tracking-0.4.8.zip"
+        },
+        "0.4.7": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.4.7",
+          "unity": "2019.4",
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">= 3.1.12 <3.7.0"
+          },
+          "changelogUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/CHANGELOG.md",
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://hackebein.de"
+          },
+          "documentationUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/README.md",
+          "license": "GPL-3.0-only",
+          "licensesUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/raw/main/Packages/dev.hackebein.object-tracking/LICENSE",
+          "zipSHA256": "217f3241e3791a8b8c742b6d6c7818e6ac700051a4bec2e16b8d660b7f013d92",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.4.7/dev.hackebein.object-tracking-0.4.7.zip"
+        },
+        "0.4.6": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.4.6",
+          "unity": "2019.4",
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">= 3.1.12 <3.7.0"
+          },
+          "changelogUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/CHANGELOG.md",
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://hackebein.de"
+          },
+          "documentationUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/README.md",
+          "license": "GPL-3.0-only",
+          "licensesUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/raw/main/Packages/dev.hackebein.object-tracking/LICENSE",
+          "zipSHA256": "157204992ddd07b0800530f9a4b05d5de1ada6f061b345341315c5e4fc4b461e",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.4.6/dev.hackebein.object-tracking-0.4.6.zip"
+        },
+        "0.4.5": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.4.5",
+          "unity": "2019.4",
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">= 3.1.12 <3.7.0"
+          },
+          "changelogUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/CHANGELOG.md",
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://hackebein.de"
+          },
+          "documentationUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/README.md",
+          "license": "GPL-3.0-only",
+          "licensesUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/raw/main/Packages/dev.hackebein.object-tracking/LICENSE",
+          "zipSHA256": "633f4134fcf4218f32ac4b0aa69b887f5834e951ff6b22962947936e1ebc2973",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.4.5/dev.hackebein.object-tracking-0.4.5.zip"
+        },
+        "0.4.4": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.4.4",
+          "unity": "2019.4",
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">= 3.1.12 <3.7.0"
+          },
+          "changelogUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/CHANGELOG.md",
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://hackebein.de"
+          },
+          "documentationUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/README.md",
+          "license": "GPL-3.0-only",
+          "licensesUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/raw/main/Packages/dev.hackebein.object-tracking/LICENSE",
+          "zipSHA256": "c71321232b4d844722a85e40b7f8e75bdb8f331c834cc5c6e35aff4c796ee897",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.4.4/dev.hackebein.object-tracking-0.4.4.zip"
+        },
+        "0.3.4": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.3.4",
+          "unity": "2019.4",
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">= 3.1.12 <3.7.0"
+          },
+          "changelogUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/CHANGELOG.md",
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://hackebein.de"
+          },
+          "documentationUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/README.md",
+          "license": "GPL-3.0-only",
+          "licensesUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/raw/main/Packages/dev.hackebein.object-tracking/LICENSE",
+          "zipSHA256": "0c37dea5e32a30325b67361a81fb141f5213ef4adecc783af115497cec1ea130",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.3.4/dev.hackebein.object-tracking-0.3.4.zip"
+        },
+        "0.3.3": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.3.3",
+          "unity": "2019.4",
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">= 3.1.12"
+          },
+          "changelogUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/CHANGELOG.md",
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://hackebein.de"
+          },
+          "documentationUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/README.md",
+          "license": "GPL-3.0-only",
+          "licensesUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/raw/main/Packages/dev.hackebein.object-tracking/LICENSE",
+          "zipSHA256": "3aeb6bb1a0ce174f7e347a22a8855ba92c79b952523adda833c4733879ee6703",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.3.3/dev.hackebein.object-tracking-0.3.3.zip"
+        },
+        "0.3.2": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.3.2",
+          "unity": "2019.4",
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">= 3.1.12"
+          },
+          "changelogUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/CHANGELOG.md",
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://hackebein.de"
+          },
+          "documentationUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/blob/main/README.md",
+          "license": "GPL-3.0-only",
+          "licensesUrl": "https://github.com/Hackebein/Object-Tracking-Unitypackage/raw/main/Packages/dev.hackebein.object-tracking/LICENSE",
+          "zipSHA256": "5952d808996b4b8812f2b767003ea3880f914ed6406188f23be39ef17fa338b9",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.3.2/dev.hackebein.object-tracking-0.3.2.zip"
+        },
+        "0.3.1": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.3.1",
+          "unity": "2019.4",
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">= 3.1.12"
+          },
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://github.com/Hackebein/Object-Tracking-VPM"
+          },
+          "zipSHA256": "ff3fa631c080cc445de8b085e2086ed20c6692a6743f360e269e8a03b87a2a65",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.3.1/dev.hackebein.object-tracking-0.3.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "localPath": ""
+        },
+        "0.3.0": {
+          "name": "dev.hackebein.object-tracking",
+          "displayName": "Hackebein's Object Tracking Setup",
+          "version": "0.3.0",
+          "unity": "2019.4",
+          "description": "Hackebein's setup for Object Tracking in VRChat",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">= 3.1.12"
+          },
+          "author": {
+            "name": "Hackebein",
+            "email": "hackebein@gmail.com",
+            "url": "https://github.com/Hackebein/Object-Tracking-VPM"
+          },
+          "zipSHA256": "cadd1cb66837ad50c99261d334e3326a4fdb9d9ff61802cedc25a15b6a318928",
+          "url": "https://github.com/Hackebein/Object-Tracking-Unitypackage/releases/download/0.3.0/dev.hackebein.object-tracking-0.3.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "localPath": ""
+        }
+      }
+    },
+    "xyz.drblackrat.usharpvideomodernui": {
+      "versions": {
+        "1.1.1": {
+          "name": "xyz.drblackrat.usharpvideomodernui",
+          "displayName": "USharpVideoModernUI",
+          "version": "1.1.1",
+          "unity": "2022.3",
+          "description": "A fork of USharpVideo with a more modern looking UI",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.x.x"
+          },
+          "author": {
+            "name": "DrBlackRat",
+            "email": "drblackrat@gmail.com",
+            "url": "https://drblackrat.xyz"
+          },
+          "zipSHA256": "7583f17984a56dbb6cafc926fb82bc96368b75fe1c1a031b7dae029a1d59187b",
+          "url": "https://github.com/DrBlackRat/USharpVideoModernUI/releases/download/1.1.1/xyz.drblackrat.usharpvideomodernui-1.1.1.zip",
+          "legacyFolders": {
+            "Assets\\USharpVideo": ""
+          },
+          "legacyFiles": {}
+        },
+        "1.1.0": {
+          "name": "xyz.drblackrat.usharpvideomodernui",
+          "displayName": "USharpVideoModernUI",
+          "version": "1.1.0",
+          "unity": "2022.3",
+          "description": "A fork of USharpVideo with a more modern looking UI",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.x.x"
+          },
+          "author": {
+            "name": "DrBlackRat",
+            "email": "drblackrat@gmail.com",
+            "url": "https://drblackrat.xyz"
+          },
+          "zipSHA256": "a8b36408810e1627347e23ec9f22f6f19b4bf803b9eb548337ae1b8fb8ba8e5e",
+          "url": "https://github.com/DrBlackRat/USharpVideoModernUI/releases/download/1.1.0/xyz.drblackrat.usharpvideomodernui-1.1.0.zip",
+          "legacyFolders": {
+            "Assets\\USharpVideo": ""
+          },
+          "legacyFiles": {}
+        },
+        "1.0.2": {
+          "name": "xyz.drblackrat.usharpvideomodernui",
+          "displayName": "USharpVideoModernUI",
+          "version": "1.0.2",
+          "unity": "2022.3",
+          "description": "A fork of USharpVideo with a more modern looking UI",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.x.x"
+          },
+          "author": {
+            "name": "DrBlackRat",
+            "email": "drblackrat@gmail.com",
+            "url": "https://drblackrat.xyz"
+          },
+          "zipSHA256": "c8027ef31280c0998c94913e085827dbfc4fdcd527c0fa58909e56c4ffa7fc9a",
+          "url": "https://github.com/DrBlackRat/USharpVideoModernUI/releases/download/1.0.2/xyz.drblackrat.usharpvideomodernui-1.0.2.zip",
+          "legacyFolders": {
+            "Assets\\USharpVideo": ""
+          },
+          "legacyFiles": {}
+        },
+        "1.0.1": {
+          "name": "xyz.drblackrat.usharpvideomodernui",
+          "displayName": "USharpVideoModernUI",
+          "version": "1.0.1",
+          "description": "A fork of USharpVideo with a more modern looking UI",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.x.x"
+          },
+          "author": {
+            "name": "DrBlackRat",
+            "email": "drblackrat@gmail.com",
+            "url": "https://drblackrat.xyz"
+          },
+          "zipSHA256": "a83d3109713cafe80872d53d99ea6b851694471b75c6a09a448ccede942afbbf",
+          "url": "https://github.com/DrBlackRat/USharpVideoModernUI/releases/download/1.0.1/xyz.drblackrat.usharpvideomodernui-1.0.1.zip",
+          "legacyFolders": {
+            "Assets\\USharpVideo": ""
+          },
+          "legacyFiles": {}
+        }
+      }
+    },
+    "xyz.drblackrat.pictureloader": {
+      "versions": {
+        "2.2.1": {
+          "name": "xyz.drblackrat.pictureloader",
+          "displayName": "Picture Loader",
+          "version": "2.2.1",
+          "unity": "2022.3",
+          "description": "Tools & Prefabs to easily download images using VRChat's Image Downloader",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.x.x"
+          },
+          "author": {
+            "name": "DrBlackRat",
+            "email": "drblackrat@gmail.com",
+            "url": "https://drblackrat.xyz"
+          },
+          "zipSHA256": "a1808f48860c1935b3486ff6a4918f30519fd7b17f43f47bc1bb540d7529e3c5",
+          "url": "https://github.com/DrBlackRat/VRC-Picture-Loader/releases/download/2.2.1/xyz.drblackrat.pictureloader-2.2.1.zip",
+          "legacyFolders": {
+            "Assets\\DrBlackRat\\Picture Loader": ""
+          },
+          "legacyFiles": {}
+        },
+        "2.2.0": {
+          "name": "xyz.drblackrat.pictureloader",
+          "displayName": "Picture Loader",
+          "version": "2.2.0",
+          "unity": "2022.3",
+          "description": "Tools & Prefabs to easily download images using VRChat's Image Downloader",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.x.x"
+          },
+          "author": {
+            "name": "DrBlackRat",
+            "email": "drblackrat@gmail.com",
+            "url": "https://drblackrat.xyz"
+          },
+          "zipSHA256": "70cb3ff9c6dc099ce3f1416677818b622e7975e6854cd38d4dd42e168bf46bc1",
+          "url": "https://github.com/DrBlackRat/VRC-Picture-Loader/releases/download/2.2.0/xyz.drblackrat.pictureloader-2.2.0.zip",
+          "legacyFolders": {
+            "Assets\\DrBlackRat\\Picture Loader": ""
+          },
+          "legacyFiles": {}
+        }
+      }
+    },
+    "xyz.drblackrat.simplestringloader": {
+      "versions": {
+        "1.0.1": {
+          "name": "xyz.drblackrat.simplestringloader",
+          "displayName": "Simple String Loader",
+          "version": "1.0.1",
+          "unity": "2022.3",
+          "description": "Provides a script to easily download and display strings from the web",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.x.x"
+          },
+          "author": {
+            "name": "DrBlackRat",
+            "email": "drblackrat@gmail.com",
+            "url": "https://drblackrat.de"
+          },
+          "zipSHA256": "8c8bf2516790cba6746a66a4da74875b99dda8e599f79869610f31396977d591",
+          "url": "https://github.com/DrBlackRat/VRC-Simple-String-Loader/releases/download/1.0.1/xyz.drblackrat.simplestringloader-1.0.1.zip",
+          "legacyFolders": {
+            "Assets\\DrBlackRat\\Simple String Loader": ""
+          },
+          "legacyFiles": {}
+        },
+        "1.0.0": {
+          "name": "xyz.drblackrat.simplestringloader",
+          "displayName": "Simple String Loader",
+          "version": "1.0.0",
+          "unity": "2022.3",
+          "description": "Provides a script to easily download and display strings from the web",
+          "dependencies": {},
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.x.x"
+          },
+          "author": {
+            "name": "DrBlackRat",
+            "email": "drblackrat@gmail.com",
+            "url": "https://drblackrat.de"
+          },
+          "zipSHA256": "406942eee8acaa35ee5b09a52c1558c50e2976d3b1e12d7a01e52f6b201c70fa",
+          "url": "https://github.com/DrBlackRat/VRC-Simple-String-Loader/releases/download/1.0.0/xyz.drblackrat.simplestringloader-1.0.0.zip",
+          "legacyFolders": {
+            "Assets\\DrBlackRat\\Simple String Loader": ""
+          },
+          "legacyFiles": {}
+        }
+      }
+    },
+    "com.kitkat.jetsim.floating-origin": {
+      "versions": {
+        "2.0.1": {
+          "name": "com.kitkat.jetsim.floating-origin",
+          "displayName": "JetSim - Floating Origin",
+          "version": "2.0.1",
+          "unity": "2019.4",
+          "description": "A system for VRChat worlds that mitigates floating point issues by moving the world and player.",
+          "dependencies": {
+            "com.livedimensions.vrrefassist": "0.0.10",
+            "com.cyan.playerobjectpool": "1.1.2"
+          },
+          "author": {
+            "name": "KitKat",
+            "url": "https://github.com/KitKat4191"
+          },
+          "keywords": [
+            "kitkat",
+            "jetsim",
+            "floatingorigin",
+            "floating",
+            "origin",
+            "fo"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "4790e7225d10b68f0e1686c365b0773abce91fc01bc4e815045d001255d4ec6d",
+          "url": "https://github.com/KitKat4191/JetSim-FloatingOrigin/releases/download/v2.0.1/com.kitkat.jetsim.floating-origin-2.0.1.zip"
+        },
+        "1.2.1": {
+          "name": "com.kitkat.jetsim.floating-origin",
+          "displayName": "JetSim - Floating Origin",
+          "version": "1.2.1",
+          "unity": "2019.4",
+          "description": "A system for VRChat worlds that mitigates floating point issues by moving the world and player.",
+          "dependencies": {
+            "com.livedimensions.vrrefassist": "0.0.7",
+            "com.cyan.playerobjectpool": "1.1.2"
+          },
+          "author": {
+            "name": "KitKat",
+            "url": "https://github.com/KitKat4191"
+          },
+          "keywords": [
+            "kitkat",
+            "jetsim",
+            "floatingorigin",
+            "floating",
+            "origin",
+            "fo"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "daac653f151558649450a236d7fe9a97e55b08c03614d912acb9a4b03165ccc3",
+          "url": "https://github.com/KitKat4191/JetSim-FloatingOrigin/releases/download/v1.2.1/com.kitkat.jetsim.floating-origin-1.2.1.zip"
+        },
+        "1.2.0": {
+          "name": "com.kitkat.jetsim.floating-origin",
+          "displayName": "JetSim - Floating Origin",
+          "version": "1.2.0",
+          "unity": "2019.4",
+          "description": "A system for VRChat worlds that mitigates floating point issues by moving the world and player.",
+          "dependencies": {
+            "com.livedimensions.vrrefassist": "0.0.6",
+            "com.cyan.playerobjectpool": "1.1.2"
+          },
+          "vpmDependencies": {
+            "com.livedimensions.vrrefassist": "^0.0.6",
+            "com.cyan.playerobjectpool": "^1.1.2"
+          },
+          "author": {
+            "name": "KitKat",
+            "url": "https://github.com/KitKat4191"
+          },
+          "keywords": [
+            "kitkat",
+            "jetsim",
+            "floatingorigin",
+            "floating",
+            "origin",
+            "fo"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "b85b945d9d260d515d9ac9c4253444c33cd08e2f587c0be60ad8ee0ce29ecff1",
+          "url": "https://github.com/KitKat4191/JetSim-FloatingOrigin/releases/download/v1.2.0/com.kitkat.jetsim.floating-origin-1.2.0.zip"
+        },
+        "1.1.0": {
+          "name": "com.kitkat.jetsim.floating-origin",
+          "displayName": "JetSim - Floating Origin",
+          "version": "1.1.0",
+          "unity": "2019.4",
+          "description": "A system for VRChat worlds that mitigates floating point issues by moving the world and player.",
+          "dependencies": {
+            "com.livedimensions.vrrefassist": "0.0.6",
+            "com.cyan.playerobjectpool": "1.1.2"
+          },
+          "vpmDependencies": {
+            "com.livedimensions.vrrefassist": "^0.0.6",
+            "com.cyan.playerobjectpool": "^1.1.2"
+          },
+          "author": {
+            "name": "KitKat",
+            "url": "https://github.com/KitKat4191"
+          },
+          "keywords": [
+            "kitkat",
+            "jetsim",
+            "floatingorigin",
+            "floating",
+            "origin",
+            "fo"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "d62ca16364d38e3d42709ab9f0544acd6316255cad8e6477831537c750931cfc",
+          "url": "https://github.com/KitKat4191/JetSim-FloatingOrigin/releases/download/v1.1.0/com.kitkat.jetsim.floating-origin-1.1.0.zip"
+        },
+        "1.0.2": {
+          "name": "com.kitkat.jetsim.floating-origin",
+          "displayName": "JetSim - Floating Origin",
+          "version": "1.0.2",
+          "unity": "2019.4",
+          "description": "A system for VRChat worlds that mitigates floating point issues by moving the world and player.",
+          "dependencies": {
+            "com.livedimensions.vrrefassist": "0.0.6",
+            "com.cyan.playerobjectpool": "1.1.2"
+          },
+          "vpmDependencies": {
+            "com.livedimensions.vrrefassist": "^0.0.6",
+            "com.cyan.playerobjectpool": "^1.1.2"
+          },
+          "author": {
+            "name": "KitKat",
+            "url": "https://github.com/KitKat4191"
+          },
+          "keywords": [
+            "kitkat",
+            "jetsim",
+            "floatingorigin",
+            "floating",
+            "origin",
+            "fo"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "10c70fd7cd6c929e177fba0c13f5fa1dd3b72086629a28f0956404e5fd0c18f1",
+          "url": "https://github.com/KitKat4191/JetSim-FloatingOrigin/releases/download/v1.0.2/com.kitkat.jetsim.floating-origin-1.0.2.zip"
+        },
+        "1.0.1": {
+          "name": "com.kitkat.jetsim.floating-origin",
+          "displayName": "JetSim - Floating Origin",
+          "version": "1.0.1",
+          "unity": "2019.4",
+          "description": "A system for VRChat worlds that mitigates floating point issues by moving the world and player.",
+          "dependencies": {
+            "com.livedimensions.vrrefassist": "0.0.6",
+            "com.cyan.playerobjectpool": "1.1.2"
+          },
+          "vpmDependencies": {
+            "com.livedimensions.vrrefassist": "^0.0.6",
+            "com.cyan.playerobjectpool": "^1.1.2"
+          },
+          "author": {
+            "name": "KitKat",
+            "url": "https://github.com/KitKat4191"
+          },
+          "keywords": [
+            "kitkat",
+            "jetsim",
+            "floatingorigin",
+            "floating",
+            "origin",
+            "fo"
+          ],
+          "unityRelease": "31f1",
+          "zipSHA256": "ded6b5da061c00ef89853a3958119a612e1b9247696d11a84f84817e47ecae5d",
+          "url": "https://github.com/KitKat4191/JetSim-FloatingOrigin/releases/download/v1.0.1/com.kitkat.jetsim.floating-origin-1.0.1.zip"
+        }
+      }
+    },
+    "com.prismic247.scaledcolliders": {
+      "versions": {
+        "0.0.2": {
+          "name": "com.prismic247.scaledcolliders",
+          "displayName": "Scaled Collider System",
+          "version": "0.0.2",
+          "unity": "2022.3",
+          "description": "Prefab for VRChat worlds to allow for player interactions with world colliders that are scaled relative to your avatar size.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.5.1"
+          },
+          "author": {
+            "name": "Prismic247",
+            "email": "prismic247@gmail.com",
+            "url": "https://github.com/Prismic247"
+          },
+          "zipSHA256": "07e39007e1c94247444cae7ba78d4517f98692cc19d0ecf1ca060431b3068d4a",
+          "url": "https://github.com/Prismic247/ScaledColliderSystem/releases/download/0.0.2/com.prismic247.scaledcolliders-0.0.2.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "0.0.1": {
+          "name": "com.prismic247.scaledcolliders",
+          "displayName": "Prismic247.ScaledColliders",
+          "version": "0.0.1",
+          "description": "Scaled Collider System prefab for VRChat worlds, to allow for player interactions with world colliders that are scaled relative to your avatar size.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.5.1"
+          },
+          "author": {
+            "name": "Prismic247",
+            "email": "prismic247@gmail.com",
+            "url": "https://github.com/Prismic247"
+          },
+          "zipSHA256": "6c46d25543e717011997ab857a15e1d7786fbee5a21261117b967d36f47ea2c8",
+          "url": "https://github.com/Prismic247/ScaledColliderSystem/releases/download/0.0.1/com.prismic247.scaledcolliders-0.0.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        }
+      }
+    },
+    "centauricore.masterchecker": {
+      "versions": {
+        "1.0.0": {
+          "name": "centauricore.masterchecker",
+          "displayName": "CentauriCore - Master Failure Check",
+          "version": "1.0.0",
+          "description": "VRChat Master Failure Checker",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "Centauri",
+            "email": "centauri2442@gmail.com",
+            "url": ""
+          },
+          "zipSHA256": "0bd710ac9ab0fc1aed1c1998853077d7a55c8ea58f5f54205fc0b6a5397ea513",
+          "url": "https://github.com/Centauri2442/VRCMasterFailureCheck/releases/download/1.0.0/centauricore.masterchecker-1.0.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "localPath": "D:\\Unity\\Projects\\Network Debugger\\Packages\\centauricore.masterchecker"
+        }
+      }
+    },
+    "centauricore.networkdebugger": {
+      "versions": {
+        "1.1.1": {
+          "name": "centauricore.networkdebugger",
+          "displayName": "CentauriCore - VRC Network Debugger",
+          "version": "1.1.1",
+          "unity": "2019.4",
+          "description": "VRC Network Debugging!",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4"
+          },
+          "author": {
+            "name": "Centauri",
+            "email": "centauri2442@gmail.com"
+          },
+          "zipSHA256": "8a000493bea936894f1b37357cc5b31b31176f1f6e3dd33b5992719dcbf8d149",
+          "url": "https://github.com/Centauri2442/VRCNetworkDebugger/releases/download/1.1.1/centauricore.networkdebugger-1.1.1.zip"
+        },
+        "1.1.0": {
+          "name": "centauricore.networkdebugger",
+          "displayName": "CentauriCore - VRC Network Debugger",
+          "version": "1.1.0",
+          "unity": "2019.4",
+          "description": "VRC Network Debugging!",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4"
+          },
+          "author": {
+            "name": "Centauri",
+            "email": "centauri2442@gmail.com"
+          },
+          "zipSHA256": "ce0da453631baa17bbb5594c5aab774e0c41581351b0495841c626d954a3bf09",
+          "url": "https://github.com/Centauri2442/VRCNetworkDebugger/releases/download/1.1.0/centauricore.networkdebugger-1.1.0.zip"
+        },
+        "1.0.1": {
+          "name": "centauricore.networkdebugger",
+          "displayName": "CentauriCore - VRC Network Debugger",
+          "version": "1.0.1",
+          "unity": "2019.4",
+          "description": "VRC Networking Debuggin!",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4"
+          },
+          "author": {
+            "name": "Centauri",
+            "email": "centauri2442@gmail.com"
+          },
+          "zipSHA256": "9bb54119dae3e806f5da0edf75097689c8002f1681949a529b4ff7c1889c9104",
+          "url": "https://github.com/Centauri2442/VRCNetworkDebugger/releases/download/1.0.1/centauricore.networkdebugger-1.0.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "localPath": "D:\\Unity\\Projects\\Network Debugger\\Packages\\centauricore.networkdebugger"
+        },
+        "1.0.0": {
+          "name": "centauricore.networkdebugger",
+          "displayName": "CentauriCore - VRC Network Debugger",
+          "version": "1.0.0",
+          "unity": "2019.4",
+          "description": "An alternative to the broken VRChat networking panels, VRC Network Debugger allows developers to quickly and easily see network usage and other relevant info about the networked udon behaviours in their world!",
+          "dependencies": {
+            "com.vrchat.worlds": "3.4.0"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.5.0"
+          },
+          "author": {
+            "name": "Centauri",
+            "email": "centauri2442@gmail.com"
+          },
+          "zipSHA256": "64c12f17e5b225866af4a0dbcc26833c9d306b4f494b0f2e780938447439b8cf",
+          "url": "https://github.com/Centauri2442/VRCNetworkDebugger/releases/download/1.0.0/centauricore.networkdebugger-1.0.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "localPath": "D:\\Unity\\Projects\\Network Debugger\\Packages\\centauricore.networkdebugger"
+        }
+      }
+    },
+    "net.bluwizard.poipresets": {
+      "versions": {
+        "1.7.1": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "BluWizard LABS - Poiyomi Presets",
+          "version": "1.7.1",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "235dced08ddd725cfa8920d82376a6745de9d9b0d1ffbc6310e816ac13140d71",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.7.1/net.bluwizard.poipresets-1.7.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.7.0": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "BluWizard LABS - Poiyomi Presets",
+          "version": "1.7.0",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "13ce1d50d823ce2eefe4fa07c941d7bd2d5f9d2e3d28e24149baa93f6811b192",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.7.0/net.bluwizard.poipresets-1.7.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.6.2": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "BluWizard LABS - Poiyomi Presets",
+          "version": "1.6.2",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "1a3f82a51f3f7796728757e5008f85f85c5b649d148ac0a1960e7ef71e09c8d9",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.6.2/net.bluwizard.poipresets-1.6.2.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.6.1": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "BluWizard LABS - Poiyomi Presets",
+          "version": "1.6.1",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "5596eba5ff8485ae3f2b6b998a60740ed362dca5251199b85e4b32988acec670",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.6.1/net.bluwizard.poipresets-1.6.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.6.0": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "BluWizard LABS - Poiyomi Presets",
+          "version": "1.6.0",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "7fe0ad4e8a8c7afe40fca01a6fc1ab3333dd5bce61bd6c06bbdbe5a0926bbd1e",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.6.0/net.bluwizard.poipresets-1.6.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.5.5": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "BluWizard LABS - Poiyomi Presets",
+          "version": "1.5.5",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "1e174a52df6e8014b94a483354676d6e0954399fe1fbbee30750edb88f74ead8",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.5.5/net.bluwizard.poipresets-1.5.5.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.5.4": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "BluWizard LABS - Poiyomi Presets",
+          "version": "1.5.4",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "a87bbfe02768165a64f4b8129620c285bb211be7e322fc1c98805d06c995ea75",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.5.4/net.bluwizard.poipresets-1.5.4.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.5.3": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "BluWizard LABS - Poiyomi Presets",
+          "version": "1.5.3",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "6cb86391a9b7f433c5a47577f035c5caf8198ef6dc0b1b6855b5f9d948005c61",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.5.3/net.bluwizard.poipresets-1.5.3.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.5.2": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "BluWizard LABS - Poiyomi Presets",
+          "version": "1.5.2",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "323bd6ce561a8e93d3b298b91d7e9d2e7dd5acb488bb4857664b154f0077384b",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.5.2/net.bluwizard.poipresets-1.5.2.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.5.1": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "BluWizard LABS - Poiyomi Presets",
+          "version": "1.5.1",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "b2937361837838e96964566e47b626a172124455abce50a66d079f9420e3d2c6",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.5.1/net.bluwizard.poipresets-1.5.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.5.0": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.5.0",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "0b09562e7f80ff993644f6c496319db5542c7c904ca678a8a297bb468dd77d65",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.5.0/net.bluwizard.poipresets-1.5.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.6": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.3.6",
+          "unity": "2019.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "6b087b9c7023ea7ddb943985d7ef564ce903a383a4fd72860323025c20c9d022",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.6/net.bluwizard.poipresets-1.3.6.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.5": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.3.5",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "5ff993a6caa0ea323b5c950fd872625d50d5edb73f3575088c39888e61633d35",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.5/net.bluwizard.poipresets-1.3.5.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.4": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.3.4",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "ff0a478bd14c9217fff863dceffe36574149bf5628c00183c98804ef44cc3dcf",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.4/net.bluwizard.poipresets-1.3.4.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.3": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.3.3",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "2ec99c2cc4e70dee62cb5df49655270bcf051b0d6690bf4a6e516afc428804c7",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.3/net.bluwizard.poipresets-1.3.3.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.2": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.3.2",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "b31c72e9f2585665ad76eb870b0e7b35ccd5d644e596cbd617ebe75b69e496b1",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.2/net.bluwizard.poipresets-1.3.2.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.1": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.3.1",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "239e16777522597ffaf60146dbaa1ec912ac24e5615f8f5b4215536c95d907ef",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.1/net.bluwizard.poipresets-1.3.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.3.0": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.3.0",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "9a537a5ba8fed1b932e13830ae2c9985e80869bec91b9619fef3fcd0e96ba7b3",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.3.0/net.bluwizard.poipresets-1.3.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.2.2": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.2.2",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "57a6dd11370a35c99e97816102d387da068c14b46e20e95be149b06688dfad0b",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.2/net.bluwizard.poipresets-1.2.2.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.2.1": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.2.1",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "3b2a31dad6ce0b6e38270c0d6106bd9065240d7d2fbafbf7e7379acdf9f02b5e",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.1/net.bluwizard.poipresets-1.2.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.2.0": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.2.0",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "af2696432c56c7665206ebaceb044cd0835106ea5520b6814d23b5cfc0e7bc3a",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.2.0/net.bluwizard.poipresets-1.2.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        },
+        "1.1.0": {
+          "name": "net.bluwizard.poipresets",
+          "displayName": "Blu's Poiyomi Presets",
+          "version": "1.1.0",
+          "description": "Collection of Material Presets for Poiyomi Toon Shader.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "27e9313352a80d784fde71c5eb9198b1dec31f510c028ce53b0f689016a3c1b5",
+          "url": "https://github.com/BluWizard10/Poiyomi-Presets/releases/download/1.1.0/net.bluwizard.poipresets-1.1.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        }
+      }
+    },
+    "net.bluwizard.hierarchy": {
+      "versions": {
+        "1.1.0": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluWizard LABS - Enhanced Hierarchy System",
+          "version": "1.1.0",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "3c2f8328bf9c143a855e77b1bf7a7ccdef4179a3324f8787ce62390a1e8caebe",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/1.1.0/net.bluwizard.hierarchy-1.1.0.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "1.0.1": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluWizard LABS - Enhanced Hierarchy System",
+          "version": "1.0.1",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "b06b1be20d3950fb51cad082bf6c7c396dc461e335294936ef1b1db2bed30a53",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/1.0.1/net.bluwizard.hierarchy-1.0.1.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "1.0.0": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluWizard LABS - Enhanced Hierarchy System",
+          "version": "1.0.0",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "9e82c82ea3af155d5de3c08f7e09faed5bbfd8af736b8bb0a7cdf5e1871bb701",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/1.0.0/net.bluwizard.hierarchy-1.0.0.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.7.0": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.7.0",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "a0a8ab29495cda54f76237219798cf29ed3c8f8d38a7e284c901b0204389b82a",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.7.0/net.bluwizard.hierarchy-0.7.0.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.6.1": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.6.1",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "b1f21c32a3d3f5a4a3b2104101c5357cc0a2f6ab048a41b2da446197b9e207f9",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.6.1/net.bluwizard.hierarchy-0.6.1.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.6.0": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.6.0",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "9843cc8756b2c4b598a0a28ab59fe675bf008ce587354814f7eff295dda778f6",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.6.0/net.bluwizard.hierarchy-0.6.0.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.5.1": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.5.1",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "3280a31a06d171e4d31039b70a2e6a64f5fec9d266bdadb9ceaf762c3c60506f",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.5.1/net.bluwizard.hierarchy-0.5.1.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.5.0": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.5.0",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "166bdd545d4924b0518ee63f693c09ec74509d81cddcfd5a5665166b259446ef",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.5.0/net.bluwizard.hierarchy-0.5.0.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.4.2": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.4.2",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "3a583b0b0a44941362ad6c2e5a8802038ef8c28a1847719d3cbaafabb278d68a",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.4.2/net.bluwizard.hierarchy-0.4.2.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.4.1": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.4.1",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "32ae6d663667c3d8284429f03161e2db8af94215524d62f005d8264e062a8d77",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.4.1/net.bluwizard.hierarchy-0.4.1.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.4.0": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.4.0",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "6e70d27f438be6079ad72c94e13eb2ac70b08e73ffb7bb4b6dce53f4140a5625",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.4.0/net.bluwizard.hierarchy-0.4.0.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.3.1": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.3.1",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "f1059ea8b8357a944aa59203d9fedc78519c6e1364307b6f8c6b58cf8841b7f6",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.3.1/net.bluwizard.hierarchy-0.3.1.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.3.0": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.3.0",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "bdfcef01d0c79c86c3d5ec01ac7d1c2d1d09d8d99a6efcfedbbc6c38fc4f7228",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.3.0/net.bluwizard.hierarchy-0.3.0.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.2.2": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.2.2",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "6e34904263b4ab7a5ca5c1720bf93553eff9821ae57a2dbe62f12402ac617d1e",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.2.2/net.bluwizard.hierarchy-0.2.2.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": [
+            "com.dreadscripts.hierarchyplus"
+          ]
+        },
+        "0.2.1": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.2.1",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "dccce1443d39b32016836d18978a95d880add89f0cfcecde970ded46b750f239",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.2.1/net.bluwizard.hierarchy-0.2.1.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": []
+        },
+        "0.2.0": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.2.0",
+          "unity": "2019.4",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "fc54c6d73bc6f15b72a813ff1f912a5ca5fe0c91477cca3e3b19a197153d4693",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.2.0/net.bluwizard.hierarchy-0.2.0.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": []
+        },
+        "0.1.2": {
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
+          "version": "0.1.2",
+          "unity": "2022.3",
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "2f8b0a904ffdf49bc6732faa7ed08d280fcf1a9be7c952c74975f62e5555c1eb",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.1.2/net.bluwizard.hierarchy-0.1.2.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": []
         },
         "0.1.1": {
-          "name": "jp.lilxyzw.editortoolbox",
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
           "version": "0.1.1",
-          "displayName": "lilEditorToolbox",
-          "description": "Extensions for Unity Editor.",
           "unity": "2022.3",
-          "license": "MIT",
-          "url": "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.1/jp.lilxyzw.editortoolbox-0.1.1.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "fe51b8a097703f8cbe88dbda9833336c3462c72070739edc55a22f19826a51aa",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.1.1/net.bluwizard.hierarchy-0.1.1.zip",
+          "legacyFolders": {
+            "Assets\\QHierarchy": "8d450c50245a17640b4af8434a7fe2c8"
+          },
+          "legacyFiles": {},
+          "legacyPackages": []
         },
         "0.1.0": {
-          "name": "jp.lilxyzw.editortoolbox",
+          "name": "net.bluwizard.hierarchy",
+          "displayName": "BluHierarchy",
           "version": "0.1.0",
-          "displayName": "lilEditorToolbox",
-          "description": "Extensions for Unity Editor.",
           "unity": "2022.3",
-          "license": "MIT",
-          "url": "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.0/jp.lilxyzw.editortoolbox-0.1.0.zip?",
-          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "5ac89762c768b13e6781ab4601dc1d7d841d208c44c955fc92360f5da7f7eeb8",
+          "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/0.1.0/net.bluwizard.hierarchy-0.1.0.zip"
         }
       }
     },
-    "com.vrsuya.materialoptimizer": {
+    "net.bluwizard.ui": {
       "versions": {
-        "1.0.0": {
-          "name": "com.vrsuya.materialoptimizer",
-          "version": "1.0.0",
-          "displayName": "VRSuya - MaterialOptimizer",
-          "description": "VRChat Avatar Material Optimization Program",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
+        "0.4.0-alpha": {
+          "name": "net.bluwizard.ui",
+          "displayName": "BluWizard LABS - World UI Templates",
+          "version": "0.4.0-alpha",
+          "unity": "2022.3",
+          "description": "Collection of various interactable UI templates and designs using Canvas UI, made specifically for your own custom interactable panels in your VRChat Worlds.",
+          "dependencies": {
+            "com.unity.2d.sprite": "1.0.0"
           },
-          "url": "https://github.com/crestudio/MaterialOptimizer/releases/download/1.00/com.vrsuya.materialoptimizer-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "gitDependencies": {},
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
+            "com.vrchat.worlds": "^3.4.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "dfc69faa39796010728bdd3f7e4d26681d5e8446946bab540982cd54adfc3ee8",
+          "url": "https://github.com/BluWizard10/Blu-UI/releases/download/0.4.0-alpha/net.bluwizard.ui-0.4.0-alpha.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "legacyPackages": []
         },
+        "0.3.0-alpha": {
+          "name": "net.bluwizard.ui",
+          "displayName": "BluWizard LABS - World UI Templates",
+          "version": "0.3.0-alpha",
+          "unity": "2022.3",
+          "description": "Collection of various interactable UI templates and designs using Canvas UI, made specifically for your own custom interactable panels in your VRChat Worlds.",
+          "dependencies": {
+            "com.unity.2d.sprite": "1.0.0"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "15918dbcdf640201c01be4cac5eb4a2db39d6861e3452b9d7a31522f9fd98a5e",
+          "url": "https://github.com/BluWizard10/Blu-UI/releases/download/0.3.0-alpha/net.bluwizard.ui-0.3.0-alpha.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "legacyPackages": []
+        },
+        "0.2.1-alpha": {
+          "name": "net.bluwizard.ui",
+          "displayName": "BluWizard LABS - World UI Templates",
+          "version": "0.2.1-alpha",
+          "unity": "2022.3",
+          "description": "Collection of various interactable UI templates and designs using Canvas UI, made specifically for your own custom interactable panels in your VRChat Worlds.",
+          "dependencies": {
+            "com.unity.2d.sprite": "1.0.0"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "bbd7b19eacdc83e4493ffa8e6f2239ed478f9326f3650797587a32aac6324fdb",
+          "url": "https://github.com/BluWizard10/Blu-UI/releases/download/0.2.1-alpha/net.bluwizard.ui-0.2.1-alpha.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "legacyPackages": []
+        },
+        "0.2.0-alpha": {
+          "name": "net.bluwizard.ui",
+          "displayName": "Blu's World UI Templates",
+          "version": "0.2.0-alpha",
+          "unity": "2022.3",
+          "description": "Collection of various interactable UI templates and designs using Canvas UI, made specifically for your own custom interactable panels in your VRChat Worlds.",
+          "dependencies": {
+            "com.unity.2d.sprite": "1.0.0"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "9ba282c46a7231ecaa82cd748f7c5803e7cd456152dd65b99df7817f695dc2ab",
+          "url": "https://github.com/BluWizard10/Blu-UI/releases/download/0.2.0-alpha/net.bluwizard.ui-0.2.0-alpha.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "legacyPackages": []
+        },
+        "0.1.3-alpha": {
+          "name": "net.bluwizard.ui",
+          "displayName": "Blu's World UI Templates",
+          "version": "0.1.3-alpha",
+          "unity": "2022.3",
+          "description": "Work-in-progress collection of various design styles and templates using Canvas UI, made specifically for your own custom interactable panels in your VRChat Worlds.",
+          "dependencies": {
+            "com.unity.2d.sprite": "1.0.0"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "3ab32b7850defa21d40bc487764c9c27881b3198acecab6f90c47e321ac054a9",
+          "url": "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.3-alpha/net.bluwizard.ui-0.1.3-alpha.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "legacyPackages": []
+        },
+        "0.1.2-alpha": {
+          "name": "net.bluwizard.ui",
+          "displayName": "Blu's World UI Templates",
+          "version": "0.1.2-alpha",
+          "description": "Work-in-progress collection of various design styles and templates using Canvas UI, made specifically for your own custom interactable panels in your VRChat Worlds.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "ddceb7142120c5eaf8fb61cc0dbdcf71577fe9b559b189ea1dad849e44f043e3",
+          "url": "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.2-alpha/net.bluwizard.ui-0.1.2-alpha.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "legacyPackages": []
+        },
+        "0.1.1-alpha": {
+          "name": "net.bluwizard.ui",
+          "displayName": "Blu's World UI Templates",
+          "version": "0.1.1-alpha",
+          "description": "Work-in-progress collection of various design styles and templates using Canvas UI, made specifically for your own custom interactable panels in your VRChat Worlds.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "eab26269caed3f5005ae6c88323168a2939dcbdd16b6ca4cff61234eba1da14b",
+          "url": "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.1-alpha/net.bluwizard.ui-0.1.1-alpha.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "legacyPackages": []
+        },
+        "0.1.0-alpha": {
+          "name": "net.bluwizard.ui",
+          "displayName": "Blu's World UI Templates",
+          "version": "0.1.0-alpha",
+          "description": "Collection of various design styles and templates using Canvas UI, made specifically for your own custom interactable panels in your VRChat Worlds.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://vpm.bluwizard.net"
+          },
+          "zipSHA256": "2379f971f6fc018aae8f44b6035f936cfdcd69d7a497cb2cbc80e9276c6b7366",
+          "url": "https://github.com/BluWizard10/Blu-UI/releases/download/0.1.0-alpha/net.bluwizard.ui-0.1.0-alpha.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "legacyPackages": []
+        }
+      }
+    },
+    "net.bluwizard.dynfloor": {
+      "versions": {
+        "1.0.0": {
+          "name": "net.bluwizard.dynfloor",
+          "displayName": "BluWizard LABS - Dynamic VRC Floor Collider",
+          "version": "1.0.0",
+          "unity": "2022.3",
+          "description": "Dynamically updating Floor Collider system that retains it's position on the Floor when you jump, allowing Tails of long length to look more natural. Uses the new VRC Constraints system.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.7.0",
+            "com.vrcfury.vrcfury": "^1.980.0",
+            "net.bluwizard.source": "^1.20.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "9b1f12cd068f5fba08eef3e9ab705c10ecda9b63bd351253ade19a4a82e5b480",
+          "url": "https://github.com/BluWizard10/dynamic-floor/releases/download/1.0.0/net.bluwizard.dynfloor-1.0.0.zip",
+          "legacyPackages": []
+        },
+        "1.0.0-beta.3": {
+          "name": "net.bluwizard.dynfloor",
+          "displayName": "BluWizard LABS - Dynamic VRC Floor Collider",
+          "version": "1.0.0-beta.3",
+          "unity": "2022.3",
+          "description": "Dynamically updating Floor Collider system that retains it's position on the Floor when you jump, allowing Tails of long length to look more natural. Uses the new VRC Constraints system.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.7.0",
+            "com.vrcfury.vrcfury": "^1.980.0",
+            "net.bluwizard.source": "^1.20.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "a8f287a2a41551cc31a5a3e4c296586668b5f345c743082202f8e2b028baa0ef",
+          "url": "https://github.com/BluWizard10/dynamic-floor/releases/download/1.0.0-beta.3/net.bluwizard.dynfloor-1.0.0-beta.3.zip",
+          "legacyPackages": []
+        },
+        "1.0.0-beta.2": {
+          "name": "net.bluwizard.dynfloor",
+          "displayName": "BluWizard LABS - Dynamic VRC Floor Collider",
+          "version": "1.0.0-beta.2",
+          "unity": "2022.3",
+          "description": "Dynamically updating Floor Collider system that retains it's position on the Floor when you jump, allowing Tails of long length to look more natural. Uses the new VRC Constraints system.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.7.0",
+            "com.vrcfury.vrcfury": "^1.980.0",
+            "net.bluwizard.source": "^1.20.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "2e3698fc5416a2b4431eff62185285421f2e7ac04afee9e95d24201f2461c5e0",
+          "url": "https://github.com/BluWizard10/dynamic-floor/releases/download/1.0.0-beta.2/net.bluwizard.dynfloor-1.0.0-beta.2.zip",
+          "legacyPackages": []
+        },
+        "1.0.0-beta.1": {
+          "name": "net.bluwizard.dynfloor",
+          "displayName": "BluWizard LABS - Dynamic VRC Floor Collider",
+          "version": "1.0.0-beta.1",
+          "unity": "2022.3",
+          "description": "Dynamically updating Floor Collider system that retains it's position on the Floor when you jump, allowing Tails of long length to look more natural. Uses the new VRC Constraints system.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": "^3.7.0",
+            "com.vrcfury.vrcfury": "^1.980.0",
+            "net.bluwizard.source": "^1.20.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "29a56026be2d039566beffe094f745bf9553b47f73ddf3b4246fc8958450a754",
+          "url": "https://github.com/BluWizard10/dynamic-floor/releases/download/1.0.0-beta.1/net.bluwizard.dynfloor-1.0.0-beta.1.zip",
+          "legacyPackages": []
+        },
+        "0.3.0-beta": {
+          "name": "net.bluwizard.dynfloor",
+          "displayName": "BluWizard LABS - Dynamic VRC Floor Collider",
+          "version": "0.3.0-beta",
+          "unity": "2022.3",
+          "description": "Dynamically updating Floor Collider system that retains it's position on the Floor when you jump, allowing Tails of long length to look more natural. Uses the new VRC Constraints system.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.6.2-constraints.3",
+            "com.vrcfury.vrcfury": "^1.980.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "b343c09e187143c0d564cfc31553a15109ff2bc1de08b2099c460d01adf27ffd",
+          "url": "https://github.com/BluWizard10/dynamic-floor/releases/download/0.3.0-beta/net.bluwizard.dynfloor-0.3.0-beta.zip",
+          "legacyPackages": []
+        },
+        "0.2.1-beta": {
+          "name": "net.bluwizard.dynfloor",
+          "displayName": "BluWizard LABS - Dynamic VRC Floor Collider",
+          "version": "0.2.1-beta",
+          "unity": "2022.3",
+          "description": "Dynamically updating Floor Collider system that retains it's position on the Floor when you jump, allowing Tails of long length to look more natural. Uses the new VRC Constraints system.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.6.2-constraints.3",
+            "com.vrcfury.vrcfury": "^1.980.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "0691f062d04d3ba2f0ab114550bb56f80153af163925b53e5d3b2be428db8610",
+          "url": "https://github.com/BluWizard10/dynamic-floor/releases/download/0.2.1-beta/net.bluwizard.dynfloor-0.2.1-beta.zip",
+          "legacyPackages": []
+        },
+        "0.2.0-beta": {
+          "name": "net.bluwizard.dynfloor",
+          "displayName": "BluWizard LABS - Dynamic VRC Floor Collider",
+          "version": "0.2.0-beta",
+          "unity": "2022.3",
+          "description": "Dynamically updating Floor Collider system that retains it's position on the Floor when you jump, allowing Tails of long length to look more natural. Uses the new VRC Constraints system.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.6.2-constraints.2",
+            "com.vrcfury.vrcfury": "^1.980.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "7e96114224622673124e946e04a2cc67d81042d5621f6a9e6e0f3e90bd182afc",
+          "url": "https://github.com/BluWizard10/dynamic-floor/releases/download/0.2.0-beta/net.bluwizard.dynfloor-0.2.0-beta.zip",
+          "legacyPackages": []
+        },
+        "0.1.1-beta": {
+          "name": "net.bluwizard.dynfloor",
+          "displayName": "BluWizard LABS - Dynamic VRC Floor Collider",
+          "version": "0.1.1-beta",
+          "unity": "2022.3",
+          "description": "Dynamically updating Floor Collider system that retains it's position on the Floor when you jump, allowing Tails of long length to look more natural using the new VRC Constraints system.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.6.2-constraints.1",
+            "com.vrcfury.vrcfury": "^1.980.0"
+          },
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "5c6d9666684a8310e991546cfde007ebe2366a9ae4abbec599ac7f95093fe136",
+          "url": "https://github.com/BluWizard10/dynamic-floor/releases/download/0.1.1-beta/net.bluwizard.dynfloor-0.1.1-beta.zip",
+          "legacyPackages": []
+        }
+      }
+    },
+    "net.bluwizard.source": {
+      "versions": {
+        "1.21.0": {
+          "name": "net.bluwizard.source",
+          "displayName": "BluWizard LABS - Source",
+          "version": "1.21.0",
+          "unity": "2022.3",
+          "description": "BluWizard's Package of Esssential Stuff and Gimmicks that Blu uses across their Projects. You will find some interesting and possibly useless gimmicks in here.",
+          "dependencies": {
+            "com.unity.postprocessing": "3.2.2",
+            "com.unity.textmeshpro": "3.0.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "c8e1d3353fb2bfe46f22854ba361a7ea69a62eb73b659f9fe92c0ec0e6bd968c",
+          "url": "https://github.com/BluWizard10/BluSource/releases/download/1.21.0/net.bluwizard.source-1.21.0.zip",
+          "legacyPackages": [
+            "com.bluwizard.sdk"
+          ]
+        },
+        "1.20.0": {
+          "name": "net.bluwizard.source",
+          "displayName": "BluWizard LABS - Source",
+          "version": "1.20.0",
+          "unity": "2022.3",
+          "description": "BluWizard's Package of Esssential Stuff and Gimmicks that Blu uses across their Projects. You will find some interesting and possibly useless gimmicks in here.",
+          "dependencies": {
+            "com.unity.postprocessing": "3.2.2",
+            "com.unity.textmeshpro": "3.0.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "hideInEditor": false,
+          "zipSHA256": "fc626acbec8b8d8674b72639de6649b09cc3a8bd6c6e102eb1138ab48cf4b744",
+          "url": "https://github.com/BluWizard10/BluSource/releases/download/1.20.0/net.bluwizard.source-1.20.0.zip",
+          "legacyPackages": [
+            "com.bluwizard.sdk"
+          ]
+        },
+        "1.10.0-dev": {
+          "name": "net.bluwizard.source",
+          "displayName": "BluWizard LABS - Source",
+          "version": "1.10.0-dev",
+          "unity": "2022.3",
+          "description": "BluWizard's Private Package of Esssential Stuff and Gimmicks that Blu uses across their projects.",
+          "dependencies": {
+            "com.unity.postprocessing": "3.2.2",
+            "com.unity.textmeshpro": "3.0.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "e07dffa5247a925129644e6bac68b56cd65e9e7138ec40f7e912f354a9f689be",
+          "url": "https://github.com/BluWizard10/BluSource/releases/download/1.10.0-dev/net.bluwizard.source-1.10.0-dev.zip",
+          "legacyPackages": [
+            "com.bluwizard.sdk"
+          ]
+        },
+        "1.9.0-dev": {
+          "name": "net.bluwizard.source",
+          "displayName": "BluWizard LABS - Source",
+          "version": "1.9.0-dev",
+          "unity": "2022.3",
+          "description": "BluWizard's Private Package of Esssential Stuff and Gimmicks that Blu uses across their projects.",
+          "dependencies": {
+            "com.unity.postprocessing": "3.2.2",
+            "com.unity.textmeshpro": "3.0.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "c34efb20db502942ca49c0980876322b9819b960cabef03ace9d49bf85e3e2db",
+          "url": "https://github.com/BluWizard10/BluSource/releases/download/1.9.0-dev/net.bluwizard.source-1.9.0-dev.zip",
+          "legacyPackages": [
+            "com.bluwizard.sdk"
+          ]
+        },
+        "1.8.2-dev": {
+          "name": "net.bluwizard.source",
+          "displayName": "BluWizard LABS - Source",
+          "version": "1.8.2-dev",
+          "unity": "2022.3",
+          "description": "BluWizard's Private Package of Esssential Stuff and Gimmicks that Blu uses across their projects.",
+          "dependencies": {
+            "com.unity.postprocessing": "3.2.2",
+            "com.unity.textmeshpro": "3.0.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "6db9a9999db4935957262d7033d970bc60c13e04f80e9a2c7fc970cd2c2542bc",
+          "url": "https://github.com/BluWizard10/BluSource/releases/download/1.8.2-dev/net.bluwizard.source-1.8.2-dev.zip",
+          "legacyPackages": [
+            "com.bluwizard.sdk"
+          ]
+        },
+        "1.8.1-dev": {
+          "name": "net.bluwizard.source",
+          "displayName": "BluWizard LABS - Source",
+          "version": "1.8.1-dev",
+          "unity": "2022.3",
+          "description": "BluWizard's Private Package of Esssential Stuff and Gimmicks that Blu uses across their projects.",
+          "dependencies": {
+            "com.unity.postprocessing": "3.2.2",
+            "com.unity.textmeshpro": "3.0.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "41ee2cd8544492c9cdfc501035c8c762ff6ee906005be17548dd4c442e072397",
+          "url": "https://github.com/BluWizard10/BluSource/releases/download/1.8.1-dev/net.bluwizard.source-1.8.1-dev.zip",
+          "legacyPackages": [
+            "com.bluwizard.sdk"
+          ]
+        },
+        "1.8.0-dev": {
+          "name": "net.bluwizard.source",
+          "displayName": "BluWizard LABS - Source",
+          "version": "1.8.0-dev",
+          "unity": "2022.3",
+          "description": "BluWizard's Private Package of Esssential Stuff and Gimmicks that Blu uses across their projects.",
+          "dependencies": {
+            "com.unity.postprocessing": "3.2.2",
+            "com.unity.textmeshpro": "3.0.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "9255b9c07ef6e5f02cddb5529df8c8fa8c9ba4cdf65555248df715637f85875b",
+          "url": "https://github.com/BluWizard10/BluSource/releases/download/1.8.0-dev/net.bluwizard.source-1.8.0-dev.zip",
+          "legacyPackages": [
+            "com.bluwizard.sdk"
+          ]
+        },
+        "1.7.0-dev": {
+          "name": "net.bluwizard.source",
+          "displayName": "BluWizard LABS - Source",
+          "version": "1.7.0-dev",
+          "unity": "2022.3",
+          "description": "BluWizard's Private Package of Esssential Stuff and Gimmicks that Blu uses across their projects.",
+          "dependencies": {
+            "com.unity.postprocessing": "3.2.2"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "6e0e50e23b64cbc3be81e65e05cdf9053a53efb93ffa7750eadd8a665c3f7938",
+          "url": "https://github.com/BluWizard10/BluSource/releases/download/1.7.0-dev/net.bluwizard.source-1.7.0-dev.zip",
+          "legacyPackages": [
+            "com.bluwizard.sdk"
+          ]
+        },
+        "1.6.11-dev": {
+          "name": "net.bluwizard.source",
+          "displayName": "BluWizard LABS - Source",
+          "version": "1.6.11-dev",
+          "unity": "2022.3",
+          "description": "BluWizard's Private Package of Esssential Stuff and Gimmicks that Blu uses across their projects.",
+          "dependencies": {
+            "com.unity.postprocessing": "3.2.2"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "5e3ea54cbbcf7c0ebfc5f4f03f27227b375e9ae7dbea1342c69808973ec142f6",
+          "url": "https://github.com/BluWizard10/BluSource/releases/download/1.6.11-dev/net.bluwizard.source-1.6.11-dev.zip",
+          "legacyPackages": [
+            "com.bluwizard.sdk"
+          ]
+        },
+        "1.6.10-dev": {
+          "name": "net.bluwizard.source",
+          "displayName": "BluWizard LABS - Source",
+          "version": "1.6.10-dev",
+          "unity": "2022.3",
+          "description": "BluWizard's Private Package of Esssential Stuff and Gimmicks that Blu uses across their projects.",
+          "dependencies": {
+            "com.unity.postprocessing": "3.2.2"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "author": {
+            "name": "BluWizard",
+            "email": "17975114+BluWizard10@users.noreply.github.com",
+            "url": "https://bluwizard.net"
+          },
+          "zipSHA256": "4fa8944f325d82ae141177d49ead3ed02235ff51ee3ec657f5b8498c876dc94d",
+          "url": "https://github.com/BluWizard10/BluSource/releases/download/1.6.10-dev/net.bluwizard.source-1.6.10-dev.zip",
+          "legacyPackages": [
+            "com.bluwizard.sdk"
+          ]
+        }
+      }
+    },
+    "com.thepartyzonevr.camerasystem": {
+      "versions": {
+        "0.2.2": {
+          "name": "com.thepartyzonevr.camerasystem",
+          "displayName": "Party Zone Camera System",
+          "version": "0.2.2",
+          "unity": "2019.4",
+          "description": "A cinnemachine camera controller for VRChat. Allows you to change between 9 different views while you are in desktop mode. Keys from midi controller can be binded to change cameras and exit the system using the UI. This can be used to record events or to have additional views for DJs.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1"
+          },
+          "author": {
+            "name": "labthe3rd",
+            "email": "labthe3rd@thepartyzonevr.com",
+            "url": ""
+          },
+          "zipSHA256": "8422701e7007e0e625c721152ef119ea053754684032fcea6ac373b7cabfdcdd",
+          "url": "https://github.com/labthe3rd/PZCameraSystem/releases/download/0.2.2/com.thepartyzonevr.camerasystem-0.2.2.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "localPath": "C:\\Unity Projects\\PZCameraSystem\\Packages\\com.thepartyzonevr.camerasystem"
+        },
+        "0.2.0": {
+          "name": "com.thepartyzonevr.camerasystem",
+          "displayName": "Party Zone Camera System",
+          "version": "0.2.0",
+          "unity": "2019.4",
+          "description": "A cinnemachine camera controller for VRChat. Allows you to change between 9 different views while you are in desktop mode. Keys from midi controller can be binded to change cameras and exit the system using the UI. This can be used to record events or to have additional views for DJs.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1"
+          },
+          "author": {
+            "name": "labthe3rd",
+            "email": "labthe3rd@thepartyzonevr.com",
+            "url": ""
+          },
+          "zipSHA256": "6d64a8471ecafc0cbe357cd1fbece89f1e646f9f6c81aa31fdd1ad7a879dcef7",
+          "url": "https://github.com/labthe3rd/PZCameraSystem/releases/download/0.2.0/com.thepartyzonevr.camerasystem-0.2.0.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "localPath": "C:\\Unity Projects\\PZCameraSystem\\Packages\\com.thepartyzonevr.camerasystem"
+        },
+        "0.1.1": {
+          "name": "com.thepartyzonevr.camerasystem",
+          "displayName": "Party Zone Camera System",
+          "version": "0.1.1",
+          "unity": "2019.4",
+          "description": "A cinnemachine camera controller for VRChat. Allows you to change between 9 different views while you are in desktop mode. This can be used to record events or to have additional views for DJs.",
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1"
+          },
+          "author": {
+            "name": "labthe3rd",
+            "email": "labthe3rd@thepartyzonevr.com",
+            "url": ""
+          },
+          "zipSHA256": "9b0a0fbb8d115289a7a724df006ce60eaf9994b33df205a2da463beede1b34a0",
+          "url": "https://github.com/labthe3rd/PZCameraSystem/releases/download/0.1.1/com.thepartyzonevr.camerasystem-0.1.1.zip",
+          "legacyFolders": {},
+          "legacyFiles": {},
+          "localPath": "C:\\Unity Projects\\PZCameraSystem\\Packages\\com.thepartyzonevr.camerasystem"
+        }
+      }
+    },
+    "com.mattshark.openflight": {
+      "versions": {
+        "1.7.6": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.7.6",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.7"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "9c660c936bed7310cc10a9a8deb8711b26ee99f4c9041e8a816093668369a0cc",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.7.6/com.mattshark.openflight-OpenFlight-1.7.6.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.7.5": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.7.5",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.6"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "58581174d5f8764397483aa0e57d1abcea2f73546347645e791a9600f152704b",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.7.5/com.mattshark.openflight-OpenFlight-1.7.5.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.7.4": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.7.4",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.6"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "d0ad7f686f64593c2b2a57226f73215a504f90a69011281b380a5b6a37b4e9c6",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.7.4/com.mattshark.openflight-OpenFlight-1.7.4.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.7.3": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.7.3",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.6"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "5628cca9b26b59d4a8bd1f2de13cfc6ae0b614d5ccbdf024c1d9a105e2a7c517",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.7.3/com.mattshark.openflight-OpenFlight-1.7.3.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.7.2": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.7.2",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.6"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "b1cb0588d2efb77059e01a48adec8af2ad46380fc6042048c553df892d1efcc7",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.7.2/com.mattshark.openflight-OpenFlight-1.7.2.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.7.1": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.7.1",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.5"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "a905ae5f274d1faadc8804f5d65554dcd0716b5c5b2133c8f22be539a2e9c58c",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.7.1/com.mattshark.openflight-OpenFlight-1.7.1.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.7.0": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.7.0",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.5"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "19a548d66d31f746270094bb42463ece34dc4769f3e95c70f149c359f36a5938",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.7.0/com.mattshark.openflight-OpenFlight-1.7.0.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.5": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.5",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.5"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "7617d8f68dfa9a2300b31686b8c53f8071c828ca4479e982a8ee947e9563085b",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.5/com.mattshark.openflight-OpenFlight-1.6.5.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.4": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.4",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.5"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "2bec381c5f41458595941682a3bf7f58d16c379460857629fd7e1e9be6ae9ddb",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.4/com.mattshark.openflight-OpenFlight-1.6.4.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.3": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.3",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.5"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "9bb62e82fa93969f23595dd0535a40155e68654950a7aea7784ad59bb2fdb951",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.3/com.mattshark.openflight-OpenFlight-1.6.3.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.2": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.2",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.5"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "d4c1a6c4581f1b68d822ef365e4a91785f81d909aa68c89aa3818eea50c4535c",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.2/com.mattshark.openflight-OpenFlight-1.6.2.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.1": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.1",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.5"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "b41589fa788ae7070d02d4d635c10e3835483fab7ff51d6e229ed2eace85bc49",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.1/com.mattshark.openflight-OpenFlight-1.6.1.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.0": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.0",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.5"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "21f035808bd8f10ab31383e7069db86de89024d6ad16cb4b2a4bc78536e2bf18",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.0/com.mattshark.openflight-OpenFlight-1.6.0.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.0-rc.1": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.0-rc.1",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.5"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "c95fd8c2f840291aec1439e5f21d3b3b2578031a451c85d954ee651a7506e59f",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.0-rc.1/com.mattshark.openflight-OpenFlight-1.6.0-rc.1.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.0-beta.7": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.0-beta.7",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.4.1 - 3.5"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "eebb8dd525c325007db2baf5b29f980b9694c78d3d012ed392d1129dac462187",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.0-beta.7/com.mattshark.openflight-OpenFlight-1.6.0-beta.7.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.0-beta.6": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.0-beta.6",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "~3.4.1"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "a2305d24aab2934706fbf87044d9f574363f74af368088a1965490ee83387f70",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.0-beta.6/com.mattshark.openflight-OpenFlight-1.6.0-beta.6.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.0-beta.5": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.0-beta.5",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "~3.4.1"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "b34f0c3df671dd71872f693b966ff21b6d3476f88534c086ad478e43908ae68d",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.0-beta.5/com.mattshark.openflight-OpenFlight-1.6.0-beta.5.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.0-beta.4": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.0-beta.4",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "~3.4.1",
+            "com.cyan.playerobjectpool": "^1.1.2"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "67805c8faaa7aade848789479d8b2731dabd5bcd16a45aadc9bb47173cc53cea",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.0-beta.4/com.mattshark.openflight-OpenFlight-1.6.0-beta.4.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.0-beta.3": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.0-beta.3",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3.0",
+            "com.vrchat.udonsharp": "^1.1.9",
+            "com.cyan.playerobjectpool": "^1.1.2"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "d88a360bbaad1e14eb9ae00e8411cd348c59c3e62defd9c9016c9d4e851aa374",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.0-beta.3/com.mattshark.openflight-OpenFlight-1.6.0-beta.3.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.0-beta.2": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.0-beta.2",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3.0",
+            "com.vrchat.udonsharp": "^1.1.9",
+            "com.cyan.playerobjectpool": "^1.1.2"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "0bc7cdb527d07c28ef34a47dd42f92e48143500e6b468b024f48619eddecf593",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.0-beta.2/com.mattshark.openflight-OpenFlight-1.6.0-beta.2.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.6.0-beta.1": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.6.0-beta.1",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.3.0",
+            "com.vrchat.udonsharp": "^1.1.9",
+            "com.cyan.playerobjectpool": "^1.1.2"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "595ca1cc51a1353526f622044a8c6170a99e0855b00c4818e9d9d3f76a0016cb",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.6.0-beta.1/com.mattshark.openflight-OpenFlight-1.6.0-beta.1.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.5.2": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.5.2",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.3",
+            "com.vrchat.udonsharp": "^1.1.9"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "718a3495bde73af8b63d0ae0f143c23a7ffc9995fc4df4e59ca53beafd8ca26f",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.5.2/com.mattshark.openflight-OpenFlight-1.5.2.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.5.2-beta.4": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.5.2-beta.4",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.3",
+            "com.vrchat.udonsharp": "^1.1.9"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "9d1f8f03e6933f518deb7e1398e98b54b710c8b0e748200b2318ec6ee8c1681e",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.5.2-beta.4/com.mattshark.openflight-OpenFlight-1.5.2-beta.4.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.5.2-beta.3": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.5.2-beta.3",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.3",
+            "com.vrchat.udonsharp": "^1.1.9"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "7127a6773d915a4e3b04a3570ac3e46482f5e22597210290ed5e332d430cee85",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.5.2-beta.3/com.mattshark.openflight-OpenFlight-1.5.2-beta.3.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.5.2-beta.2": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.5.2-beta.2",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.3",
+            "com.vrchat.udonsharp": "^1.1.9"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "a6c68685fd330514cc7fb7a29ae3dbc9c25b16a4608c63b27ed0227a2a48aa10",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.5.2-beta.2/com.mattshark.openflight-OpenFlight-1.5.2-beta.2.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.5.2-beta.1": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.5.2-beta.1",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.3",
+            "com.vrchat.udonsharp": "^1.1.9"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "e00af6c8fe21f4adc7e5a259357564497f40c41f1fab0fcb1799b4ff45810c85",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.5.2-beta.1/com.mattshark.openflight-OpenFlight-1.5.2-beta.1.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.5.1": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.5.1",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.3",
+            "com.vrchat.udonsharp": "^1.1.9"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "1aab89e9b9626cc5ddf6d52064bd7419c3bda93cd4699c33b131ac0e5e0457bf",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.5.1/com.mattshark.openflight-OpenFlight-1.5.1.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.5.0": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.5.0",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.3",
+            "com.vrchat.udonsharp": "^1.1.9"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "7ecd942e91d6476bcb751162855ace722784e6a02e819fa9b283d1f10e76fade",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.5.0/com.mattshark.openflight-OpenFlight-1.5.0.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.4.3": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.4.3",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.x",
+            "com.vrchat.udonsharp": "^1.1.8"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "45b02dcbfe5e964200b3775368004a0d82c36f10287d14d08de0886eaaf65caf",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.4.3/com.mattshark.openflight-OpenFlight-1.4.3.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.4.2": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.4.2",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.x",
+            "com.vrchat.udonsharp": "^1.1.8"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "406192da874d9f46b6152df8561c84be3bc93b68919b3fe822b7fdcdcd5048f5",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.4.2/com.mattshark.openflight-OpenFlight-1.4.2.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.4.1": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.4.1",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.x",
+            "com.vrchat.udonsharp": "^1.1.8"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "6c0e03dcaee2bdf001d35d4d3832e3d28582a76afad07980b6b9faf52e0bba63",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.4.1/com.mattshark.openflight-OpenFlight-1.4.1.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.4.0": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.4.0",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.x",
+            "com.vrchat.udonsharp": "^1.1.8"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "da053816bf032d5109b4ef1046176e7b58f6d111235a39546a7ce312b676e011",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.4.0/com.mattshark.openflight-OpenFlight-1.4.0.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.4.0-beta.2": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.4.0-beta.2",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.x",
+            "com.vrchat.udonsharp": "^1.1.8"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "decfc070ba72afc3b3b35e746feaed0ec08a50dcbdde1fa6b455b226a18c4eb1",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.4.0-beta.2/com.mattshark.openflight-OpenFlight-1.4.0-beta.2.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.4.0-beta.1": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.4.0-beta.1",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.x",
+            "com.vrchat.udonsharp": "^1.1.8"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "80538eacca71d8a758d6e3ce6df9de40ccf34a593efa12176a4447c78d96e3ce",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.4.0-beta.1/com.mattshark.openflight-OpenFlight-1.4.0-beta.1.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.3.1": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.3.1",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "^2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.2.x",
+            "com.vrchat.udonsharp": "^1.1.8"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "023c45bad56ef9c15ca8e3f4ee17be3d57e4c736fad9141b1b25aaa172d89fa2",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.3.1/com.mattshark.openflight-OpenFlight-1.3.1.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.3.0": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.3.0",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.2.0",
+            "com.vrchat.udonsharp": ">=1.1.7"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "ea687288cd16bd51575d1172e859bacb88789b38a0ebce5c7294aba269674094",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.3.0/com.mattshark.openflight-OpenFlight-1.3.0.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.2.7": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.2.7",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udonjson": ">=0.12.0"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "6d8441c6a39f99c8ee926785fdb223b4d4304b3e91200aaad69700d68632bbec",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.2.7/com.mattshark.openflight-OpenFlight-1.2.7.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.2.6": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.2.6",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udonjson": ">=0.12.0"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "2bdb9dc691e419ba1d79b2eb86fce6fc09168d9566f827be47373f6632df74aa",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.2.6/com.mattshark.openflight-OpenFlight-1.2.6.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.2.5": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.2.5",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udonjson": ">=0.12.0"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "5689ea28bb7b29e1a8f8f3ec891cd04c9586c314e23adfb65eedcda49d350719",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.2.5-BROKEN/com.mattshark.openflight-OpenFlight-1.2.5.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.2.4": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.2.4",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udonjson": ">=0.12.0"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "f82103b49d1b7b86dac2065c9b82d0bff74934e258659ca160d919b2273e5cb0",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.2.4/com.mattshark.openflight-OpenFlight-1.2.4.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.2.3": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.2.3",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udonjson": ">=0.12.0"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "c7757fb5e3a7ebec1e3bde2a32ee1b26a4edf4444d1ed8fe61f6aa6c15daf4fc",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.2.3/com.mattshark.openflight-OpenFlight-1.2.3.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.2.2": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.2.2",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udonjson": ">=0.12.0"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "0de776eb5aa1a22508529089e8629d9ef9872e0a789f6da31cbf64ce0d89221d",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.2.2/com.mattshark.openflight-OpenFlight-1.2.2.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.2.1": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.2.1",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udonjson": ">=0.12.0"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "05604c7aaed6140a3cdd6b1b444f1259ba7f6c1371fe9e284b6027edab27a488",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.2.1/com.mattshark.openflight-OpenFlight-1.2.1.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.2.0": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.2.0",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udonjson": ">=0.12.0"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "39695d8b18c9958ccebd53319a1697740f9c8fea465d0b1cf5b5054ab068ae63",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.2.0/com.mattshark.openflight-OpenFlight-1.2.0.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.1.3": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.1.3",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udondictionary": ">=0.9.2",
+            "net.koyashiro.udonjson": ">=0.12.0",
+            "net.koyashiro.udonlist": ">=0.14.2"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "254b3ce34627968009c5fe1fcae9de942fdadeb7210c6cdcecbdf22cab578dd8",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.1.3/com.mattshark.openflight-OpenFlight-1.1.3.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.1.2": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.1.2",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udondictionary": ">=0.9.2",
+            "net.koyashiro.udonjson": ">=0.12.0",
+            "net.koyashiro.udonlist": ">=0.14.2"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "0e9ed60ed8920c60578b69c244a564ea60dbb78d5e127f1762ed7f3a49f2becf",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/OpenFlight-1.1.2/com.mattshark.openflight-OpenFlight-1.1.2.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.1.1": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.1.1",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udondictionary": ">=0.9.2",
+            "net.koyashiro.udonjson": ">=0.12.0",
+            "net.koyashiro.udonlist": ">=0.14.2"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "5bb457e9d6214c330d71ca39fec0778680bb81cb03f8506854c9a3fe7ad090af",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/1.1.1/com.mattshark.openflight-1.1.1.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        },
+        "1.1.0": {
+          "name": "com.mattshark.openflight",
+          "displayName": "OpenFlight",
+          "version": "1.1.0",
+          "description": "A VRChat flight system that allow all kinds of avatars to fly. https://github.com/Mattshark89/OpenFlight-VRC",
+          "dependencies": {
+            "com.unity.textmeshpro": "2.1.6"
+          },
+          "gitDependencies": {},
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.1.11",
+            "com.vrchat.udonsharp": ">=1.1.7",
+            "net.koyashiro.udondictionary": ">=0.9.2",
+            "net.koyashiro.udonjson": ">=0.12.0",
+            "net.koyashiro.udonlist": ">=0.14.2"
+          },
+          "author": {
+            "name": "Mattshark89, Happyrobot33"
+          },
+          "license": "MIT",
+          "zipSHA256": "3209fa1e893b829a4157816e560ec23482e806780d3c6ec7be9030c487b5db4b",
+          "url": "https://github.com/Mattshark89/OpenFlight-VRC/releases/download/1.1.0/com.mattshark.openflight-1.1.0.zip",
+          "legacyFolders": {
+            "Assets/OpenFlight-VRC": "e7b9695e841ecee4fbad1eaafeb82bdb"
+          },
+          "legacyFiles": {}
+        }
+      }
+    },
+    "com.kemocade.vrc.api.reader": {
+      "versions": {
         "1.0.1": {
-          "name": "com.vrsuya.materialoptimizer",
+          "name": "com.kemocade.vrc.api.reader",
+          "displayName": "VRChat API Reader",
           "version": "1.0.1",
-          "displayName": "VRSuya - MaterialOptimizer",
-          "description": "VRChat Avatar Material Optimization Program",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/MaterialOptimizer/releases/download/1.01/com.vrsuya.materialoptimizer-1.0.1.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "description": "VRChat API Reader",
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        }
-      }
-    },
-    "com.vrsuya.portraitcamera": {
-      "versions": {
+            "com.vrchat.worlds": "^3.4.0"
+          },
+          "author": {
+            "name": "dustuu",
+            "email": "dustuu@kemocade.com",
+            "url": "https://kemocade.com"
+          },
+          "zipSHA256": "2872cb59c8c986b37e1a510dca4f7b249ba59befce5a73b9618eb15f1290cd37",
+          "url": "https://github.com/kemocade/Kemocade.Vrc.Api.Reader/releases/download/1.0.1/com.kemocade.vrc.api.reader-1.0.1.zip"
+        },
         "1.0.0": {
-          "name": "com.vrsuya.portraitcamera",
+          "name": "com.kemocade.vrc.api.reader",
+          "displayName": "VRChat API Reader",
           "version": "1.0.0",
-          "displayName": "VRSuya - PortraitCamera",
-          "description": "VRChat Avatar Thumbnail Camera",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/PortraitCamera/releases/download/1.00/com.vrsuya.portraitcamera-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "description": "VRChat API Reader",
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        }
-      }
-    },
-    "com.vrsuya.avatarscaler": {
-      "versions": {
-        "1.0.0": {
-          "name": "com.vrsuya.avatarscaler",
-          "version": "1.0.0",
-          "displayName": "VRSuya - AvatarScaler",
-          "description": "VRChat Avatar Automatic Scaling Program",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
+            "com.vrchat.udonsharp": "^1.1.9"
           },
-          "url": "https://github.com/crestudio/AvatarScaler/releases/download/1.00/com.vrsuya.avatarscaler-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
+          "author": {
+            "name": "dustuu",
+            "email": "dustuu@kemocade.com",
+            "url": "https://kemocade.com"
+          },
+          "zipSHA256": "2288a2c0a9a6afd5d519048583d143f075ec42e0184b4a678949f20ddf51db7e",
+          "url": "https://github.com/kemocade/Kemocade.Vrc.Api.Reader/releases/download/1.0.0/com.kemocade.vrc.api.reader-1.0.0.zip"
         }
       }
     }
